@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-09T23:05:05.799255",
+  "last_updated": "2026-08-10T06:55:59.248773",
   "sent_items": {
-    "3ad9e4d56d0d1b46": {
-      "date": "2026-07-10",
-      "title": "ChatCut",
-      "source": "producthunt"
-    },
-    "c1293631b720705f": {
-      "date": "2026-07-10",
-      "title": "PlugThis",
-      "source": "producthunt"
-    },
-    "9b921e9360e28fc6": {
-      "date": "2026-07-10",
-      "title": "StoryChief Connect",
-      "source": "producthunt"
-    },
-    "5f55b7f0dc1442cd": {
-      "date": "2026-07-10",
-      "title": "Mispher",
-      "source": "producthunt"
-    },
-    "7ad60b634430aa32": {
-      "date": "2026-07-10",
-      "title": "Juicy",
-      "source": "producthunt"
-    },
-    "3c486a4c0c5d6fe2": {
-      "date": "2026-07-10",
-      "title": "RepStandard",
-      "source": "producthunt"
-    },
-    "ce8620f2b3648316": {
-      "date": "2026-07-10",
-      "title": "Ship OS by Notion",
-      "source": "producthunt"
-    },
-    "b208c3d8837c1ee6": {
-      "date": "2026-07-10",
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "source": "hackernews"
-    },
-    "5dfabe863515b014": {
-      "date": "2026-07-10",
-      "title": "New York City to to ban deceptive subscription practices",
-      "source": "hackernews"
-    },
-    "4910c8c33b272315": {
-      "date": "2026-07-10",
-      "title": "Good Tools Are Invisible",
-      "source": "hackernews"
-    },
-    "7cb0bf9414fdab89": {
-      "date": "2026-07-10",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "source": "hackernews"
-    },
-    "c6113a7431def3b3": {
-      "date": "2026-07-10",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "source": "hackernews"
-    },
-    "a6ed0d78a7a5bef2": {
-      "date": "2026-07-10",
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "source": "hackernews"
-    },
-    "91424ae120108acf": {
-      "date": "2026-07-10",
-      "title": "Combustion engine web-based simulator",
-      "source": "hackernews"
-    },
-    "115e49494d8560cb": {
-      "date": "2026-07-10",
-      "title": "Computation as a universal and fundamental concept",
-      "source": "hackernews"
-    },
-    "b1b7fe6054ff32f6": {
-      "date": "2026-07-10",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "source": "hackernews"
-    },
-    "04f02623c0472c0e": {
-      "date": "2026-07-10",
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "source": "hackernews"
-    },
-    "9a76eec2a2cd5f94": {
-      "date": "2026-07-10",
-      "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an M",
-      "source": "devto"
-    },
-    "ceb0010c1df95d71": {
-      "date": "2026-07-10",
-      "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
-      "source": "devto"
-    },
-    "10a3411b74185335": {
-      "date": "2026-07-10",
-      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
-      "source": "devto"
-    },
-    "21ddb138be17b7e6": {
-      "date": "2026-07-10",
-      "title": "Is It Ethical to Post and Ask About Circuits on Dev.to?",
-      "source": "devto"
-    },
-    "58e972fa073e832f": {
-      "date": "2026-07-10",
-      "title": "The Sword of Damocles at Work: The Human Cost of Delayed Layoffs",
-      "source": "devto"
-    },
-    "bf0452da1c604503": {
-      "date": "2026-07-10",
-      "title": "Stratagems #10: Lena Watched a Team Adopt Her AI Template. Leo Didn't Know the Knife Was in the Cont",
-      "source": "devto"
-    },
-    "9c0dcaff9642c754": {
-      "date": "2026-07-10",
-      "title": "How I Built a Zero-Cloud AI Memory OS for Android 📱🧠",
-      "source": "devto"
-    },
-    "ee0f2991da7d06f8": {
-      "date": "2026-07-10",
-      "title": "The Rise of Koshary Code",
-      "source": "devto"
-    },
-    "c6842e0dd976db58": {
-      "date": "2026-07-10",
-      "title": "FinPal - I Built a Finance App You Can Actually Ask Questions To",
-      "source": "devto"
-    },
-    "28f27ac5b013d248": {
-      "date": "2026-07-10",
-      "title": "I Built a Linter That Catches the Security Bugs AI Assistants Keep Writing",
-      "source": "devto"
-    },
-    "d0e94d130828eeee": {
-      "date": "2026-07-10",
-      "title": "oven-sh / bun",
-      "source": "github"
-    },
-    "7b96a8713f54316d": {
-      "date": "2026-07-10",
-      "title": "abseil / abseil-cpp",
-      "source": "github"
-    },
-    "e0eb31222492034e": {
-      "date": "2026-07-10",
-      "title": "jbeder / yaml-cpp",
-      "source": "github"
-    },
-    "056bb02146300a1b": {
-      "date": "2026-07-10",
-      "title": "microsoft / TypeScript",
-      "source": "github"
-    },
-    "2e11ed46319e0069": {
-      "date": "2026-07-10",
-      "title": "catchorg / Catch2",
-      "source": "github"
-    },
-    "1529ac3945ee1527": {
-      "date": "2026-07-10",
-      "title": "chriskohlhoff / asio",
-      "source": "github"
-    },
-    "95ae7120d6074efd": {
-      "date": "2026-07-10",
-      "title": "davila7 / claude-code-templates",
-      "source": "github"
-    },
-    "e40e6547343a680e": {
-      "date": "2026-07-10",
-      "title": "zeux / meshoptimizer",
-      "source": "github"
-    },
-    "47503397d9e427e0": {
-      "date": "2026-07-10",
-      "title": "tailscale / tailscale",
-      "source": "github"
-    },
-    "f73b7c861bcc0e09": {
-      "date": "2026-07-10",
-      "title": "google-labs-code / stitch-skills",
-      "source": "github"
-    },
     "685cddaf8af416e8": {
       "date": "2026-07-11",
       "title": "Prefer strict tables in SQLite",
@@ -5060,6 +4875,81 @@
     "c25dc9e46c7624a4": {
       "date": "2026-08-09",
       "title": "I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.",
+      "source": "devto"
+    },
+    "654273d093b087f3": {
+      "date": "2026-08-10",
+      "title": "What Happened to HackerOne?",
+      "source": "hackernews"
+    },
+    "796635d12b27805f": {
+      "date": "2026-08-10",
+      "title": "Auto mode is now the default in Claude Code",
+      "source": "hackernews"
+    },
+    "505fb262895ec4bf": {
+      "date": "2026-08-10",
+      "title": "How We Pushed CDC into Postgres",
+      "source": "hackernews"
+    },
+    "2a66c41bb53b0e14": {
+      "date": "2026-08-10",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "source": "hackernews"
+    },
+    "51e3d9e70ee95a79": {
+      "date": "2026-08-10",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "source": "hackernews"
+    },
+    "12ff5d29113f9c5e": {
+      "date": "2026-08-10",
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "source": "hackernews"
+    },
+    "ca78138e899a2b3f": {
+      "date": "2026-08-10",
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "source": "hackernews"
+    },
+    "e105a5f866f7703c": {
+      "date": "2026-08-10",
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "source": "hackernews"
+    },
+    "9904dbebc30be947": {
+      "date": "2026-08-10",
+      "title": "Slap ROM Patcher",
+      "source": "hackernews"
+    },
+    "5020d229ca512ec8": {
+      "date": "2026-08-10",
+      "title": "Grok Imagine 2.0",
+      "source": "producthunt"
+    },
+    "065a57c98e91dce3": {
+      "date": "2026-08-10",
+      "title": "radiusHQ",
+      "source": "producthunt"
+    },
+    "7d95565645f62e70": {
+      "date": "2026-08-10",
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "source": "devto"
+    },
+    "d8ec7c4d468d4aff": {
+      "date": "2026-08-10",
+      "title": "Exploring Sentry: Reducing Load Time 🐢",
+      "source": "devto"
+    },
+    "0b31cedf77f3739d": {
+      "date": "2026-08-10",
+      "title": "My Self-Evolving AI Agent Kept Passing Its Own Tests. The Code Had Never Run",
+      "source": "devto"
+    },
+    "77aefba2d6552e15": {
+      "date": "2026-08-10",
+      "title": "What I learned building a long-lived AI agent (the boring version)",
       "source": "devto"
     }
   }
