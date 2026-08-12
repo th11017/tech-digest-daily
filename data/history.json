@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-11T00:04:44.498146",
+  "last_updated": "2026-08-12T05:14:39.989948",
   "sent_items": {
-    "9aba0e82d9f455c5": {
-      "date": "2026-07-12",
-      "title": "JustVibe",
-      "source": "producthunt"
-    },
-    "49bc96cff18fe62d": {
-      "date": "2026-07-12",
-      "title": "Miora",
-      "source": "producthunt"
-    },
-    "af30ea7b31515aac": {
-      "date": "2026-07-12",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "source": "hackernews"
-    },
-    "daad41f528e7a68b": {
-      "date": "2026-07-12",
-      "title": "Old and new apps, via modern coding agents",
-      "source": "hackernews"
-    },
-    "a9b26234683f415e": {
-      "date": "2026-07-12",
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "source": "hackernews"
-    },
-    "f3db4b73f52de005": {
-      "date": "2026-07-12",
-      "title": "Irish datacenters now guzzle 23% of the country's electricity",
-      "source": "hackernews"
-    },
-    "b41a722ba9edfcde": {
-      "date": "2026-07-12",
-      "title": "Tiny Emulators",
-      "source": "hackernews"
-    },
-    "389409443cc9e997": {
-      "date": "2026-07-12",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "source": "hackernews"
-    },
-    "8bf58e13a3bbb9f5": {
-      "date": "2026-07-12",
-      "title": "How we can reduce traffic congestion",
-      "source": "hackernews"
-    },
-    "35f7f42a45eb1a83": {
-      "date": "2026-07-12",
-      "title": "So you want to learn physics (second edition, 2021)",
-      "source": "hackernews"
-    },
-    "5d341736b0dd0bb1": {
-      "date": "2026-07-12",
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "source": "hackernews"
-    },
-    "928d262bf540249c": {
-      "date": "2026-07-12",
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "source": "hackernews"
-    },
-    "8c171384c4cda195": {
-      "date": "2026-07-12",
-      "title": "Dicklesworthstone / destructive_command_guard",
-      "source": "github"
-    },
-    "3888eecb3f450ecd": {
-      "date": "2026-07-12",
-      "title": "HKUDS / Vibe-Trading",
-      "source": "github"
-    },
-    "3687a0874b5239a5": {
-      "date": "2026-07-12",
-      "title": "PrefectHQ / prefect",
-      "source": "github"
-    },
-    "46405393d4f50fd7": {
-      "date": "2026-07-12",
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "source": "github"
-    },
-    "41a6a86637e67fe4": {
-      "date": "2026-07-12",
-      "title": "Crosstalk-Solutions / project-nomad",
-      "source": "github"
-    },
-    "b454287131ed0d92": {
-      "date": "2026-07-12",
-      "title": "ColeMurray / background-agents",
-      "source": "github"
-    },
-    "1c3e1f88dc2dc347": {
-      "date": "2026-07-12",
-      "title": "k1tbyte / Wand-Enhancer",
-      "source": "github"
-    },
-    "d2e7f6acabc603da": {
-      "date": "2026-07-12",
-      "title": "pingdotgg / t3code",
-      "source": "github"
-    },
-    "86aa53f1b07692ef": {
-      "date": "2026-07-12",
-      "title": "virattt / ai-hedge-fund",
-      "source": "github"
-    },
-    "f41dcfa2746bceff": {
-      "date": "2026-07-12",
-      "title": "chen08209 / FlClash",
-      "source": "github"
-    },
-    "0778cebbc87da2f7": {
-      "date": "2026-07-12",
-      "title": "par274 / sharpemu",
-      "source": "github"
-    },
-    "dffdedb326e70836": {
-      "date": "2026-07-12",
-      "title": "I Built a Graveyard for My Dead Side Projects - With AI Eulogies & a 3D Cemetery",
-      "source": "devto"
-    },
-    "6ebc03c2e796a540": {
-      "date": "2026-07-12",
-      "title": "I Love Fragrances, So I Built a 6-Game Arcade + Concierge About My Obsession",
-      "source": "devto"
-    },
-    "52ca01f082778330": {
-      "date": "2026-07-12",
-      "title": "Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.",
-      "source": "devto"
-    },
-    "9709716b097e25c1": {
-      "date": "2026-07-12",
-      "title": "I Poked a 10-Year-Old Chat Protocol With a Stick",
-      "source": "devto"
-    },
-    "266b0885a49f2e5d": {
-      "date": "2026-07-12",
-      "title": "Building Minelog, a Minecraft Travel Log Web App",
-      "source": "devto"
-    },
-    "7ec5b6a0f0067531": {
-      "date": "2026-07-12",
-      "title": "Simple Benchmark Review: Ollama on Jetson Nano",
-      "source": "devto"
-    },
-    "c1401028bbda5cb8": {
-      "date": "2026-07-12",
-      "title": "Passion Atlas: A Living Map of Human Curiosity",
-      "source": "devto"
-    },
-    "a0e112d4a1d0f904": {
-      "date": "2026-07-12",
-      "title": "Stratagems #12: Mark Watched an AI Dashboard Take Over. The Muted Channel Was Still Speaking.",
-      "source": "devto"
-    },
-    "0469a1670151e018": {
-      "date": "2026-07-12",
-      "title": "Four signals I built into an OSS decision score instead of fabricating reviews",
-      "source": "devto"
-    },
-    "7202eb9a70969986": {
-      "date": "2026-07-12",
-      "title": "For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics",
-      "source": "devto"
-    },
     "a55ad66e04ebf4e7": {
       "date": "2026-07-13",
       "title": "AgentKey",
@@ -4955,6 +4790,181 @@
     "49a1c7e387a4e695": {
       "date": "2026-08-11",
       "title": "firecrawl / firecrawl",
+      "source": "github"
+    },
+    "6a457ad709cce9f6": {
+      "date": "2026-08-12",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "source": "hackernews"
+    },
+    "9810393c5d6615b7": {
+      "date": "2026-08-12",
+      "title": "Compression is prediction",
+      "source": "hackernews"
+    },
+    "875555974265e36b": {
+      "date": "2026-08-12",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "source": "hackernews"
+    },
+    "01ed58edb8ffe7b8": {
+      "date": "2026-08-12",
+      "title": "Mojo 1.0",
+      "source": "hackernews"
+    },
+    "39c0907ab4edff65": {
+      "date": "2026-08-12",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "source": "hackernews"
+    },
+    "9f0fe248997547f5": {
+      "date": "2026-08-12",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "source": "hackernews"
+    },
+    "fd0a75ee6e35096e": {
+      "date": "2026-08-12",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "source": "hackernews"
+    },
+    "f7d79ad25487d5d6": {
+      "date": "2026-08-12",
+      "title": "The hardest working font in Manhattan (2025)",
+      "source": "hackernews"
+    },
+    "45b2a98ac3f1908a": {
+      "date": "2026-08-12",
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "source": "hackernews"
+    },
+    "6249b54a4d3015f2": {
+      "date": "2026-08-12",
+      "title": "The Human Is the Loop",
+      "source": "hackernews"
+    },
+    "a45fbfe3a341d73a": {
+      "date": "2026-08-12",
+      "title": "Tines 3B",
+      "source": "producthunt"
+    },
+    "77e101c882b8b902": {
+      "date": "2026-08-12",
+      "title": "AdmitRaven",
+      "source": "producthunt"
+    },
+    "1dfc16ee390f401f": {
+      "date": "2026-08-12",
+      "title": "Gotcha",
+      "source": "producthunt"
+    },
+    "c0312cd374dbd04e": {
+      "date": "2026-08-12",
+      "title": "Bullet",
+      "source": "producthunt"
+    },
+    "df38d51d0c858b78": {
+      "date": "2026-08-12",
+      "title": "bb",
+      "source": "producthunt"
+    },
+    "ff8142a34b4858c1": {
+      "date": "2026-08-12",
+      "title": "Continuum",
+      "source": "producthunt"
+    },
+    "d84da68054b9eba4": {
+      "date": "2026-08-12",
+      "title": "ScreenMark",
+      "source": "producthunt"
+    },
+    "4a1388ef1c8609fa": {
+      "date": "2026-08-12",
+      "title": "Switchy for Mac",
+      "source": "producthunt"
+    },
+    "c95198328f6a5f50": {
+      "date": "2026-08-12",
+      "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
+      "source": "devto"
+    },
+    "a31a488718c7f672": {
+      "date": "2026-08-12",
+      "title": "Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal",
+      "source": "devto"
+    },
+    "0ba014dd12fe6157": {
+      "date": "2026-08-12",
+      "title": "Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)",
+      "source": "devto"
+    },
+    "8ecc2bd4ecf80694": {
+      "date": "2026-08-12",
+      "title": "Pi Agent vs Claude Code After 100 Hours of Real Use 🔥",
+      "source": "devto"
+    },
+    "64335e2f1eebd39f": {
+      "date": "2026-08-12",
+      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+      "source": "devto"
+    },
+    "8ba001642f31d85b": {
+      "date": "2026-08-12",
+      "title": "Ignition: Flashing 2,300 conference badges with Temporal",
+      "source": "devto"
+    },
+    "82cff15334c56709": {
+      "date": "2026-08-12",
+      "title": "Three Pastry Chefs Walk Into a Kitchen",
+      "source": "devto"
+    },
+    "b7aff8d3bde44d7e": {
+      "date": "2026-08-12",
+      "title": "Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked",
+      "source": "devto"
+    },
+    "10d6a1db92ed2468": {
+      "date": "2026-08-12",
+      "title": "Dev log #16 Typographic Hierarchy and the Great Obsidian Purge",
+      "source": "devto"
+    },
+    "c0d63eee83c34557": {
+      "date": "2026-08-12",
+      "title": "The Mechanical vs. The Semantic: What Happens When AI Memory is Wrong?",
+      "source": "devto"
+    },
+    "e2e3cda3fa2e6709": {
+      "date": "2026-08-12",
+      "title": "nvm-sh / nvm",
+      "source": "github"
+    },
+    "ea97e2f9b3078078": {
+      "date": "2026-08-12",
+      "title": "anthropics / skills",
+      "source": "github"
+    },
+    "e41e0f15f042a511": {
+      "date": "2026-08-12",
+      "title": "3b1b / manim",
+      "source": "github"
+    },
+    "d7dc32f00be2e8f5": {
+      "date": "2026-08-12",
+      "title": "stablyai / orca",
+      "source": "github"
+    },
+    "cf909fcdfc721ecc": {
+      "date": "2026-08-12",
+      "title": "huggingface / transformers",
+      "source": "github"
+    },
+    "db0a3545143e00a3": {
+      "date": "2026-08-12",
+      "title": "jaywcjlove / awesome-mac",
+      "source": "github"
+    },
+    "20703a86e2b01e24": {
+      "date": "2026-08-12",
+      "title": "calesthio / OpenMontage",
       "source": "github"
     }
   }
