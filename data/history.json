@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-12T05:14:39.989948",
+  "last_updated": "2026-08-13T05:20:20.931857",
   "sent_items": {
-    "a55ad66e04ebf4e7": {
-      "date": "2026-07-13",
-      "title": "AgentKey",
-      "source": "producthunt"
-    },
-    "2a7e30301e6af3ab": {
-      "date": "2026-07-13",
-      "title": "Marked QL",
-      "source": "producthunt"
-    },
-    "9027c680cf89e1c3": {
-      "date": "2026-07-13",
-      "title": "Knockoff",
-      "source": "producthunt"
-    },
-    "0a04a9dfff60151a": {
-      "date": "2026-07-13",
-      "title": "Playground",
-      "source": "producthunt"
-    },
-    "65957b01597c895a": {
-      "date": "2026-07-13",
-      "title": "TailMux",
-      "source": "producthunt"
-    },
-    "010384c05cc8930a": {
-      "date": "2026-07-13",
-      "title": "NoMac.app",
-      "source": "producthunt"
-    },
-    "10c358e42867dcb3": {
-      "date": "2026-07-13",
-      "title": "Fudge MCP",
-      "source": "producthunt"
-    },
-    "9f628f289cef7e88": {
-      "date": "2026-07-13",
-      "title": "Simba Voice Agents",
-      "source": "producthunt"
-    },
-    "f7cc71af96a7107d": {
-      "date": "2026-07-13",
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "source": "hackernews"
-    },
-    "7605eb36ed89407a": {
-      "date": "2026-07-13",
-      "title": "Telegram's t.me domain has been suspended",
-      "source": "hackernews"
-    },
-    "7b3fbdf162a98078": {
-      "date": "2026-07-13",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "source": "hackernews"
-    },
-    "b99e7ca5715350f4": {
-      "date": "2026-07-13",
-      "title": "The art and engineering of Sega CD Silpheed",
-      "source": "hackernews"
-    },
-    "d2fab8a1db1dcfe4": {
-      "date": "2026-07-13",
-      "title": "The real prices of frontier models",
-      "source": "hackernews"
-    },
-    "858c8707ea08cdc7": {
-      "date": "2026-07-13",
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-      "source": "hackernews"
-    },
-    "6532a89f0c5b507f": {
-      "date": "2026-07-13",
-      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-      "source": "hackernews"
-    },
-    "d360f85aed1a2e7b": {
-      "date": "2026-07-13",
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "source": "hackernews"
-    },
-    "3589b4c0d89ed571": {
-      "date": "2026-07-13",
-      "title": "Claude is just Mr. Meeseeks",
-      "source": "hackernews"
-    },
-    "6830fabd345ab305": {
-      "date": "2026-07-13",
-      "title": "‘Asia's cleanest village’ bans tourists on Sundays",
-      "source": "hackernews"
-    },
-    "d877e72a1b1804cb": {
-      "date": "2026-07-13",
-      "title": "OpenCut-app / OpenCut",
-      "source": "github"
-    },
-    "ebe69a8411ca36d3": {
-      "date": "2026-07-13",
-      "title": "moeru-ai / airi",
-      "source": "github"
-    },
-    "c88c01cfd244fd4b": {
-      "date": "2026-07-13",
-      "title": "Nutlope / hallmark",
-      "source": "github"
-    },
-    "68a6c284cff5d619": {
-      "date": "2026-07-13",
-      "title": "Graphify-Labs / graphify",
-      "source": "github"
-    },
-    "8a080a19e7684f78": {
-      "date": "2026-07-13",
-      "title": "github / spec-kit",
-      "source": "github"
-    },
-    "0d4094c6bede621a": {
-      "date": "2026-07-13",
-      "title": "The Myth of the Post-Documentation Era",
-      "source": "devto"
-    },
-    "2e30abbef411517e": {
-      "date": "2026-07-13",
-      "title": "my ai coding session burns more power than the average nigerian gets all day.",
-      "source": "devto"
-    },
-    "dcd588e502c0d2cd": {
-      "date": "2026-07-13",
-      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "source": "devto"
-    },
-    "177128ced055f165": {
-      "date": "2026-07-13",
-      "title": "What are your goals for the week? #187",
-      "source": "devto"
-    },
-    "0d24977e8f3b28ea": {
-      "date": "2026-07-13",
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "source": "devto"
-    },
-    "95104359b0486389": {
-      "date": "2026-07-13",
-      "title": "I am that I am.",
-      "source": "devto"
-    },
-    "f4229da249669197": {
-      "date": "2026-07-13",
-      "title": "Fusuma: Write Markdown, Get Slides, PDFs, and a Self-Made Social Card",
-      "source": "devto"
-    },
-    "25c0276b7ba1966c": {
-      "date": "2026-07-13",
-      "title": "I Built a Monitor for Servers. Then Pointed It at Myself.",
-      "source": "devto"
-    },
-    "5683e2a319bc073b": {
-      "date": "2026-07-13",
-      "title": "I Built an AI That Turns Your Passion Into a Cinematic Origin Story",
-      "source": "devto"
-    },
-    "affb8c9cf0b20028": {
-      "date": "2026-07-13",
-      "title": "I Could Review It. I Couldn’t Write It.",
-      "source": "devto"
-    },
     "bd2f3612c99b0d58": {
       "date": "2026-07-14",
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
@@ -4965,6 +4800,186 @@
     "20703a86e2b01e24": {
       "date": "2026-08-12",
       "title": "calesthio / OpenMontage",
+      "source": "github"
+    },
+    "5ed82f94679f459c": {
+      "date": "2026-08-13",
+      "title": "Swipe",
+      "source": "producthunt"
+    },
+    "2b59900805188da8": {
+      "date": "2026-08-13",
+      "title": "Dograh",
+      "source": "producthunt"
+    },
+    "8c6833d191499aa9": {
+      "date": "2026-08-13",
+      "title": "Sidekick™",
+      "source": "producthunt"
+    },
+    "d0b04cec22b64182": {
+      "date": "2026-08-13",
+      "title": "RightCard",
+      "source": "producthunt"
+    },
+    "7506f9b9c8873cbe": {
+      "date": "2026-08-13",
+      "title": "BearDrive",
+      "source": "producthunt"
+    },
+    "5a5f4bd60fc473d3": {
+      "date": "2026-08-13",
+      "title": "CodeBurn",
+      "source": "producthunt"
+    },
+    "bdce6839f092dc57": {
+      "date": "2026-08-13",
+      "title": "tash",
+      "source": "producthunt"
+    },
+    "bc1f856e9a4a53eb": {
+      "date": "2026-08-13",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "source": "hackernews"
+    },
+    "407e683521748e9d": {
+      "date": "2026-08-13",
+      "title": "DeepSeek V4 Pro 0813",
+      "source": "hackernews"
+    },
+    "4b3c0e16bb3f45a1": {
+      "date": "2026-08-13",
+      "title": "Qwen3.8-2.4T",
+      "source": "hackernews"
+    },
+    "e5b265718d984b5c": {
+      "date": "2026-08-13",
+      "title": "Delta",
+      "source": "hackernews"
+    },
+    "e7aab50d2d4e6817": {
+      "date": "2026-08-13",
+      "title": "2026 Eclipse Webcams",
+      "source": "hackernews"
+    },
+    "ee25b678507e018a": {
+      "date": "2026-08-13",
+      "title": "Principia Mathematica is modern and insightful",
+      "source": "hackernews"
+    },
+    "b62c34f4af7d2b47": {
+      "date": "2026-08-13",
+      "title": "Build Wide, Ship Narrow",
+      "source": "hackernews"
+    },
+    "4bf286c1807ebe25": {
+      "date": "2026-08-13",
+      "title": "Why Target Common Lisp for Code Generation?",
+      "source": "hackernews"
+    },
+    "c32b0023fddfeb54": {
+      "date": "2026-08-13",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "source": "hackernews"
+    },
+    "e9e6822e95674c68": {
+      "date": "2026-08-13",
+      "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
+      "source": "hackernews"
+    },
+    "895c96348c8882c7": {
+      "date": "2026-08-13",
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "source": "devto"
+    },
+    "0bac95036ad64909": {
+      "date": "2026-08-13",
+      "title": "The Next Evolution of Software Developers",
+      "source": "devto"
+    },
+    "4afcb5a049ac13ea": {
+      "date": "2026-08-13",
+      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
+      "source": "devto"
+    },
+    "d7d53b80ccae97ca": {
+      "date": "2026-08-13",
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "source": "devto"
+    },
+    "8546c59f41b6ecaf": {
+      "date": "2026-08-13",
+      "title": "Stop Pretending To Do Domain-Driven Design",
+      "source": "devto"
+    },
+    "2ed115076a842191": {
+      "date": "2026-08-13",
+      "title": "I Tried Building a Website With AI From My Phone",
+      "source": "devto"
+    },
+    "7fe745e183a83ec4": {
+      "date": "2026-08-13",
+      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
+      "source": "devto"
+    },
+    "992659834be178a6": {
+      "date": "2026-08-13",
+      "title": "Stop the event loop stall: a Sentry Python SDK fix for slow local-variable capture",
+      "source": "devto"
+    },
+    "61e33e33dbc603bd": {
+      "date": "2026-08-13",
+      "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
+      "source": "devto"
+    },
+    "450d2ecb1b13e817": {
+      "date": "2026-08-13",
+      "title": "I Automated My Entire GitOps Security Stack. The First Thing It Blocked Was My Own Salary.",
+      "source": "devto"
+    },
+    "f0faec98f86e4fde": {
+      "date": "2026-08-13",
+      "title": "cathrynlavery / diagram-design",
+      "source": "github"
+    },
+    "bbfc2ca772d59109": {
+      "date": "2026-08-13",
+      "title": "macro-inc / macro",
+      "source": "github"
+    },
+    "26454b4b1f40da47": {
+      "date": "2026-08-13",
+      "title": "hugohe3 / ppt-master",
+      "source": "github"
+    },
+    "d7078bd140381c80": {
+      "date": "2026-08-13",
+      "title": "infiniflow / ragflow",
+      "source": "github"
+    },
+    "515eeefe62e349b0": {
+      "date": "2026-08-13",
+      "title": "NVIDIA-NeMo / Switchyard",
+      "source": "github"
+    },
+    "e413ca598b2e8b59": {
+      "date": "2026-08-13",
+      "title": "ZuodaoTech / everyone-can-use-english",
+      "source": "github"
+    },
+    "d5c3c51d6e6ce977": {
+      "date": "2026-08-13",
+      "title": "smicallef / spiderfoot",
+      "source": "github"
+    },
+    "84856bae44e50ca8": {
+      "date": "2026-08-13",
+      "title": "localsend / localsend",
+      "source": "github"
+    },
+    "9a4ea7a4f9427fb4": {
+      "date": "2026-08-13",
+      "title": "Lightricks / LTX-2",
       "source": "github"
     }
   }
