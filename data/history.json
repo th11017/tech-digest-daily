@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-28T22:43:18.744423",
+  "last_updated": "2026-08-29T22:43:12.145485",
   "sent_items": {
-    "549630efb5b39c3c": {
-      "date": "2026-07-29",
-      "title": "KOReader",
-      "source": "hackernews"
-    },
-    "e50aac1017d1f915": {
-      "date": "2026-07-29",
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "source": "hackernews"
-    },
-    "377f5ac875144055": {
-      "date": "2026-07-29",
-      "title": "Superlogical",
-      "source": "hackernews"
-    },
-    "bdb17025d67218b2": {
-      "date": "2026-07-29",
-      "title": "Kimi K3-256k",
-      "source": "hackernews"
-    },
-    "92e6cbdb00f77163": {
-      "date": "2026-07-29",
-      "title": "The coolest use for the Vision Pro",
-      "source": "hackernews"
-    },
-    "45ee50f08ad37dbc": {
-      "date": "2026-07-29",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "source": "hackernews"
-    },
-    "77fdc712014a2ba2": {
-      "date": "2026-07-29",
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "source": "hackernews"
-    },
-    "1bb6a0f5101fa13b": {
-      "date": "2026-07-29",
-      "title": "AI's top startups are barely publishing their research",
-      "source": "hackernews"
-    },
-    "baa2ee0191ec5cb1": {
-      "date": "2026-07-29",
-      "title": "The Cold Email",
-      "source": "hackernews"
-    },
-    "69e23fb3bf0c229b": {
-      "date": "2026-07-29",
-      "title": "GitHub is the wrong shape for this new world",
-      "source": "hackernews"
-    },
-    "e095704304933c54": {
-      "date": "2026-07-29",
-      "title": "Vela",
-      "source": "producthunt"
-    },
-    "a74bd16a9c43c39d": {
-      "date": "2026-07-29",
-      "title": "Epilude",
-      "source": "producthunt"
-    },
-    "3993fa26004a7247": {
-      "date": "2026-07-29",
-      "title": "Task Monki",
-      "source": "producthunt"
-    },
-    "97381e6727806b5d": {
-      "date": "2026-07-29",
-      "title": "Bo AI",
-      "source": "producthunt"
-    },
-    "4cdb265c45c42eea": {
-      "date": "2026-07-29",
-      "title": "MemoryCustodian",
-      "source": "producthunt"
-    },
-    "b91e33822245445c": {
-      "date": "2026-07-29",
-      "title": "SceneNote",
-      "source": "producthunt"
-    },
-    "ce4a87ec05c410e3": {
-      "date": "2026-07-29",
-      "title": "AgentQuartz",
-      "source": "producthunt"
-    },
-    "f11b3e1ee56d64f2": {
-      "date": "2026-07-29",
-      "title": "Totem",
-      "source": "producthunt"
-    },
-    "06263a56498ba3c0": {
-      "date": "2026-07-29",
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "source": "devto"
-    },
-    "f06849e386823599": {
-      "date": "2026-07-29",
-      "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
-      "source": "devto"
-    },
-    "33d98ff11a5224bc": {
-      "date": "2026-07-29",
-      "title": "What Replacing Calendly Taught Me About Trusting Open Source",
-      "source": "devto"
-    },
-    "4a26052d1746d340": {
-      "date": "2026-07-29",
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "source": "devto"
-    },
-    "a313d8ee30da4102": {
-      "date": "2026-07-29",
-      "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
-      "source": "devto"
-    },
-    "7dddd82d86943683": {
-      "date": "2026-07-29",
-      "title": "The 400 I Didn't Have to Write",
-      "source": "devto"
-    },
-    "bfebc774f1e83500": {
-      "date": "2026-07-29",
-      "title": "The Freeze Fee: What FrozenDictionary Charges and When It Pays",
-      "source": "devto"
-    },
-    "e645ad64673fa42b": {
-      "date": "2026-07-29",
-      "title": "Why Kimi K3 Still Can't Do What Einstein Did",
-      "source": "devto"
-    },
-    "01f270ca2b86deeb": {
-      "date": "2026-07-29",
-      "title": "Building Rugby Apps - From Fan Tools To Training Platforms",
-      "source": "devto"
-    },
-    "a06d19977d4da651": {
-      "date": "2026-07-29",
-      "title": "The Silent iOS 17 Crash Hiding in `@Dependency` and `withTaskGroup`",
-      "source": "devto"
-    },
-    "fb1b022f7f371ab2": {
-      "date": "2026-07-29",
-      "title": "grokability / snipe-it",
-      "source": "github"
-    },
-    "80c1b5a5a28d4577": {
-      "date": "2026-07-29",
-      "title": "deepfakes / faceswap",
-      "source": "github"
-    },
-    "104b57e9a4316877": {
-      "date": "2026-07-29",
-      "title": "microsoft / VibeVoice",
-      "source": "github"
-    },
-    "2c86d2ef64618dca": {
-      "date": "2026-07-29",
-      "title": "different-ai / openwork",
-      "source": "github"
-    },
-    "69643613bb119cbc": {
-      "date": "2026-07-29",
-      "title": "MoonshotAI / FlashKDA",
-      "source": "github"
-    },
-    "6bf20bedea38ea7d": {
-      "date": "2026-07-29",
-      "title": "NanmiCoder / MediaCrawler",
-      "source": "github"
-    },
-    "c94926067e8d4023": {
-      "date": "2026-07-29",
-      "title": "maderix / ANE",
-      "source": "github"
-    },
     "925e5b650ff4d143": {
       "date": "2026-07-30",
       "title": "UEFA and its national associations will not participate in FIFA competitions",
@@ -4980,6 +4805,176 @@
     "a84d370951f30abb": {
       "date": "2026-08-28",
       "title": "swoole / typephp",
+      "source": "github"
+    },
+    "58df2031e9a52aab": {
+      "date": "2026-08-29",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "source": "hackernews"
+    },
+    "84a622800e590e0f": {
+      "date": "2026-08-29",
+      "title": "SQLite as a Document Database (2020)",
+      "source": "hackernews"
+    },
+    "800ca0c473afb87a": {
+      "date": "2026-08-29",
+      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "source": "hackernews"
+    },
+    "f5b51884348ebcd1": {
+      "date": "2026-08-29",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "source": "hackernews"
+    },
+    "5dd681021d6ff3fb": {
+      "date": "2026-08-29",
+      "title": "vLLM v0.28.0",
+      "source": "hackernews"
+    },
+    "517085eb41b9476a": {
+      "date": "2026-08-29",
+      "title": "What we want is a hunter gatherer lifestyle with space age tools",
+      "source": "hackernews"
+    },
+    "75475445cf9f9b4b": {
+      "date": "2026-08-29",
+      "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
+      "source": "hackernews"
+    },
+    "8a90933f67664083": {
+      "date": "2026-08-29",
+      "title": "Domain-Driven Agents",
+      "source": "hackernews"
+    },
+    "31ee698076ee2c90": {
+      "date": "2026-08-29",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "source": "hackernews"
+    },
+    "82b57c65e7662c19": {
+      "date": "2026-08-29",
+      "title": "$44M Solar-Powered EV Production Deal Struck",
+      "source": "hackernews"
+    },
+    "a69dcc73b04e9f86": {
+      "date": "2026-08-29",
+      "title": "Mossy",
+      "source": "producthunt"
+    },
+    "c769540fdaf49b92": {
+      "date": "2026-08-29",
+      "title": "Cohere Parse 5",
+      "source": "producthunt"
+    },
+    "0b963caf1fe497af": {
+      "date": "2026-08-29",
+      "title": "Lubb",
+      "source": "producthunt"
+    },
+    "2bf90e371c31ed1b": {
+      "date": "2026-08-29",
+      "title": "Staats",
+      "source": "producthunt"
+    },
+    "561884e074991822": {
+      "date": "2026-08-29",
+      "title": "Any Command",
+      "source": "producthunt"
+    },
+    "d67379909f2ed0d4": {
+      "date": "2026-08-29",
+      "title": "WIT",
+      "source": "producthunt"
+    },
+    "64b689bb61c185d4": {
+      "date": "2026-08-29",
+      "title": "publicdesktop.lol",
+      "source": "producthunt"
+    },
+    "6e4ba8fcaaaa9a4f": {
+      "date": "2026-08-29",
+      "title": "seendiff",
+      "source": "producthunt"
+    },
+    "699ed7a44bcd52de": {
+      "date": "2026-08-29",
+      "title": "What Happens After You Win a DEV Challenge? A Complete Guide to Getting Paid",
+      "source": "devto"
+    },
+    "2a7dfcae9c931a89": {
+      "date": "2026-08-29",
+      "title": "I Asked for a Portfolio but Got a Filing Cabinet",
+      "source": "devto"
+    },
+    "b79524d2e098c926": {
+      "date": "2026-08-29",
+      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
+      "source": "devto"
+    },
+    "1410ea24a18120d3": {
+      "date": "2026-08-29",
+      "title": "MCP C# Per-Request Client Capabilities: Read the Request, Not the Server",
+      "source": "devto"
+    },
+    "f04a4325f9c1882f": {
+      "date": "2026-08-29",
+      "title": "I Googled Myself for 20 Minutes and Found My Home Address, My Mom's Maiden Name, and My Dog",
+      "source": "devto"
+    },
+    "9bf4bdedc0a0735d": {
+      "date": "2026-08-29",
+      "title": "I failed a \"design a document editor\" interview, so I built one",
+      "source": "devto"
+    },
+    "724af00530a62c0d": {
+      "date": "2026-08-29",
+      "title": "From “Can I Do This?” to Becoming Part of the Team: Lessons From My Apprenticeship at ISRO",
+      "source": "devto"
+    },
+    "e9f4baea5c58a11f": {
+      "date": "2026-08-29",
+      "title": "Your agent didn't fail. You closed the lid",
+      "source": "devto"
+    },
+    "e08a5eca46fa8259": {
+      "date": "2026-08-29",
+      "title": "What does an AI agent do with no goal and no supervision? I ran it three times and logged everything",
+      "source": "devto"
+    },
+    "0da315692a3fa472": {
+      "date": "2026-08-29",
+      "title": "Your Tests Were Green Because the Gate Was Never Wired In",
+      "source": "devto"
+    },
+    "c2f4cce08f408ce8": {
+      "date": "2026-08-29",
+      "title": "THU-MAIC / OpenMAIC",
+      "source": "github"
+    },
+    "d2f39386e20eb773": {
+      "date": "2026-08-29",
+      "title": "p-e-w / heretic",
+      "source": "github"
+    },
+    "aca988ca8dd4e6fa": {
+      "date": "2026-08-29",
+      "title": "bigskysoftware / htmx",
+      "source": "github"
+    },
+    "7e39ec2390d0765a": {
+      "date": "2026-08-29",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "source": "github"
+    },
+    "a1c760c91a2498ee": {
+      "date": "2026-08-29",
+      "title": "every-app / open-seo",
+      "source": "github"
+    },
+    "85717f608dd95ad7": {
+      "date": "2026-08-29",
+      "title": "Osmantic / ODS",
       "source": "github"
     }
   }
