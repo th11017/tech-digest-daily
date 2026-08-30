@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-29T22:43:12.145485",
+  "last_updated": "2026-08-30T22:43:23.037639",
   "sent_items": {
-    "925e5b650ff4d143": {
-      "date": "2026-07-30",
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "source": "hackernews"
-    },
-    "9f753904c4945eea": {
-      "date": "2026-07-30",
-      "title": "Read this before you buy that TV streaming stick",
-      "source": "hackernews"
-    },
-    "294161fcfd13af80": {
-      "date": "2026-07-30",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "source": "hackernews"
-    },
-    "56605925938a4b46": {
-      "date": "2026-07-30",
-      "title": "Stacked PRs are now live on GitHub",
-      "source": "hackernews"
-    },
-    "7baf6e778facb5a4": {
-      "date": "2026-07-30",
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "source": "hackernews"
-    },
-    "5826dc5ad56aaba4": {
-      "date": "2026-07-30",
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "source": "hackernews"
-    },
-    "dba5a92f23d0cce0": {
-      "date": "2026-07-30",
-      "title": "CodePen 2.0",
-      "source": "hackernews"
-    },
-    "9a18eaaf33c48e09": {
-      "date": "2026-07-30",
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "source": "hackernews"
-    },
-    "dee0daa0ffa3272c": {
-      "date": "2026-07-30",
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "source": "hackernews"
-    },
-    "5f8dc2b2c70ad516": {
-      "date": "2026-07-30",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "source": "hackernews"
-    },
-    "d31a312cf647369c": {
-      "date": "2026-07-30",
-      "title": "Focus Room",
-      "source": "producthunt"
-    },
-    "0a838b05cf778814": {
-      "date": "2026-07-30",
-      "title": "Yap",
-      "source": "producthunt"
-    },
-    "63ee4f0888b216c2": {
-      "date": "2026-07-30",
-      "title": "Pally",
-      "source": "producthunt"
-    },
-    "9249db2ec9ca04f6": {
-      "date": "2026-07-30",
-      "title": "Claude Code usage tracking by LangWatch",
-      "source": "producthunt"
-    },
-    "7150472d9770ad9c": {
-      "date": "2026-07-30",
-      "title": "SKI",
-      "source": "producthunt"
-    },
-    "bb7734bf26324c33": {
-      "date": "2026-07-30",
-      "title": "docktor",
-      "source": "producthunt"
-    },
-    "1c1fe7be3d34f6a9": {
-      "date": "2026-07-30",
-      "title": "Phantom Voice",
-      "source": "producthunt"
-    },
-    "bb702610b385f88b": {
-      "date": "2026-07-30",
-      "title": "Sorinai",
-      "source": "producthunt"
-    },
-    "cd3191dc0990849a": {
-      "date": "2026-07-30",
-      "title": "Congrats to the DEV Weekend Challenge: Passion Edition Winners!",
-      "source": "devto"
-    },
-    "a1bd84ff301886cf": {
-      "date": "2026-07-30",
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "source": "devto"
-    },
-    "d6522bc432345e0a": {
-      "date": "2026-07-30",
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "source": "devto"
-    },
-    "edebb5192d2a9596": {
-      "date": "2026-07-30",
-      "title": "Does it still make sense to learn how to code?",
-      "source": "devto"
-    },
-    "3aee2e12d998712e": {
-      "date": "2026-07-30",
-      "title": "From Open Source to Paid Product: Is AI Accelerating the Shift?",
-      "source": "devto"
-    },
-    "3841be615430d337": {
-      "date": "2026-07-30",
-      "title": "You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.",
-      "source": "devto"
-    },
-    "14c18a52c45ad361": {
-      "date": "2026-07-30",
-      "title": "What Actually Happens After You Send a Webhook",
-      "source": "devto"
-    },
-    "53fe432cbd3426e8": {
-      "date": "2026-07-30",
-      "title": "Emergent Design & Gall's Law: When Complex Coding Problems Dissolve Instead of Being Solved",
-      "source": "devto"
-    },
-    "91142f27f652542e": {
-      "date": "2026-07-30",
-      "title": "I tried to compile TypeScript into a native binary with scriptc",
-      "source": "devto"
-    },
-    "671bc2efa5509045": {
-      "date": "2026-07-30",
-      "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
-      "source": "devto"
-    },
-    "1057d7f3dcb63c1c": {
-      "date": "2026-07-30",
-      "title": "WhiskeySockets / Baileys",
-      "source": "github"
-    },
-    "92a38e4bf3c74440": {
-      "date": "2026-07-30",
-      "title": "dotnet / aspnetcore",
-      "source": "github"
-    },
-    "2cd560aef18e9807": {
-      "date": "2026-07-30",
-      "title": "microsoft / PowerToys",
-      "source": "github"
-    },
-    "750b405ab3402451": {
-      "date": "2026-07-30",
-      "title": "agavra / tuicr",
-      "source": "github"
-    },
     "3e8241c068c3a7ca": {
       "date": "2026-07-31",
       "title": "Elevators",
@@ -4976,6 +4816,191 @@
       "date": "2026-08-29",
       "title": "Osmantic / ODS",
       "source": "github"
+    },
+    "5f4bc58220d5cbd6": {
+      "date": "2026-08-30",
+      "title": "Creepy Crawlies",
+      "source": "hackernews"
+    },
+    "0cd9beaaa19a0888": {
+      "date": "2026-08-30",
+      "title": "Hacking IKEA Furniture",
+      "source": "hackernews"
+    },
+    "e236fdb910aca5bd": {
+      "date": "2026-08-30",
+      "title": "Haiku R1/beta6 has been released",
+      "source": "hackernews"
+    },
+    "a5720b79eeeb0f39": {
+      "date": "2026-08-30",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "source": "hackernews"
+    },
+    "769168c0d6099d7f": {
+      "date": "2026-08-30",
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "source": "hackernews"
+    },
+    "7a007121b956cde7": {
+      "date": "2026-08-30",
+      "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
+      "source": "hackernews"
+    },
+    "ae7306b88dfa8664": {
+      "date": "2026-08-30",
+      "title": "Sort branches by last commit date",
+      "source": "hackernews"
+    },
+    "acca2521df606941": {
+      "date": "2026-08-30",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "source": "hackernews"
+    },
+    "d4338b1abd099073": {
+      "date": "2026-08-30",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "source": "hackernews"
+    },
+    "0634cfe723649249": {
+      "date": "2026-08-30",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "source": "hackernews"
+    },
+    "94d12dc43f38ac46": {
+      "date": "2026-08-30",
+      "title": "Maritime",
+      "source": "producthunt"
+    },
+    "9f4a334687f1a86b": {
+      "date": "2026-08-30",
+      "title": "Topview Motion Studio",
+      "source": "producthunt"
+    },
+    "7bd8181e8a257e9e": {
+      "date": "2026-08-30",
+      "title": "oMLX",
+      "source": "producthunt"
+    },
+    "ef9c563e106ba211": {
+      "date": "2026-08-30",
+      "title": "Retro Y2K Theme",
+      "source": "producthunt"
+    },
+    "065d817047ed3a3f": {
+      "date": "2026-08-30",
+      "title": "Superagent",
+      "source": "producthunt"
+    },
+    "c15b3e9bb9baca6e": {
+      "date": "2026-08-30",
+      "title": "RIP MY BUILD",
+      "source": "producthunt"
+    },
+    "8d35359e74392156": {
+      "date": "2026-08-30",
+      "title": "Referent",
+      "source": "producthunt"
+    },
+    "1118ddc381f0b1a5": {
+      "date": "2026-08-30",
+      "title": "Prequel",
+      "source": "producthunt"
+    },
+    "e1146483aea35c4b": {
+      "date": "2026-08-30",
+      "title": "Lakr233 / vphone-cli",
+      "source": "github"
+    },
+    "2db83a025fb2e599": {
+      "date": "2026-08-30",
+      "title": "unclecode / crawl4ai",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-08-30",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "4fa3a55b3f08f940": {
+      "date": "2026-08-30",
+      "title": "majd / ipatool",
+      "source": "github"
+    },
+    "396cb5e37f289675": {
+      "date": "2026-08-30",
+      "title": "punkpeye / awesome-mcp-servers",
+      "source": "github"
+    },
+    "98f03e4745eeb751": {
+      "date": "2026-08-30",
+      "title": "checkstyle / checkstyle",
+      "source": "github"
+    },
+    "69d36549b62c1e34": {
+      "date": "2026-08-30",
+      "title": "pollen-robotics / microduck_rl",
+      "source": "github"
+    },
+    "32aa3c814e098f24": {
+      "date": "2026-08-30",
+      "title": "handsomestWei / patent-disclosure-skill",
+      "source": "github"
+    },
+    "f375b5f99caab788": {
+      "date": "2026-08-30",
+      "title": "corsairdev / corsair",
+      "source": "github"
+    },
+    "8f4f289e1042beae": {
+      "date": "2026-08-30",
+      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
+      "source": "devto"
+    },
+    "a7fe4e624af78067": {
+      "date": "2026-08-30",
+      "title": "IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Kn",
+      "source": "devto"
+    },
+    "eef481cc38b762c6": {
+      "date": "2026-08-30",
+      "title": "Git Said It Succeeded. The State Said Otherwise.",
+      "source": "devto"
+    },
+    "5a2b15e3f6b8818d": {
+      "date": "2026-08-30",
+      "title": "Delta encoding multiplayer game state",
+      "source": "devto"
+    },
+    "b5b9d5cea6ebe593": {
+      "date": "2026-08-30",
+      "title": "I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?",
+      "source": "devto"
+    },
+    "981883f6f39c2e48": {
+      "date": "2026-08-30",
+      "title": "Bugs Are Innocent Until Reproduced: Building Verdict, an Evidence-First Agent Harness",
+      "source": "devto"
+    },
+    "098bb2822a4b152c": {
+      "date": "2026-08-30",
+      "title": "I Built an Agent That Marked Its Own Finding as Already Known",
+      "source": "devto"
+    },
+    "7526cfe86081d996": {
+      "date": "2026-08-30",
+      "title": "Tell Me About You",
+      "source": "devto"
+    },
+    "b37ffe57241dbf2f": {
+      "date": "2026-08-30",
+      "title": "My Commit Said \"Stop Trusting the Receipt.\" That Is the Commit Where the Trusting Started.",
+      "source": "devto"
+    },
+    "33e8b1adc416fe2a": {
+      "date": "2026-08-30",
+      "title": "The undo has to exist before the write does",
+      "source": "devto"
     }
   }
 }
