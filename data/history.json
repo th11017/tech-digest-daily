@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-30T22:43:23.037639",
+  "last_updated": "2026-08-31T22:43:24.694580",
   "sent_items": {
-    "3e8241c068c3a7ca": {
-      "date": "2026-07-31",
-      "title": "Elevators",
-      "source": "hackernews"
-    },
-    "853327189d11dc3d": {
-      "date": "2026-07-31",
-      "title": "qm",
-      "source": "hackernews"
-    },
-    "024168c012af71c0": {
-      "date": "2026-07-31",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "source": "hackernews"
-    },
-    "08cc1fad969c8b95": {
-      "date": "2026-07-31",
-      "title": "Big Food vs. the People",
-      "source": "hackernews"
-    },
-    "162cdeed53c6fddd": {
-      "date": "2026-07-31",
-      "title": "Golang proposal: container/: generic collection types",
-      "source": "hackernews"
-    },
-    "104e273bc7a7b2b3": {
-      "date": "2026-07-31",
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "source": "hackernews"
-    },
-    "69b5b9d520b5a923": {
-      "date": "2026-07-31",
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "source": "hackernews"
-    },
-    "4faf146ab0703fea": {
-      "date": "2026-07-31",
-      "title": "Progressive Web Components",
-      "source": "hackernews"
-    },
-    "187404f26d017607": {
-      "date": "2026-07-31",
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "source": "hackernews"
-    },
-    "8f4cbc4f40074d3d": {
-      "date": "2026-07-31",
-      "title": "The Absurdity of Albert Camus",
-      "source": "hackernews"
-    },
-    "837eddf5a9c8b6f3": {
-      "date": "2026-07-31",
-      "title": "MiniMax H3",
-      "source": "producthunt"
-    },
-    "335c0a9fc1f0ed83": {
-      "date": "2026-07-31",
-      "title": "Cleanlist AI",
-      "source": "producthunt"
-    },
-    "08ba3357cff2edd4": {
-      "date": "2026-07-31",
-      "title": "mectrics",
-      "source": "producthunt"
-    },
-    "c809cf6bc34361ea": {
-      "date": "2026-07-31",
-      "title": "DepthData",
-      "source": "producthunt"
-    },
-    "5da8f463579a43e6": {
-      "date": "2026-07-31",
-      "title": "Gemini Robotics 2",
-      "source": "producthunt"
-    },
-    "4df32cf643871926": {
-      "date": "2026-07-31",
-      "title": "Poth Labs",
-      "source": "producthunt"
-    },
-    "dadff0911e3944bf": {
-      "date": "2026-07-31",
-      "title": "Screencap",
-      "source": "producthunt"
-    },
-    "86b552b0220c9652": {
-      "date": "2026-07-31",
-      "title": "witr",
-      "source": "producthunt"
-    },
-    "7445d3b513aec3d0": {
-      "date": "2026-07-31",
-      "title": "zhaoxuya520 / reverse-skill",
-      "source": "github"
-    },
-    "81f110db762452f4": {
-      "date": "2026-07-31",
-      "title": "chatwoot / chatwoot",
-      "source": "github"
-    },
-    "e46fc4b3de8850fd": {
-      "date": "2026-07-31",
-      "title": "usekaneo / kaneo",
-      "source": "github"
-    },
-    "46d3fee174b7b1b7": {
-      "date": "2026-07-31",
-      "title": "geo-tp / ESP32-Bit-Pirate",
-      "source": "github"
-    },
-    "3d02601f339f3f68": {
-      "date": "2026-07-31",
-      "title": "Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week & Learn",
-      "source": "devto"
-    },
-    "4cccc93931f28374": {
-      "date": "2026-07-31",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "8be6015f02b56c19": {
-      "date": "2026-07-31",
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "source": "devto"
-    },
-    "f5c1f62e994eabcb": {
-      "date": "2026-07-31",
-      "title": "ratatop day 3: disks, statvfs, and my first unsafe block",
-      "source": "devto"
-    },
-    "cca5e42e6db0bc93": {
-      "date": "2026-07-31",
-      "title": "Fixing Exact Package Search Relevance in npmx",
-      "source": "devto"
-    },
-    "b85ece9aaae3c66d": {
-      "date": "2026-07-31",
-      "title": "Hardening an AI coding agent: the failures, and the code that fixed them",
-      "source": "devto"
-    },
-    "72e93ccbdc36c66e": {
-      "date": "2026-07-31",
-      "title": "Collaborative Filtering: How Computers Find Your Next Favourite Thing",
-      "source": "devto"
-    },
-    "74d2f1268e711e53": {
-      "date": "2026-07-31",
-      "title": "How I Put My Agent in CI to Automate Release Notes",
-      "source": "devto"
-    },
-    "140752027af1bb0d": {
-      "date": "2026-07-31",
-      "title": "Claude Code + OpenRouter: The Setup Guide That Actually Explains Things",
-      "source": "devto"
-    },
-    "f039ae40894f45d0": {
-      "date": "2026-07-31",
-      "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
-      "source": "devto"
-    },
     "4eb49727745a52f2": {
       "date": "2026-08-01",
       "title": "NudgeForMe",
@@ -5001,6 +4841,156 @@
       "date": "2026-08-30",
       "title": "The undo has to exist before the write does",
       "source": "devto"
+    },
+    "49e3387c38cb4332": {
+      "date": "2026-08-31",
+      "title": "Playa Phone",
+      "source": "hackernews"
+    },
+    "61ab651f0f3630dd": {
+      "date": "2026-08-31",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "source": "hackernews"
+    },
+    "c53175c7d69c7ff8": {
+      "date": "2026-08-31",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "source": "hackernews"
+    },
+    "d162ae2ead72a965": {
+      "date": "2026-08-31",
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "source": "hackernews"
+    },
+    "5993b8458deca35e": {
+      "date": "2026-08-31",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "source": "hackernews"
+    },
+    "ffc85844d1e29ad3": {
+      "date": "2026-08-31",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "source": "hackernews"
+    },
+    "b4df46d7f8ed18ff": {
+      "date": "2026-08-31",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "source": "hackernews"
+    },
+    "b8007ee381d1610f": {
+      "date": "2026-08-31",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "source": "hackernews"
+    },
+    "558d5809fba3f676": {
+      "date": "2026-08-31",
+      "title": "Show HN: Laser Graffiti",
+      "source": "hackernews"
+    },
+    "d927ee262d2a45ad": {
+      "date": "2026-08-31",
+      "title": "'Mad honey' that can stop your heart is being sold online",
+      "source": "hackernews"
+    },
+    "39aed2a04a5bccd6": {
+      "date": "2026-08-31",
+      "title": "Tether",
+      "source": "producthunt"
+    },
+    "23e8ed4c2dafd741": {
+      "date": "2026-08-31",
+      "title": "Ask My Wardrobe",
+      "source": "producthunt"
+    },
+    "fbc5e9bdc1be442e": {
+      "date": "2026-08-31",
+      "title": "BrandMyLaptop",
+      "source": "producthunt"
+    },
+    "9482609457348c36": {
+      "date": "2026-08-31",
+      "title": "EP–2350 FX–MIC",
+      "source": "producthunt"
+    },
+    "f453d33420b284c1": {
+      "date": "2026-08-31",
+      "title": "Orato",
+      "source": "producthunt"
+    },
+    "232fdfdc760e8ae6": {
+      "date": "2026-08-31",
+      "title": "Radar by Particle",
+      "source": "producthunt"
+    },
+    "1262790b4d55238e": {
+      "date": "2026-08-31",
+      "title": "FrameOS",
+      "source": "producthunt"
+    },
+    "a1ea668fbb5b0236": {
+      "date": "2026-08-31",
+      "title": "How long does it take for you to write a dev.to article?",
+      "source": "devto"
+    },
+    "8ae3b9ba1c7954fd": {
+      "date": "2026-08-31",
+      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
+      "source": "devto"
+    },
+    "febd40a4587627b0": {
+      "date": "2026-08-31",
+      "title": "I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling",
+      "source": "devto"
+    },
+    "f67521088f8f5af1": {
+      "date": "2026-08-31",
+      "title": "The Highway Is a Pasture",
+      "source": "devto"
+    },
+    "479c951725428344": {
+      "date": "2026-08-31",
+      "title": "Free AWS Certification for Students: The Complete Step-by-Step Guide",
+      "source": "devto"
+    },
+    "b58379d01b8fa622": {
+      "date": "2026-08-31",
+      "title": "Sessions vs JWTs: you are choosing how often you pay for state",
+      "source": "devto"
+    },
+    "af0ec46b0555cee4": {
+      "date": "2026-08-31",
+      "title": "Remember CLAIM-24? Here's what happened.",
+      "source": "devto"
+    },
+    "0bd1c3d16629d1d3": {
+      "date": "2026-08-31",
+      "title": "Badger: An E-Ink Badge I Use For Conferences",
+      "source": "devto"
+    },
+    "90558f9cb8908e87": {
+      "date": "2026-08-31",
+      "title": "My LLM Critic Flip-Flops on Every Run. That's Fine — Because a Frozenset Decides What's Fatal.",
+      "source": "devto"
+    },
+    "89cc9179a7141a8c": {
+      "date": "2026-08-31",
+      "title": "Dev log #19 WebRTC v2 flows, agentic orchestration, and a perfectly synced vault",
+      "source": "devto"
+    },
+    "1c3e1f88dc2dc347": {
+      "date": "2026-08-31",
+      "title": "k1tbyte / Wand-Enhancer",
+      "source": "github"
+    },
+    "73c10ecbf681fc5a": {
+      "date": "2026-08-31",
+      "title": "jingyaogong / minimind",
+      "source": "github"
+    },
+    "77dfe4fc1c3ceb1f": {
+      "date": "2026-08-31",
+      "title": "kaifcodec / user-scanner",
+      "source": "github"
     }
   }
 }
