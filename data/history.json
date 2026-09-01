@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-31T22:43:24.694580",
+  "last_updated": "2026-09-01T22:44:55.804058",
   "sent_items": {
-    "4eb49727745a52f2": {
-      "date": "2026-08-01",
-      "title": "NudgeForMe",
-      "source": "producthunt"
-    },
-    "ddde8478eede37b4": {
-      "date": "2026-08-01",
-      "title": "DeepSeek-V4-Flash-0731",
-      "source": "producthunt"
-    },
-    "d2bf65ecd76b0e23": {
-      "date": "2026-08-01",
-      "title": "Yamanote 3D",
-      "source": "producthunt"
-    },
-    "61ca52a90c00a787": {
-      "date": "2026-08-01",
-      "title": "Tandem",
-      "source": "producthunt"
-    },
-    "7086ecc66ffda31f": {
-      "date": "2026-08-01",
-      "title": "Kopai",
-      "source": "producthunt"
-    },
-    "437770a271d95fd6": {
-      "date": "2026-08-01",
-      "title": "SyncStaq",
-      "source": "producthunt"
-    },
-    "9edd83739bad6894": {
-      "date": "2026-08-01",
-      "title": "AgentMicro",
-      "source": "producthunt"
-    },
-    "b3adcaec08be542c": {
-      "date": "2026-08-01",
-      "title": "The Art of 64-bit Assembly",
-      "source": "hackernews"
-    },
-    "6dbc532b9ee90b10": {
-      "date": "2026-08-01",
-      "title": "Diátaxis",
-      "source": "hackernews"
-    },
-    "e4e5f3b9e7d18f7c": {
-      "date": "2026-08-01",
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "source": "hackernews"
-    },
-    "e836b9e1bee1a1d8": {
-      "date": "2026-08-01",
-      "title": "Just because a game is on disc doesn't mean it will work in the future",
-      "source": "hackernews"
-    },
-    "1746f99df19d101b": {
-      "date": "2026-08-01",
-      "title": "Seedance 2.5",
-      "source": "hackernews"
-    },
-    "2af7715e9dc023ef": {
-      "date": "2026-08-01",
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "source": "hackernews"
-    },
-    "cbcaf7d982754c40": {
-      "date": "2026-08-01",
-      "title": "But can your calculator run Linux?",
-      "source": "hackernews"
-    },
-    "52bd84de9cfe9cf5": {
-      "date": "2026-08-01",
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "source": "hackernews"
-    },
-    "9c0337b2fa8c8052": {
-      "date": "2026-08-01",
-      "title": "Unraveling the mysteries of habit formation",
-      "source": "hackernews"
-    },
-    "f4c21b97a8105bfa": {
-      "date": "2026-08-01",
-      "title": "Stop fucking around with database commits and transactions",
-      "source": "hackernews"
-    },
-    "1304a8021347b716": {
-      "date": "2026-08-01",
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "source": "devto"
-    },
-    "c21a8620095039ee": {
-      "date": "2026-08-01",
-      "title": "CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix",
-      "source": "devto"
-    },
-    "14c2b907fe3370a7": {
-      "date": "2026-08-01",
-      "title": "ratatop: the network box, and why your ISP lies with units",
-      "source": "devto"
-    },
-    "d5dd422248abd25b": {
-      "date": "2026-08-01",
-      "title": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.",
-      "source": "devto"
-    },
-    "39a320ea08cab2a5": {
-      "date": "2026-08-01",
-      "title": "Introducing DevPub - Open Source Dev.to CLI Tool",
-      "source": "devto"
-    },
-    "a3707e06386d3446": {
-      "date": "2026-08-01",
-      "title": "Gravy Boat — a landing page with a CSS poutine you can drown in!",
-      "source": "devto"
-    },
-    "541d9d354471f223": {
-      "date": "2026-08-01",
-      "title": "Poutine: the true food of the gods",
-      "source": "devto"
-    },
-    "6e0d9d4c93ee08d5": {
-      "date": "2026-08-01",
-      "title": "Why Agent Evaluation Is Harder Than Model Evaluation",
-      "source": "devto"
-    },
-    "5d597406f6af7fa7": {
-      "date": "2026-08-01",
-      "title": "Pascal Programming",
-      "source": "devto"
-    },
-    "b78875220adbd23c": {
-      "date": "2026-08-01",
-      "title": "Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests",
-      "source": "devto"
-    },
-    "4e308eb7afe62c72": {
-      "date": "2026-08-01",
-      "title": "microsoft / generative-ai-for-beginners",
-      "source": "github"
-    },
-    "e82f8ca3ecc61b6c": {
-      "date": "2026-08-01",
-      "title": "github / gh-stack",
-      "source": "github"
-    },
-    "51b3fb36b568ae94": {
-      "date": "2026-08-01",
-      "title": "abus-aikorea / voice-pro",
-      "source": "github"
-    },
-    "7026d70d272e7f07": {
-      "date": "2026-08-01",
-      "title": "iv-org / invidious",
-      "source": "github"
-    },
-    "19b144cbaabc3122": {
-      "date": "2026-08-01",
-      "title": "microsoft / TRELLIS.2",
-      "source": "github"
-    },
-    "b88ceb3d1250fce4": {
-      "date": "2026-08-01",
-      "title": "NomaDamas / k-skill",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-08-01",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
     "32c1beeee9a89277": {
       "date": "2026-08-02",
       "title": "Lumichats",
@@ -4990,6 +4820,171 @@
     "77dfe4fc1c3ceb1f": {
       "date": "2026-08-31",
       "title": "kaifcodec / user-scanner",
+      "source": "github"
+    },
+    "0c0e53e25ccd14b6": {
+      "date": "2026-09-01",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "source": "hackernews"
+    },
+    "9c85c9bd084d8cf2": {
+      "date": "2026-09-01",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "source": "hackernews"
+    },
+    "b0db8e0cc259cc08": {
+      "date": "2026-09-01",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "source": "hackernews"
+    },
+    "d899edda5b5041ac": {
+      "date": "2026-09-01",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "source": "hackernews"
+    },
+    "5e19fc99b3e9d51e": {
+      "date": "2026-09-01",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "source": "hackernews"
+    },
+    "7f8c00ff0ed4b285": {
+      "date": "2026-09-01",
+      "title": "The creator of Jujutsu has joined ERSC",
+      "source": "hackernews"
+    },
+    "ceaa907b62a86ce0": {
+      "date": "2026-09-01",
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "source": "hackernews"
+    },
+    "3ea91221046e3645": {
+      "date": "2026-09-01",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "source": "hackernews"
+    },
+    "b6ea22059185e445": {
+      "date": "2026-09-01",
+      "title": "Hang on to Your Firefox",
+      "source": "hackernews"
+    },
+    "92726ead6c3a3bb9": {
+      "date": "2026-09-01",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "source": "hackernews"
+    },
+    "4f6a778b41e1437d": {
+      "date": "2026-09-01",
+      "title": "TrustedRouter",
+      "source": "producthunt"
+    },
+    "f50c9a5ecbce0ea7": {
+      "date": "2026-09-01",
+      "title": "Keiki",
+      "source": "producthunt"
+    },
+    "61f1bffbae0a212a": {
+      "date": "2026-09-01",
+      "title": "Murmell",
+      "source": "producthunt"
+    },
+    "559f8bf2d763a9a4": {
+      "date": "2026-09-01",
+      "title": "Happy Shrimp",
+      "source": "producthunt"
+    },
+    "da346616d954461e": {
+      "date": "2026-09-01",
+      "title": "Sourclip 2.0",
+      "source": "producthunt"
+    },
+    "91565c4394e9aa06": {
+      "date": "2026-09-01",
+      "title": "Folio",
+      "source": "producthunt"
+    },
+    "6c05996e0a55a309": {
+      "date": "2026-09-01",
+      "title": "ThunderPhone",
+      "source": "producthunt"
+    },
+    "02687cf7e77d6690": {
+      "date": "2026-09-01",
+      "title": "HONOR Robot Phone",
+      "source": "producthunt"
+    },
+    "77f89f5f31be2415": {
+      "date": "2026-09-01",
+      "title": "What happens to technical debt when AI makes code cheap?",
+      "source": "devto"
+    },
+    "17265eef5616eef4": {
+      "date": "2026-09-01",
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "source": "devto"
+    },
+    "6c90855cfcd1839a": {
+      "date": "2026-09-01",
+      "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
+      "source": "devto"
+    },
+    "e6e806d9797587ff": {
+      "date": "2026-09-01",
+      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
+      "source": "devto"
+    },
+    "0327c6d4bb262b96": {
+      "date": "2026-09-01",
+      "title": "I raced six models against each other on DigitalOcean Inference. The cheapest one won.",
+      "source": "devto"
+    },
+    "c80b15ef9ee5d155": {
+      "date": "2026-09-01",
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "source": "devto"
+    },
+    "125d5c0649e55efb": {
+      "date": "2026-09-01",
+      "title": "How the internet actually works, and why nobody is in charge of it",
+      "source": "devto"
+    },
+    "f4e587d6f2ff1680": {
+      "date": "2026-09-01",
+      "title": "The job description already changed. We're not coders anymore, but couriers.",
+      "source": "devto"
+    },
+    "df9ebbd4bc660a61": {
+      "date": "2026-09-01",
+      "title": "Block Zero: Oh, no! Claude, Kiro and I over-engineered the throwaway.",
+      "source": "devto"
+    },
+    "456d63de3620eea6": {
+      "date": "2026-09-01",
+      "title": "Program Organization (with Examples in C)",
+      "source": "devto"
+    },
+    "8db079bd93fad46c": {
+      "date": "2026-09-01",
+      "title": "Gitlawb / openclaude",
+      "source": "github"
+    },
+    "ec80d71bb50f6b19": {
+      "date": "2026-09-01",
+      "title": "Imbad0202 / academic-research-skills",
+      "source": "github"
+    },
+    "3a55db0d85d4aae8": {
+      "date": "2026-09-01",
+      "title": "browser-use / video-use",
+      "source": "github"
+    },
+    "4b4cf6b011e27df5": {
+      "date": "2026-09-01",
+      "title": "VoltAgent / awesome-design-md",
+      "source": "github"
+    },
+    "762b8c3b74e9dd22": {
+      "date": "2026-09-01",
+      "title": "averygan / reclip",
       "source": "github"
     }
   }
