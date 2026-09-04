@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-03T22:43:47.151193",
+  "last_updated": "2026-09-04T22:44:15.291677",
   "sent_items": {
-    "0f5b780070214dcb": {
-      "date": "2026-08-04",
-      "title": "ZapDigits MCP",
-      "source": "producthunt"
-    },
-    "1e06de55f4be6ce5": {
-      "date": "2026-08-04",
-      "title": "Stynar",
-      "source": "producthunt"
-    },
-    "75b78a3d9a7d6570": {
-      "date": "2026-08-04",
-      "title": "Vinyl for Mac",
-      "source": "producthunt"
-    },
-    "db5724b6b015e9df": {
-      "date": "2026-08-04",
-      "title": "MOTHER",
-      "source": "producthunt"
-    },
-    "147e23403f541021": {
-      "date": "2026-08-04",
-      "title": "Dashi Metrics",
-      "source": "producthunt"
-    },
-    "0faae21a7c93a7ff": {
-      "date": "2026-08-04",
-      "title": "AirProof AI",
-      "source": "producthunt"
-    },
-    "ca9db84a0d2ae354": {
-      "date": "2026-08-04",
-      "title": "Snipplet",
-      "source": "producthunt"
-    },
-    "a89dd98792fbd968": {
-      "date": "2026-08-04",
-      "title": "SpeakoFlow",
-      "source": "producthunt"
-    },
-    "cbf36375fce6642f": {
-      "date": "2026-08-04",
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "source": "hackernews"
-    },
-    "c7e6d9e0d8e1c1bf": {
-      "date": "2026-08-04",
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "source": "hackernews"
-    },
-    "4826195d4c7d357f": {
-      "date": "2026-08-04",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "source": "hackernews"
-    },
-    "662b5f913fcdaf17": {
-      "date": "2026-08-04",
-      "title": "Waymo in Dallas",
-      "source": "hackernews"
-    },
-    "e2e8a751aa4cd7a3": {
-      "date": "2026-08-04",
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "source": "hackernews"
-    },
-    "8097b6823a4f24ab": {
-      "date": "2026-08-04",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "source": "hackernews"
-    },
-    "1c2d5afa08761324": {
-      "date": "2026-08-04",
-      "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-      "source": "hackernews"
-    },
-    "ed218b9fc9ec18ed": {
-      "date": "2026-08-04",
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "source": "hackernews"
-    },
-    "2069796da4721147": {
-      "date": "2026-08-04",
-      "title": "Video2NAND – Abusing video codecs for great computational power",
-      "source": "hackernews"
-    },
-    "4679f18cd1afef0f": {
-      "date": "2026-08-04",
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "source": "hackernews"
-    },
-    "2ffc3aecb62b082d": {
-      "date": "2026-08-04",
-      "title": "Stop Calling Everything Impostor Syndrome: The Myth of \"Just Push Harder\"",
-      "source": "devto"
-    },
-    "a8861a9b30d734a9": {
-      "date": "2026-08-04",
-      "title": "Damn Popovers",
-      "source": "devto"
-    },
-    "9e7b5db9566c3000": {
-      "date": "2026-08-04",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "90984ac2d725a390": {
-      "date": "2026-08-04",
-      "title": "Interviewing off leetcode you already memorized isn't cheating, it's the job",
-      "source": "devto"
-    },
-    "e78160eacdfb3d9a": {
-      "date": "2026-08-04",
-      "title": "Understanding Over Origin: The Missing Friction",
-      "source": "devto"
-    },
-    "cbbe584a395d1061": {
-      "date": "2026-08-04",
-      "title": "I Hashed Every Word Twice to Count It Once",
-      "source": "devto"
-    },
-    "5eec5986331f4174": {
-      "date": "2026-08-04",
-      "title": "7.8 MB of Keys I Allocated Just to Throw Away",
-      "source": "devto"
-    },
-    "ca25ff9ebee18da5": {
-      "date": "2026-08-04",
-      "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
-      "source": "devto"
-    },
-    "b00ff997a1f21ed3": {
-      "date": "2026-08-04",
-      "title": "Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)",
-      "source": "devto"
-    },
-    "26d436d8aa346408": {
-      "date": "2026-08-04",
-      "title": "Git Diff for Human Reasoning",
-      "source": "devto"
-    },
-    "4f8373d66b0b5b23": {
-      "date": "2026-08-04",
-      "title": "uber / ADR",
-      "source": "github"
-    },
-    "91014a4cbd784884": {
-      "date": "2026-08-04",
-      "title": "cypress-io / cypress",
-      "source": "github"
-    },
-    "cfdfd9911bfeec1f": {
-      "date": "2026-08-04",
-      "title": "webpack / webpack",
-      "source": "github"
-    },
-    "2e6363345ba2af4a": {
-      "date": "2026-08-04",
-      "title": "gabime / spdlog",
-      "source": "github"
-    },
-    "a1027f6b7d36d22a": {
-      "date": "2026-08-04",
-      "title": "denoland / deno",
-      "source": "github"
-    },
-    "eea0e619ec07671d": {
-      "date": "2026-08-04",
-      "title": "angular / angular",
-      "source": "github"
-    },
-    "3612263b02aa7e3a": {
-      "date": "2026-08-04",
-      "title": "tailwindlabs / tailwindcss",
-      "source": "github"
-    },
     "8d7cedf02ad4b855": {
       "date": "2026-08-05",
       "title": "Discovery Loop",
@@ -5005,6 +4830,156 @@
     "2f51b72af43a25a9": {
       "date": "2026-09-03",
       "title": "magnitudedev / magnitude",
+      "source": "github"
+    },
+    "c826810d06ef1884": {
+      "date": "2026-09-04",
+      "title": "Discovery of a new OpenAI agent message board",
+      "source": "hackernews"
+    },
+    "7036feb3828d857d": {
+      "date": "2026-09-04",
+      "title": "Formalizing Fermat's Last Theorem",
+      "source": "hackernews"
+    },
+    "bdf7f8522fda8514": {
+      "date": "2026-09-04",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "source": "hackernews"
+    },
+    "5552316f3c752146": {
+      "date": "2026-09-04",
+      "title": "Shutting down our public encrypted DNS",
+      "source": "hackernews"
+    },
+    "b3e2f2da19b1dcbe": {
+      "date": "2026-09-04",
+      "title": "Statichost.eu – European static site hosting",
+      "source": "hackernews"
+    },
+    "98f52d5492702a4c": {
+      "date": "2026-09-04",
+      "title": "Can AI design circuit boards yet?",
+      "source": "hackernews"
+    },
+    "9fe8632f21012ff7": {
+      "date": "2026-09-04",
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "source": "hackernews"
+    },
+    "fae0da9a07021afb": {
+      "date": "2026-09-04",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "source": "hackernews"
+    },
+    "e244ea284f18450d": {
+      "date": "2026-09-04",
+      "title": "An open DNS recursive service for free security and high privacy",
+      "source": "hackernews"
+    },
+    "a4ca6138058c6698": {
+      "date": "2026-09-04",
+      "title": "GPT-6 Astra on OpenRouter",
+      "source": "hackernews"
+    },
+    "b0507fb3fbac119c": {
+      "date": "2026-09-04",
+      "title": "WeatherNext 3",
+      "source": "producthunt"
+    },
+    "7c0f222e18455218": {
+      "date": "2026-09-04",
+      "title": "Chalked for Mac",
+      "source": "producthunt"
+    },
+    "c9280a98e4216b28": {
+      "date": "2026-09-04",
+      "title": "Snitch",
+      "source": "producthunt"
+    },
+    "d7be2135f4f625e8": {
+      "date": "2026-09-04",
+      "title": "Clockwork",
+      "source": "producthunt"
+    },
+    "5a0bfeed84b997f3": {
+      "date": "2026-09-04",
+      "title": "TrackMCP",
+      "source": "producthunt"
+    },
+    "88a9807611b96223": {
+      "date": "2026-09-04",
+      "title": "Omarchy",
+      "source": "producthunt"
+    },
+    "f5d8618f26c71b5f": {
+      "date": "2026-09-04",
+      "title": "cmmnts",
+      "source": "producthunt"
+    },
+    "a8870f21655726ec": {
+      "date": "2026-09-04",
+      "title": "Hey Everyone! I’m Sanidhya from MLH",
+      "source": "devto"
+    },
+    "8040c2aff4769b5e": {
+      "date": "2026-09-04",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "d1e1c7345f6d0851": {
+      "date": "2026-09-04",
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "source": "devto"
+    },
+    "e4df8d6c9c6899f5": {
+      "date": "2026-09-04",
+      "title": "Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Campus Ambassadors & the Bharat Builds Tou",
+      "source": "devto"
+    },
+    "fecbddaffc39b963": {
+      "date": "2026-09-04",
+      "title": "The board came back. The highlights lied.",
+      "source": "devto"
+    },
+    "e904c5f6353cb16d": {
+      "date": "2026-09-04",
+      "title": "Gemini Agentic Video Isn't Always Cheaper: A 24-Run Benchmark",
+      "source": "devto"
+    },
+    "ad17cb2c92c001f9": {
+      "date": "2026-09-04",
+      "title": "[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner",
+      "source": "devto"
+    },
+    "821f7a55fdccf05d": {
+      "date": "2026-09-04",
+      "title": "Your AI-generated tests aren't testing your code. They're testing the AI's blind spots.",
+      "source": "devto"
+    },
+    "858f1873dea628f8": {
+      "date": "2026-09-04",
+      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
+      "source": "devto"
+    },
+    "dd841669b3deff1a": {
+      "date": "2026-09-04",
+      "title": "How ChatGPT agents with no internet access ended up in Hugging Face",
+      "source": "devto"
+    },
+    "da8fbc1a4b495fcf": {
+      "date": "2026-09-04",
+      "title": "bikini / exploitarium",
+      "source": "github"
+    },
+    "8f0bf963eb960c23": {
+      "date": "2026-09-04",
+      "title": "radixark / miles",
+      "source": "github"
+    },
+    "9bde5582e8ba9a19": {
+      "date": "2026-09-04",
+      "title": "anomalyco / opencode",
       "source": "github"
     }
   }
