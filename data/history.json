@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-05T22:43:17.818165",
+  "last_updated": "2026-09-06T22:43:42.715249",
   "sent_items": {
     "c0fb715017047b76": {
       "date": "2026-08-07",
@@ -4975,6 +4975,146 @@
     "0119fd277859b072": {
       "date": "2026-09-05",
       "title": "WorldFlowAI / everything-claude-code",
+      "source": "github"
+    },
+    "6964500c209d3566": {
+      "date": "2026-09-06",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "source": "hackernews"
+    },
+    "1759500f645bb398": {
+      "date": "2026-09-06",
+      "title": "Your intellectual fly is open (2025)",
+      "source": "hackernews"
+    },
+    "02ac4380a1b38984": {
+      "date": "2026-09-06",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "source": "hackernews"
+    },
+    "c049e4de41cb49ac": {
+      "date": "2026-09-06",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "source": "hackernews"
+    },
+    "3e492c2d9ab96d25": {
+      "date": "2026-09-06",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "source": "hackernews"
+    },
+    "7ded3e91ccd1bd1e": {
+      "date": "2026-09-06",
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "source": "hackernews"
+    },
+    "1f917cf905d6c976": {
+      "date": "2026-09-06",
+      "title": "Research carried out using NetBSD",
+      "source": "hackernews"
+    },
+    "5f0d51b46dced628": {
+      "date": "2026-09-06",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "source": "hackernews"
+    },
+    "1d71a5c8bb0ed2a0": {
+      "date": "2026-09-06",
+      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+      "source": "hackernews"
+    },
+    "72c0b914c5bb649f": {
+      "date": "2026-09-06",
+      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
+      "source": "hackernews"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-09-06",
+      "title": "Agentic Video Understanding in Gemini",
+      "source": "producthunt"
+    },
+    "858968678fe1ec6a": {
+      "date": "2026-09-06",
+      "title": "H3 Max by fal",
+      "source": "producthunt"
+    },
+    "58010b61f2b92f9e": {
+      "date": "2026-09-06",
+      "title": "Kit by Speakeasy",
+      "source": "producthunt"
+    },
+    "111542e20e62ae48": {
+      "date": "2026-09-06",
+      "title": "BrickForgerAI",
+      "source": "producthunt"
+    },
+    "16ecb6b6ed472cad": {
+      "date": "2026-09-06",
+      "title": "I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.",
+      "source": "devto"
+    },
+    "b073af9ad47cf0aa": {
+      "date": "2026-09-06",
+      "title": "Multiple Browser Agents Need More Than Separate Profiles",
+      "source": "devto"
+    },
+    "7e9938482e194986": {
+      "date": "2026-09-06",
+      "title": "Markov Chain Monte Carlo: the 1953 algorithm hiding under modern AI",
+      "source": "devto"
+    },
+    "25b59ea238d6d0ac": {
+      "date": "2026-09-06",
+      "title": "You write one kind sentence. I donate a dime. A blockchain makes sure I do.",
+      "source": "devto"
+    },
+    "1472c8817408672d": {
+      "date": "2026-09-06",
+      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
+      "source": "devto"
+    },
+    "f0a613d404e63932": {
+      "date": "2026-09-06",
+      "title": "Posting from a shed with one bar of signal: an offline write queue in plain JS",
+      "source": "devto"
+    },
+    "d4958e65cc59e8d4": {
+      "date": "2026-09-06",
+      "title": "Your audit log is probably lying to you. Postgres 18 fixes it in one statement.",
+      "source": "devto"
+    },
+    "41042573837af264": {
+      "date": "2026-09-06",
+      "title": "The impersonator's product is the gap between meaning and spelling, so we measured both in Snowflake",
+      "source": "devto"
+    },
+    "f7aedc17fc97817a": {
+      "date": "2026-09-06",
+      "title": "The charity had the proof. It just couldn't show anyone.",
+      "source": "devto"
+    },
+    "e60f6498c318c48b": {
+      "date": "2026-09-06",
+      "title": "openai / skills",
+      "source": "github"
+    },
+    "eeb7198dc2eb3375": {
+      "date": "2026-09-06",
+      "title": "llvm / llvm-project",
+      "source": "github"
+    },
+    "7344796a1c663646": {
+      "date": "2026-09-06",
+      "title": "coreyhaines31 / marketingskills",
+      "source": "github"
+    },
+    "322dcd7e9a66cb86": {
+      "date": "2026-09-06",
+      "title": "aipoch / open-science",
+      "source": "github"
+    },
+    "ccf10a9ea33b3491": {
+      "date": "2026-09-06",
+      "title": "OpenWhispr / openwhispr",
       "source": "github"
     }
   }
