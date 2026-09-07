@@ -1,332 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-06T22:43:42.715249",
+  "last_updated": "2026-09-07T22:44:29.008013",
   "sent_items": {
-    "c0fb715017047b76": {
-      "date": "2026-08-07",
-      "title": "Gesture Synth School",
-      "source": "producthunt"
-    },
-    "e5ac93b8c12d03d6": {
-      "date": "2026-08-07",
-      "title": "Shieldstral",
-      "source": "producthunt"
-    },
-    "e709b026f2c0dc62": {
-      "date": "2026-08-07",
-      "title": "Ododok",
-      "source": "producthunt"
-    },
-    "60e4ed0b0d37b484": {
-      "date": "2026-08-07",
-      "title": "Chute",
-      "source": "producthunt"
-    },
-    "f8dbf11b753ee758": {
-      "date": "2026-08-07",
-      "title": "Annotate",
-      "source": "producthunt"
-    },
-    "86c76b7183a37fdc": {
-      "date": "2026-08-07",
-      "title": "Aveiro",
-      "source": "producthunt"
-    },
-    "ca96b6ce9b7f6538": {
-      "date": "2026-08-07",
-      "title": "Website to Markdown API",
-      "source": "producthunt"
-    },
-    "b19f91df5ef61b4e": {
-      "date": "2026-08-07",
-      "title": "Mario Meets Pareto",
-      "source": "hackernews"
-    },
-    "dac781ad7a574503": {
-      "date": "2026-08-07",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "source": "hackernews"
-    },
-    "bd4d76abfd2226cc": {
-      "date": "2026-08-07",
-      "title": "Taste Is All That's Left",
-      "source": "hackernews"
-    },
-    "92027934d2df4e68": {
-      "date": "2026-08-07",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "source": "hackernews"
-    },
-    "dc4fd5ffb0569f79": {
-      "date": "2026-08-07",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "source": "hackernews"
-    },
-    "7d097087a4f55616": {
-      "date": "2026-08-07",
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "source": "hackernews"
-    },
-    "4fe53e355d185a68": {
-      "date": "2026-08-07",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "source": "hackernews"
-    },
-    "9154fd6b71ea4c1e": {
-      "date": "2026-08-07",
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "source": "hackernews"
-    },
-    "3f1dab2cb5b9bc58": {
-      "date": "2026-08-07",
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "source": "hackernews"
-    },
-    "796742e574b2a4e5": {
-      "date": "2026-08-07",
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
-      "source": "hackernews"
-    },
-    "5102252263a88826": {
-      "date": "2026-08-07",
-      "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
-      "source": "devto"
-    },
-    "c17b4f2633542bc1": {
-      "date": "2026-08-07",
-      "title": "I Recreated Management With AI: 9 Things I Do Differently",
-      "source": "devto"
-    },
-    "a4551ca54fd3b338": {
-      "date": "2026-08-07",
-      "title": "I Spent a Day With Kiro Crew. Here's What It Actually Does.",
-      "source": "devto"
-    },
-    "81cbe5cbca519e17": {
-      "date": "2026-08-07",
-      "title": "Opus 5: Delete your CLAUDE.md?",
-      "source": "devto"
-    },
-    "66cfc933464719ed": {
-      "date": "2026-08-07",
-      "title": "This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊",
-      "source": "devto"
-    },
-    "0c1e4a97b9a86a3f": {
-      "date": "2026-08-07",
-      "title": "I Replaced kube-proxy with eBPF in Production (And Why My Monitoring Went Blind for 6 Hours)",
-      "source": "devto"
-    },
-    "161745cab60ec1e9": {
-      "date": "2026-08-07",
-      "title": "What Developer Experience Actually Means",
-      "source": "devto"
-    },
-    "0a65b267f5c014ab": {
-      "date": "2026-08-07",
-      "title": "Dev log #15 Refining the Craft: A week of Neovim UI hacking and portfolio architecture",
-      "source": "devto"
-    },
-    "5578a1eda0be0c04": {
-      "date": "2026-08-07",
-      "title": "The Crash JavaScript Couldn't Catch: Fixing Android Native Crashes in a React Native App",
-      "source": "devto"
-    },
-    "3685e7e687ef2667": {
-      "date": "2026-08-07",
-      "title": "My First Paying Customer Failed 4 Times: Quality Is Not a Final Check",
-      "source": "devto"
-    },
-    "9f192d1849d45b01": {
-      "date": "2026-08-07",
-      "title": "goauthentik / authentik",
-      "source": "github"
-    },
-    "df6e390c235a42a2": {
-      "date": "2026-08-07",
-      "title": "google / guava",
-      "source": "github"
-    },
-    "7bd0775c5ce4ee5c": {
-      "date": "2026-08-07",
-      "title": "TapXWorld / ChinaTextbook",
-      "source": "github"
-    },
-    "2f5b9452f2dfd7d0": {
-      "date": "2026-08-07",
-      "title": "Significant-Gravitas / AutoGPT",
-      "source": "github"
-    },
-    "2e39f74301c7f0d2": {
-      "date": "2026-08-07",
-      "title": "DataBlur",
-      "source": "producthunt"
-    },
-    "05236b338b752be1": {
-      "date": "2026-08-07",
-      "title": "ShootClip",
-      "source": "producthunt"
-    },
-    "526dd679288e25b1": {
-      "date": "2026-08-07",
-      "title": "Blueberry",
-      "source": "producthunt"
-    },
-    "b105330180f3a437": {
-      "date": "2026-08-07",
-      "title": "Rescript for Desktop",
-      "source": "producthunt"
-    },
-    "9702f87280c9c4d6": {
-      "date": "2026-08-07",
-      "title": "Merge",
-      "source": "producthunt"
-    },
-    "e1922af2afb75b83": {
-      "date": "2026-08-07",
-      "title": "Soloop",
-      "source": "producthunt"
-    },
-    "84192075b6605656": {
-      "date": "2026-08-07",
-      "title": "Prompt Bridge",
-      "source": "producthunt"
-    },
-    "7072d9c4c23e8d9e": {
-      "date": "2026-08-07",
-      "title": "DeepSeek V4 Flash 0731",
-      "source": "hackernews"
-    },
-    "99c5fc173e86b393": {
-      "date": "2026-08-07",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "source": "hackernews"
-    },
-    "6ed73fb0dd97c3b1": {
-      "date": "2026-08-07",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "source": "hackernews"
-    },
-    "f222ab795a8b0a89": {
-      "date": "2026-08-07",
-      "title": "Assembly Hall of Shame",
-      "source": "hackernews"
-    },
-    "08c06a38d78616a1": {
-      "date": "2026-08-07",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "source": "hackernews"
-    },
-    "f05e07c94926179a": {
-      "date": "2026-08-07",
-      "title": "An all-sky map of half a million supermassive black holes",
-      "source": "hackernews"
-    },
-    "d8c1504d1e356d0c": {
-      "date": "2026-08-07",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "source": "hackernews"
-    },
-    "0b45378172f2c26b": {
-      "date": "2026-08-07",
-      "title": "Carl's Required Reading",
-      "source": "hackernews"
-    },
-    "6261db6c664affc6": {
-      "date": "2026-08-07",
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "source": "hackernews"
-    },
-    "7829fcdafb902a1e": {
-      "date": "2026-08-07",
-      "title": "Guarded Methods in OCaml",
-      "source": "hackernews"
-    },
-    "ab78ed3e629e5469": {
-      "date": "2026-08-07",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "93048ac6ebf563c9": {
-      "date": "2026-08-07",
-      "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
-      "source": "devto"
-    },
-    "9c07ec53d4f61988": {
-      "date": "2026-08-07",
-      "title": "ratatop: the process table, and the parentheses that ruin everything",
-      "source": "devto"
-    },
-    "bbd6724799e6e36c": {
-      "date": "2026-08-07",
-      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
-      "source": "devto"
-    },
-    "68efad4dcc7179b2": {
-      "date": "2026-08-07",
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "source": "devto"
-    },
-    "dc37a2d2e2fd1e52": {
-      "date": "2026-08-07",
-      "title": "I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier.",
-      "source": "devto"
-    },
-    "4dd5f51c5fdc5716": {
-      "date": "2026-08-07",
-      "title": "How Kiro Crew's Cron Jobs Replaced 4 Hours of Weekly Toil",
-      "source": "devto"
-    },
-    "6f4494bd409d7c7c": {
-      "date": "2026-08-07",
-      "title": "I Thought Building Agent Observability Was a Detector Problem. I Was Wrong.",
-      "source": "devto"
-    },
-    "e3a22662509caa5e": {
-      "date": "2026-08-07",
-      "title": "Aged Care Does Not Need More AI",
-      "source": "devto"
-    },
-    "3544e78c09ad8131": {
-      "date": "2026-08-07",
-      "title": "Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster",
-      "source": "devto"
-    },
-    "fd5ece9fb4227a5e": {
-      "date": "2026-08-07",
-      "title": "PrimeIntellect-ai / prime-agent",
-      "source": "github"
-    },
-    "a7f9890fb36a6a88": {
-      "date": "2026-08-07",
-      "title": "semantica-agi / semantica",
-      "source": "github"
-    },
-    "5fa324d6510a1f1b": {
-      "date": "2026-08-07",
-      "title": "666ghj / MiroFish",
-      "source": "github"
-    },
-    "babd5456309a43a6": {
-      "date": "2026-08-07",
-      "title": "jdx / mise",
-      "source": "github"
-    },
-    "6125ba6588eb10b8": {
-      "date": "2026-08-07",
-      "title": "unclebob / swarm-forge",
-      "source": "github"
-    },
-    "0ab654e456c47753": {
-      "date": "2026-08-07",
-      "title": "denoland / celld",
-      "source": "github"
-    },
-    "7b86631926e7e6f3": {
-      "date": "2026-08-07",
-      "title": "K2SOsint / Legendary_OSINT",
-      "source": "github"
-    },
     "482fdf4e3a0eb7bf": {
       "date": "2026-08-08",
       "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
@@ -5115,6 +4790,181 @@
     "ccf10a9ea33b3491": {
       "date": "2026-09-06",
       "title": "OpenWhispr / openwhispr",
+      "source": "github"
+    },
+    "47496228a4fc4e39": {
+      "date": "2026-09-07",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "source": "hackernews"
+    },
+    "ca113981b2328a1b": {
+      "date": "2026-09-07",
+      "title": "WeatherNext 3",
+      "source": "hackernews"
+    },
+    "a7cdf5e2d7c4a03f": {
+      "date": "2026-09-07",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "source": "hackernews"
+    },
+    "6b6cf87e682f5740": {
+      "date": "2026-09-07",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "source": "hackernews"
+    },
+    "9fa15a3694ebaeb8": {
+      "date": "2026-09-07",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "source": "hackernews"
+    },
+    "fc549e1af5287cd1": {
+      "date": "2026-09-07",
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "source": "hackernews"
+    },
+    "bf58ee2be0000e36": {
+      "date": "2026-09-07",
+      "title": "Methods for Random Gradients (2024)",
+      "source": "hackernews"
+    },
+    "80496da130ba1e81": {
+      "date": "2026-09-07",
+      "title": "Show HN: Interactive Tree of Life",
+      "source": "hackernews"
+    },
+    "4b81d2c5643073a3": {
+      "date": "2026-09-07",
+      "title": "Macbeth and His Problems",
+      "source": "hackernews"
+    },
+    "952e2cc01bce5a9f": {
+      "date": "2026-09-07",
+      "title": "How to Scale an Engineering Team in 90 Days: A Practical Latam Playbook",
+      "source": "hackernews"
+    },
+    "17f71c7f049f1854": {
+      "date": "2026-09-07",
+      "title": "Assist",
+      "source": "producthunt"
+    },
+    "68d05165a213dce9": {
+      "date": "2026-09-07",
+      "title": "Airuncode",
+      "source": "producthunt"
+    },
+    "a36c40789e28544d": {
+      "date": "2026-09-07",
+      "title": "Clipnote",
+      "source": "producthunt"
+    },
+    "1c67076c2568fcb5": {
+      "date": "2026-09-07",
+      "title": "Scriptly",
+      "source": "producthunt"
+    },
+    "b9131afb81bf9b26": {
+      "date": "2026-09-07",
+      "title": "Remind",
+      "source": "producthunt"
+    },
+    "5d645167132c95a7": {
+      "date": "2026-09-07",
+      "title": "Tucky",
+      "source": "producthunt"
+    },
+    "6f26541ea061bb59": {
+      "date": "2026-09-07",
+      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+      "source": "devto"
+    },
+    "f40e641f32567a41": {
+      "date": "2026-09-07",
+      "title": "Dozens of Resumes, One Call From an Old Colleague",
+      "source": "devto"
+    },
+    "4f88904a8c229a1d": {
+      "date": "2026-09-07",
+      "title": "Happen to Have? Answer One Before You Ask One",
+      "source": "devto"
+    },
+    "19fd19a3de671f14": {
+      "date": "2026-09-07",
+      "title": "ReachAloud: I built a multilingual voice tool that reads emergency alerts aloud for people who can't",
+      "source": "devto"
+    },
+    "e84251fd32e5552a": {
+      "date": "2026-09-07",
+      "title": "Charitas Clew: Bureaucracy is heavy. Let's build the counterweight.",
+      "source": "devto"
+    },
+    "326b93d002cedf14": {
+      "date": "2026-09-07",
+      "title": "Web Workers in JavaScript: The Complete Guide",
+      "source": "devto"
+    },
+    "dffaf0022f5557d3": {
+      "date": "2026-09-07",
+      "title": "The AI agent cost guides say $200 a month. Mine has cost $5.",
+      "source": "devto"
+    },
+    "191c0ff12599ef3b": {
+      "date": "2026-09-07",
+      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my",
+      "source": "devto"
+    },
+    "5d4cd5700dbbce65": {
+      "date": "2026-09-07",
+      "title": "Nobody Checks Whether the Guardrail Is Running",
+      "source": "devto"
+    },
+    "de147afc32b215ee": {
+      "date": "2026-09-07",
+      "title": "Mikono",
+      "source": "devto"
+    },
+    "1c708e2373cec766": {
+      "date": "2026-09-07",
+      "title": "heygen-com / hyperframes",
+      "source": "github"
+    },
+    "33054ecb8bf0f855": {
+      "date": "2026-09-07",
+      "title": "microsoft / markitdown",
+      "source": "github"
+    },
+    "1bcf0237559db521": {
+      "date": "2026-09-07",
+      "title": "mksglu / context-mode",
+      "source": "github"
+    },
+    "1fbaa3734f80967a": {
+      "date": "2026-09-07",
+      "title": "jo-inc / camofox-browser",
+      "source": "github"
+    },
+    "24c6bd1d49373135": {
+      "date": "2026-09-07",
+      "title": "MoonTechLab / LunaTV",
+      "source": "github"
+    },
+    "b78843cbbd770d80": {
+      "date": "2026-09-07",
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-09-07",
+      "title": "bytedance / deer-flow",
+      "source": "github"
+    },
+    "3e5bc6114122e8e4": {
+      "date": "2026-09-07",
+      "title": "lightpanda-io / browser",
+      "source": "github"
+    },
+    "f3ea32c160be052c": {
+      "date": "2026-09-07",
+      "title": "pascalorg / editor",
       "source": "github"
     }
   }
