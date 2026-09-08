@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-07T22:44:29.008013",
+  "last_updated": "2026-09-08T22:45:26.904673",
   "sent_items": {
-    "482fdf4e3a0eb7bf": {
-      "date": "2026-08-08",
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "source": "hackernews"
-    },
-    "ea121f25d18711ce": {
-      "date": "2026-08-08",
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "source": "hackernews"
-    },
-    "a883b083f3d8a86d": {
-      "date": "2026-08-08",
-      "title": "A domain can now say it is for sale, in DNS",
-      "source": "hackernews"
-    },
-    "c4c593837e6d495c": {
-      "date": "2026-08-08",
-      "title": "Fastmail offers EU data region",
-      "source": "hackernews"
-    },
-    "abdc68130cebc26d": {
-      "date": "2026-08-08",
-      "title": "LinkedIn Feed Blocker",
-      "source": "hackernews"
-    },
-    "2d193cba6f4e8dfd": {
-      "date": "2026-08-08",
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "source": "hackernews"
-    },
-    "6db0bbb1c6af502d": {
-      "date": "2026-08-08",
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "source": "hackernews"
-    },
-    "7b9e4df6ad0b1391": {
-      "date": "2026-08-08",
-      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-      "source": "hackernews"
-    },
-    "544667de7d520ee0": {
-      "date": "2026-08-08",
-      "title": "Preventing Misfolding by Preventing Folding",
-      "source": "hackernews"
-    },
-    "378cf497bb609814": {
-      "date": "2026-08-08",
-      "title": "Making difficulty curves in games",
-      "source": "hackernews"
-    },
-    "cc0850cf5e0e5eb1": {
-      "date": "2026-08-08",
-      "title": "Toolport",
-      "source": "producthunt"
-    },
-    "9ed0a10c7f60579a": {
-      "date": "2026-08-08",
-      "title": "Hexis",
-      "source": "producthunt"
-    },
-    "727a01bbb8ed20ab": {
-      "date": "2026-08-08",
-      "title": "AstraPixels",
-      "source": "producthunt"
-    },
-    "fcd808e501953b4f": {
-      "date": "2026-08-08",
-      "title": "Rindler",
-      "source": "producthunt"
-    },
-    "724ab43f9b4a28cc": {
-      "date": "2026-08-08",
-      "title": "Progress AI Observability",
-      "source": "producthunt"
-    },
-    "9b35f034cfea909c": {
-      "date": "2026-08-08",
-      "title": "Into the void",
-      "source": "devto"
-    },
-    "5a27c56af4fcdad9": {
-      "date": "2026-08-08",
-      "title": "Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮",
-      "source": "devto"
-    },
-    "6e6b4a5bc2144303": {
-      "date": "2026-08-08",
-      "title": "I Know the Recipe. I Miss the Winter Kitchen.",
-      "source": "devto"
-    },
-    "f00c6025347c7bcf": {
-      "date": "2026-08-08",
-      "title": "I Explained My Code While Writing It on Camera. Here’s What Surprised Me",
-      "source": "devto"
-    },
-    "a421f72117ff05de": {
-      "date": "2026-08-08",
-      "title": "I Put a Canary Token in My Resume and Caught a Company Stalking Me",
-      "source": "devto"
-    },
-    "40503d8f8a09c6b3": {
-      "date": "2026-08-08",
-      "title": "Who Named This ReAct? I'd Like to Speak to the Manager.",
-      "source": "devto"
-    },
-    "e62179b1d45106f1": {
-      "date": "2026-08-08",
-      "title": "Week 9: Verifying the Token",
-      "source": "devto"
-    },
-    "13f763427d233026": {
-      "date": "2026-08-08",
-      "title": "AI Won't Kill Your AI Won't Kill Your Motivation. But Mediocrity Might.",
-      "source": "devto"
-    },
-    "866727ac24a7b7e5": {
-      "date": "2026-08-08",
-      "title": "Every Test Can Name Why It Exists",
-      "source": "devto"
-    },
-    "71a9d7e07d29eaae": {
-      "date": "2026-08-08",
-      "title": "Our Token Counter Took 26 Seconds on a Single Prompt",
-      "source": "devto"
-    },
-    "69c7eb76fe0b1fcc": {
-      "date": "2026-08-08",
-      "title": "google / skills",
-      "source": "github"
-    },
-    "afdace39e7492d8a": {
-      "date": "2026-08-08",
-      "title": "TauricResearch / TradingAgents",
-      "source": "github"
-    },
-    "b4c1f3891d0e98fc": {
-      "date": "2026-08-08",
-      "title": "LadybirdBrowser / ladybird",
-      "source": "github"
-    },
-    "66a6bfb667a601ed": {
-      "date": "2026-08-08",
-      "title": "litu54 / DevOps-Interview-Guide",
-      "source": "github"
-    },
-    "0e9d524ba522c191": {
-      "date": "2026-08-08",
-      "title": "bannedbook / fanqiang",
-      "source": "github"
-    },
     "bc7e331fcbd972f3": {
       "date": "2026-08-09",
       "title": "Workflo",
@@ -4965,6 +4815,161 @@
     "f3ea32c160be052c": {
       "date": "2026-09-07",
       "title": "pascalorg / editor",
+      "source": "github"
+    },
+    "d9dc9aa87fd5c0c9": {
+      "date": "2026-09-08",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "source": "hackernews"
+    },
+    "b4383194e44b1ecc": {
+      "date": "2026-09-08",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "source": "hackernews"
+    },
+    "4208044b3e12d054": {
+      "date": "2026-09-08",
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "source": "hackernews"
+    },
+    "e031e020aa25c04c": {
+      "date": "2026-09-08",
+      "title": "DaVinci Resolve 21.1",
+      "source": "hackernews"
+    },
+    "4c568d6cded0f921": {
+      "date": "2026-09-08",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "source": "hackernews"
+    },
+    "b09da4c7d840a8ae": {
+      "date": "2026-09-08",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "source": "hackernews"
+    },
+    "851b4565b9f7f2eb": {
+      "date": "2026-09-08",
+      "title": "Mercury 2.5",
+      "source": "hackernews"
+    },
+    "8c42ca1f833d47f0": {
+      "date": "2026-09-08",
+      "title": "Animation in Bevy: The Big Picture",
+      "source": "hackernews"
+    },
+    "fd17cfecbc9665e6": {
+      "date": "2026-09-08",
+      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "source": "hackernews"
+    },
+    "7107a2df334996e7": {
+      "date": "2026-09-08",
+      "title": "How to Build a Printer",
+      "source": "hackernews"
+    },
+    "44c4a60269678cc4": {
+      "date": "2026-09-08",
+      "title": "Jupitrr Cut",
+      "source": "producthunt"
+    },
+    "be9667dff98193fc": {
+      "date": "2026-09-08",
+      "title": "Knockin'",
+      "source": "producthunt"
+    },
+    "062ecbc56a3c5d87": {
+      "date": "2026-09-08",
+      "title": "Catenary",
+      "source": "producthunt"
+    },
+    "7086ecc66ffda31f": {
+      "date": "2026-09-08",
+      "title": "Kopai",
+      "source": "producthunt"
+    },
+    "266dec25f5d372f5": {
+      "date": "2026-09-08",
+      "title": "Tables.so",
+      "source": "producthunt"
+    },
+    "d5ca5f2e9379d6e0": {
+      "date": "2026-09-08",
+      "title": "Dictantor",
+      "source": "producthunt"
+    },
+    "d8d0a8b151b31dec": {
+      "date": "2026-09-08",
+      "title": "TapCraft",
+      "source": "producthunt"
+    },
+    "ddeb1a1100e1d55b": {
+      "date": "2026-09-08",
+      "title": "Most 'AI Agents' Are Just If-Statements in a Trench Coat",
+      "source": "devto"
+    },
+    "057629ebdce19831": {
+      "date": "2026-09-08",
+      "title": "Has AI Made You A Lazier Developer? Be Honest.",
+      "source": "devto"
+    },
+    "22ff900154751e60": {
+      "date": "2026-09-08",
+      "title": "🟣 Ever Fluorescent: Live Again!",
+      "source": "devto"
+    },
+    "3e722fae2c536191": {
+      "date": "2026-09-08",
+      "title": "Wiring a Reachy Mini into OpenClaw without trusting the robot",
+      "source": "devto"
+    },
+    "c45fcf782a35a5e2": {
+      "date": "2026-09-08",
+      "title": "Networking is Hard but easy to think about.",
+      "source": "devto"
+    },
+    "699d556c1da78dad": {
+      "date": "2026-09-08",
+      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
+      "source": "devto"
+    },
+    "8b43077627109789": {
+      "date": "2026-09-08",
+      "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternative Built for Scale",
+      "source": "devto"
+    },
+    "34debf9d32b3fcda": {
+      "date": "2026-09-08",
+      "title": "The Desktop Looked Right: 2,093 Parse Errors a Boot, and 10.9 Seconds That Weren't Doing Anything",
+      "source": "devto"
+    },
+    "67f830494c32bbc9": {
+      "date": "2026-09-08",
+      "title": "You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had",
+      "source": "devto"
+    },
+    "f8c2203e13187724": {
+      "date": "2026-09-08",
+      "title": "Future AWS Agent Engineer? I Didn't Write the Code. Does It Count?",
+      "source": "devto"
+    },
+    "ee7d6f2f5cec7fb9": {
+      "date": "2026-09-08",
+      "title": "ayghri / i-have-adhd",
+      "source": "github"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-09-08",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "2f48be63fe82be5d": {
+      "date": "2026-09-08",
+      "title": "browser-use / browser-use",
+      "source": "github"
+    },
+    "661963add6d5f89f": {
+      "date": "2026-09-08",
+      "title": "viarotel-org / escrcpy",
       "source": "github"
     }
   }
