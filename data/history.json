@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-08T22:45:26.904673",
+  "last_updated": "2026-09-09T22:45:10.905285",
   "sent_items": {
-    "bc7e331fcbd972f3": {
-      "date": "2026-08-09",
-      "title": "Workflo",
-      "source": "producthunt"
-    },
-    "1b6e4ea6cd7b4d25": {
-      "date": "2026-08-09",
-      "title": "DocsAlot CLI",
-      "source": "producthunt"
-    },
-    "c0572936159eb9aa": {
-      "date": "2026-08-09",
-      "title": "Argos",
-      "source": "producthunt"
-    },
-    "40b102f84f9de363": {
-      "date": "2026-08-09",
-      "title": "DuckDisk",
-      "source": "producthunt"
-    },
-    "7080cdcb3c418976": {
-      "date": "2026-08-09",
-      "title": "ConferenceGrid",
-      "source": "producthunt"
-    },
-    "309357ee071bc2e5": {
-      "date": "2026-08-09",
-      "title": "VoiceOS App Store",
-      "source": "producthunt"
-    },
-    "71835aafd4208675": {
-      "date": "2026-08-09",
-      "title": "Soup CLI",
-      "source": "producthunt"
-    },
-    "e59cbb1632148cf1": {
-      "date": "2026-08-09",
-      "title": "Good Assistant 2",
-      "source": "producthunt"
-    },
-    "b8833e2e23524bdc": {
-      "date": "2026-08-09",
-      "title": "Mea Culpa – Dark Hours",
-      "source": "hackernews"
-    },
-    "dd94114e1e0a7347": {
-      "date": "2026-08-09",
-      "title": "How I use LLMs to learn complex topics",
-      "source": "hackernews"
-    },
-    "eb5cbeebc7423c53": {
-      "date": "2026-08-09",
-      "title": "Cool URIs Don't Change (1998)",
-      "source": "hackernews"
-    },
-    "c4b7521898c37f98": {
-      "date": "2026-08-09",
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "source": "hackernews"
-    },
-    "726c5c34d778ed45": {
-      "date": "2026-08-09",
-      "title": "OpenChamber: An Agentic Development Environment",
-      "source": "hackernews"
-    },
-    "4c74710d48b194a8": {
-      "date": "2026-08-09",
-      "title": "The Hacker's Renaissance",
-      "source": "hackernews"
-    },
-    "10af8ac6d73b26b5": {
-      "date": "2026-08-09",
-      "title": "The tragedy of the commons, AI edition",
-      "source": "hackernews"
-    },
-    "22fe051caa07502a": {
-      "date": "2026-08-09",
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "source": "hackernews"
-    },
-    "c4f383e6dd6d14c0": {
-      "date": "2026-08-09",
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "source": "hackernews"
-    },
-    "e659324037989519": {
-      "date": "2026-08-09",
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "source": "hackernews"
-    },
-    "9df15693a325a4df": {
-      "date": "2026-08-09",
-      "title": "vitali87 / code-graph-rag",
-      "source": "github"
-    },
-    "5c6b792d638db986": {
-      "date": "2026-08-09",
-      "title": "pranshuparmar / witr",
-      "source": "github"
-    },
-    "ebb1d052d7691b41": {
-      "date": "2026-08-09",
-      "title": "google-deepmind / weathernext",
-      "source": "github"
-    },
-    "4ec6d5af71eebc5a": {
-      "date": "2026-08-09",
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "source": "github"
-    },
-    "cfd080a015af43f1": {
-      "date": "2026-08-09",
-      "title": "Comfy-Org / ComfyUI",
-      "source": "github"
-    },
-    "366a0618b79f3f5d": {
-      "date": "2026-08-09",
-      "title": "harveyai / harvey-labs",
-      "source": "github"
-    },
-    "fee2f0fe7d27e545": {
-      "date": "2026-08-09",
-      "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
-      "source": "devto"
-    },
-    "1fc16c1b9b262974": {
-      "date": "2026-08-09",
-      "title": "🛻CSS Art: Smoothie Food Truck",
-      "source": "devto"
-    },
-    "a50b750af22a82e3": {
-      "date": "2026-08-09",
-      "title": "I measured his app with his own code. He measured my claim with his own corpus.",
-      "source": "devto"
-    },
-    "b80d61a1c673b8fc": {
-      "date": "2026-08-09",
-      "title": "Which parts of this are real? Should be a question with an answer",
-      "source": "devto"
-    },
-    "25a018b967ad81fd": {
-      "date": "2026-08-09",
-      "title": "🏦 Vaya: an AI loan advisor that asks whether you can still afford to live",
-      "source": "devto"
-    },
-    "2789e448981879ef": {
-      "date": "2026-08-09",
-      "title": "Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins",
-      "source": "devto"
-    },
-    "66448213c7b4dd65": {
-      "date": "2026-08-09",
-      "title": "Surviving the AI Bubble With Two Pieces of Junk From Amazon",
-      "source": "devto"
-    },
-    "8ae1f20c5df791bc": {
-      "date": "2026-08-09",
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "source": "devto"
-    },
-    "1d93487500ac4cf8": {
-      "date": "2026-08-09",
-      "title": "Rasa Kenangan — Immersive Scroll Narrative Landing Page",
-      "source": "devto"
-    },
-    "c25dc9e46c7624a4": {
-      "date": "2026-08-09",
-      "title": "I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.",
-      "source": "devto"
-    },
     "654273d093b087f3": {
       "date": "2026-08-10",
       "title": "What Happened to HackerOne?",
@@ -4970,6 +4800,166 @@
     "661963add6d5f89f": {
       "date": "2026-09-08",
       "title": "viarotel-org / escrcpy",
+      "source": "github"
+    },
+    "9957c79ffef38007": {
+      "date": "2026-09-09",
+      "title": "Shopify acquires Tailwind",
+      "source": "hackernews"
+    },
+    "97a283893ecfb338": {
+      "date": "2026-09-09",
+      "title": "iPhone Duo",
+      "source": "hackernews"
+    },
+    "7c8805d4b4f17b69": {
+      "date": "2026-09-09",
+      "title": "AirPods 5",
+      "source": "hackernews"
+    },
+    "bd1732c25d87d73b": {
+      "date": "2026-09-09",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "source": "hackernews"
+    },
+    "51f7db6b771801e8": {
+      "date": "2026-09-09",
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "source": "hackernews"
+    },
+    "8b9c58deed220c97": {
+      "date": "2026-09-09",
+      "title": "No Man's Sky Cosmos",
+      "source": "hackernews"
+    },
+    "7922e225670bec56": {
+      "date": "2026-09-09",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": "hackernews"
+    },
+    "2899961cd8f9f0be": {
+      "date": "2026-09-09",
+      "title": "Apple Watch Series 12",
+      "source": "hackernews"
+    },
+    "8b2b7a6a8886c77b": {
+      "date": "2026-09-09",
+      "title": "Growing proof that autonomous cars save lives",
+      "source": "hackernews"
+    },
+    "da8be70ef85f222c": {
+      "date": "2026-09-09",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "source": "hackernews"
+    },
+    "963f5e4b1b7f7823": {
+      "date": "2026-09-09",
+      "title": "WorkID.ai",
+      "source": "producthunt"
+    },
+    "6ac43648e6e26038": {
+      "date": "2026-09-09",
+      "title": "AlphaGenome Atlas",
+      "source": "producthunt"
+    },
+    "9e21b75e9d4a878e": {
+      "date": "2026-09-09",
+      "title": "Frigade Assist API",
+      "source": "producthunt"
+    },
+    "57e6b3bcfc4f83a9": {
+      "date": "2026-09-09",
+      "title": "Ass Auction",
+      "source": "producthunt"
+    },
+    "95589bb617edc987": {
+      "date": "2026-09-09",
+      "title": "DuckFightClub",
+      "source": "producthunt"
+    },
+    "1e137dc58bd24ac3": {
+      "date": "2026-09-09",
+      "title": "Muse by Meta",
+      "source": "producthunt"
+    },
+    "a0fa28f11d9edfa1": {
+      "date": "2026-09-09",
+      "title": "I let AI write 100% of my code for 30 days. Here's what broke.",
+      "source": "devto"
+    },
+    "135bfbe44816ed26": {
+      "date": "2026-09-09",
+      "title": "My OSS Projects: AngleSharp",
+      "source": "devto"
+    },
+    "dea220e8a9b23965": {
+      "date": "2026-09-09",
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA ",
+      "source": "devto"
+    },
+    "f633e28124a883c2": {
+      "date": "2026-09-09",
+      "title": "The Verification Bottleneck in AI-Generated Software",
+      "source": "devto"
+    },
+    "c913134a29a616d5": {
+      "date": "2026-09-09",
+      "title": "Como eu aprendi a aprender (e por que a IA não veio pra pensar por você)",
+      "source": "devto"
+    },
+    "f6a1e49218b5d3f8": {
+      "date": "2026-09-09",
+      "title": "I Hid a Rule in CLAUDE.md. Only One Reviewer Could Prove It Read It.",
+      "source": "devto"
+    },
+    "36a597f7e34509fd": {
+      "date": "2026-09-09",
+      "title": "Beyond Black-Box Concurrency: Streamless Event Transformers, Telemetry, and the End of Stream-Whacki",
+      "source": "devto"
+    },
+    "4cc6b4186e61c7ae": {
+      "date": "2026-09-09",
+      "title": "I let a model suggest Postgres indexes, then made the database mark its work",
+      "source": "devto"
+    },
+    "c317f2f6476e1953": {
+      "date": "2026-09-09",
+      "title": "The Mathematicians Just Felt It: What Happens to a Lifetime of Work When a Machine Finishes It in Da",
+      "source": "devto"
+    },
+    "b5e503de9c9a8c50": {
+      "date": "2026-09-09",
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "source": "devto"
+    },
+    "34967cc49afa3eb2": {
+      "date": "2026-09-09",
+      "title": "Tencent / teamai-cli",
+      "source": "github"
+    },
+    "7a4b3790492aaeb5": {
+      "date": "2026-09-09",
+      "title": "earthtojake / text-to-cad",
+      "source": "github"
+    },
+    "afdace39e7492d8a": {
+      "date": "2026-09-09",
+      "title": "TauricResearch / TradingAgents",
+      "source": "github"
+    },
+    "e0a677875e2d809f": {
+      "date": "2026-09-09",
+      "title": "liquidslr / system-design-notes",
+      "source": "github"
+    },
+    "8c9e20fc0efe6fec": {
+      "date": "2026-09-09",
+      "title": "openai / plugins",
+      "source": "github"
+    },
+    "a74679813d6844b1": {
+      "date": "2026-09-09",
+      "title": "vastsa / PI-Desktop",
       "source": "github"
     }
   }
