@@ -1,232 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-09T22:45:10.905285",
+  "last_updated": "2026-09-11T00:30:24.905729",
   "sent_items": {
-    "654273d093b087f3": {
-      "date": "2026-08-10",
-      "title": "What Happened to HackerOne?",
-      "source": "hackernews"
-    },
-    "796635d12b27805f": {
-      "date": "2026-08-10",
-      "title": "Auto mode is now the default in Claude Code",
-      "source": "hackernews"
-    },
-    "505fb262895ec4bf": {
-      "date": "2026-08-10",
-      "title": "How We Pushed CDC into Postgres",
-      "source": "hackernews"
-    },
-    "2a66c41bb53b0e14": {
-      "date": "2026-08-10",
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "source": "hackernews"
-    },
-    "51e3d9e70ee95a79": {
-      "date": "2026-08-10",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "source": "hackernews"
-    },
-    "12ff5d29113f9c5e": {
-      "date": "2026-08-10",
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "source": "hackernews"
-    },
-    "ca78138e899a2b3f": {
-      "date": "2026-08-10",
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "source": "hackernews"
-    },
-    "e105a5f866f7703c": {
-      "date": "2026-08-10",
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "source": "hackernews"
-    },
-    "9904dbebc30be947": {
-      "date": "2026-08-10",
-      "title": "Slap ROM Patcher",
-      "source": "hackernews"
-    },
-    "5020d229ca512ec8": {
-      "date": "2026-08-10",
-      "title": "Grok Imagine 2.0",
-      "source": "producthunt"
-    },
-    "065a57c98e91dce3": {
-      "date": "2026-08-10",
-      "title": "radiusHQ",
-      "source": "producthunt"
-    },
-    "7d95565645f62e70": {
-      "date": "2026-08-10",
-      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
-      "source": "devto"
-    },
-    "d8ec7c4d468d4aff": {
-      "date": "2026-08-10",
-      "title": "Exploring Sentry: Reducing Load Time 🐢",
-      "source": "devto"
-    },
-    "0b31cedf77f3739d": {
-      "date": "2026-08-10",
-      "title": "My Self-Evolving AI Agent Kept Passing Its Own Tests. The Code Had Never Run",
-      "source": "devto"
-    },
-    "77aefba2d6552e15": {
-      "date": "2026-08-10",
-      "title": "What I learned building a long-lived AI agent (the boring version)",
-      "source": "devto"
-    },
-    "3f4b51b0e9d78667": {
-      "date": "2026-08-11",
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "source": "hackernews"
-    },
-    "49d99e09b3af488a": {
-      "date": "2026-08-11",
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "source": "hackernews"
-    },
-    "a6dccbbdc714bdf5": {
-      "date": "2026-08-11",
-      "title": "Sonic Pi v5",
-      "source": "hackernews"
-    },
-    "b04d159662d4b7f7": {
-      "date": "2026-08-11",
-      "title": "Stop Killing Games: It's time to sue Sony, join us",
-      "source": "hackernews"
-    },
-    "dc264893595eec75": {
-      "date": "2026-08-11",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "source": "hackernews"
-    },
-    "9264bf4ae1a10e7f": {
-      "date": "2026-08-11",
-      "title": "Rust SIMD on the GPU",
-      "source": "hackernews"
-    },
-    "a0494395c336fd6c": {
-      "date": "2026-08-11",
-      "title": "Google Search Is Dying. What Comes Next Is Worse",
-      "source": "hackernews"
-    },
-    "d391f79699f3d81e": {
-      "date": "2026-08-11",
-      "title": "Confessions of a Long-Distance Sailor",
-      "source": "hackernews"
-    },
-    "c6722278db09c861": {
-      "date": "2026-08-11",
-      "title": "Publishing Schematics Before “Open Source” Was a Word",
-      "source": "hackernews"
-    },
-    "f588cfe00f7792da": {
-      "date": "2026-08-11",
-      "title": "World Train Map – 1247 train routes around the world",
-      "source": "hackernews"
-    },
-    "9e18f55f46a5b880": {
-      "date": "2026-08-11",
-      "title": "AI Group Call",
-      "source": "producthunt"
-    },
-    "8b63a506a140c426": {
-      "date": "2026-08-11",
-      "title": "Gutta",
-      "source": "producthunt"
-    },
-    "1a9c3f2354b1d8ff": {
-      "date": "2026-08-11",
-      "title": "SecondBrain Note by GenSpark",
-      "source": "producthunt"
-    },
-    "74118be369932447": {
-      "date": "2026-08-11",
-      "title": "Vidaya",
-      "source": "producthunt"
-    },
-    "c5a61356678ee104": {
-      "date": "2026-08-11",
-      "title": "Prime Agent",
-      "source": "producthunt"
-    },
-    "47867c5899729330": {
-      "date": "2026-08-11",
-      "title": "Remix",
-      "source": "producthunt"
-    },
-    "f1bdf7d3fda0c1d8": {
-      "date": "2026-08-11",
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "source": "devto"
-    },
-    "b5e80fb41444e2a9": {
-      "date": "2026-08-11",
-      "title": "I Joined dev.to because...",
-      "source": "devto"
-    },
-    "de882e7d41bf88bc": {
-      "date": "2026-08-11",
-      "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
-      "source": "devto"
-    },
-    "4fa728254e4f35ec": {
-      "date": "2026-08-11",
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "source": "devto"
-    },
-    "ecd786318f71a29f": {
-      "date": "2026-08-11",
-      "title": "What Would You Tell Someone Early in Their Career?",
-      "source": "devto"
-    },
-    "6d74b8abfccc0798": {
-      "date": "2026-08-11",
-      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
-      "source": "devto"
-    },
-    "7ddfd7dfc3389324": {
-      "date": "2026-08-11",
-      "title": "Daal Bhaath Chokha: Home, Jharkhand (CSS Art)",
-      "source": "devto"
-    },
-    "cff0837414596c79": {
-      "date": "2026-08-11",
-      "title": "Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are",
-      "source": "devto"
-    },
-    "49bde3ae3bfb9d98": {
-      "date": "2026-08-11",
-      "title": "Three Clouds, Three Native Agents",
-      "source": "devto"
-    },
-    "df57c71de51d152b": {
-      "date": "2026-08-11",
-      "title": "Fixing a Silent Cache Bug in npmx.dev",
-      "source": "devto"
-    },
-    "e596fc31d0dc4f76": {
-      "date": "2026-08-11",
-      "title": "paperclipai / paperclip",
-      "source": "github"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-08-11",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "5d466100c8b3862c": {
-      "date": "2026-08-11",
-      "title": "danielmiessler / LifeOS",
-      "source": "github"
-    },
-    "49a1c7e387a4e695": {
-      "date": "2026-08-11",
-      "title": "firecrawl / firecrawl",
-      "source": "github"
-    },
     "6a457ad709cce9f6": {
       "date": "2026-08-12",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -4960,6 +4735,181 @@
     "a74679813d6844b1": {
       "date": "2026-09-09",
       "title": "vastsa / PI-Desktop",
+      "source": "github"
+    },
+    "1271c6f02490fc86": {
+      "date": "2026-09-11",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "source": "hackernews"
+    },
+    "e04e915ea184d365": {
+      "date": "2026-09-11",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "source": "hackernews"
+    },
+    "98b38ad8c04af763": {
+      "date": "2026-09-11",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "source": "hackernews"
+    },
+    "f75c9c257c658f05": {
+      "date": "2026-09-11",
+      "title": "Don't let anyone take away your big box of cables",
+      "source": "hackernews"
+    },
+    "7109052a26098014": {
+      "date": "2026-09-11",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "source": "hackernews"
+    },
+    "7a83d367ae541a99": {
+      "date": "2026-09-11",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "source": "hackernews"
+    },
+    "080ef98309b19ae7": {
+      "date": "2026-09-11",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "source": "hackernews"
+    },
+    "0f4979d2480b3442": {
+      "date": "2026-09-11",
+      "title": "OpenAI Agents API",
+      "source": "hackernews"
+    },
+    "a9e9446ba2c46795": {
+      "date": "2026-09-11",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "source": "hackernews"
+    },
+    "c2a04af6bfc66950": {
+      "date": "2026-09-11",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "source": "hackernews"
+    },
+    "73ffd56b2157519b": {
+      "date": "2026-09-11",
+      "title": "AirPods 5",
+      "source": "producthunt"
+    },
+    "b0b47e64f96d65cd": {
+      "date": "2026-09-11",
+      "title": "Vibe Eyes",
+      "source": "producthunt"
+    },
+    "60ef1ee6eef9d8f8": {
+      "date": "2026-09-11",
+      "title": "Modeinspect",
+      "source": "producthunt"
+    },
+    "c0f98e6f8ecb0a8e": {
+      "date": "2026-09-11",
+      "title": "Wealthfolio",
+      "source": "producthunt"
+    },
+    "db2e01fac7242cf0": {
+      "date": "2026-09-11",
+      "title": "Whip",
+      "source": "producthunt"
+    },
+    "97af8026640c2a02": {
+      "date": "2026-09-11",
+      "title": "Speechmark",
+      "source": "producthunt"
+    },
+    "db41e2818dbb309b": {
+      "date": "2026-09-11",
+      "title": "Desert Ant Labs",
+      "source": "producthunt"
+    },
+    "50620774502cec6f": {
+      "date": "2026-09-11",
+      "title": "Drive",
+      "source": "producthunt"
+    },
+    "0b4cc738886252dc": {
+      "date": "2026-09-11",
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "source": "devto"
+    },
+    "f6a3554dd3757a88": {
+      "date": "2026-09-11",
+      "title": "AI Is Already Better at Coding Than Most Software Developers",
+      "source": "devto"
+    },
+    "f8684bb4dcfaf651": {
+      "date": "2026-09-11",
+      "title": "Paradox between Sharing your Accomplishments and Ego",
+      "source": "devto"
+    },
+    "7fec9c934a131858": {
+      "date": "2026-09-11",
+      "title": "Someone Spammed My DEV Post. I Traced It to a Wombat.",
+      "source": "devto"
+    },
+    "070e7b52d4d284c9": {
+      "date": "2026-09-11",
+      "title": "Show Me the Article You're Most Proud Of And I'll Read Every Single One of Them",
+      "source": "devto"
+    },
+    "c2aa599448f992f2": {
+      "date": "2026-09-11",
+      "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
+      "source": "devto"
+    },
+    "df52422144b735cb": {
+      "date": "2026-09-11",
+      "title": "Down Is Kind, Slow Is Fatal: Circuit Breakers and the Three Links Around Them",
+      "source": "devto"
+    },
+    "a7211af7a05991a0": {
+      "date": "2026-09-11",
+      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't Know It Was Being Audited.",
+      "source": "devto"
+    },
+    "4aa2c02cd89df0e7": {
+      "date": "2026-09-11",
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "source": "devto"
+    },
+    "1ea5a45d11da6630": {
+      "date": "2026-09-11",
+      "title": "SQLite 3.53's self-healing index only repairs the rows you write to",
+      "source": "devto"
+    },
+    "30f45cd66d5520ce": {
+      "date": "2026-09-11",
+      "title": "alsk1992 / CloddsBot",
+      "source": "github"
+    },
+    "018703fab583e3d5": {
+      "date": "2026-09-11",
+      "title": "AlexsJones / llmfit",
+      "source": "github"
+    },
+    "09519de43606bab9": {
+      "date": "2026-09-11",
+      "title": "armory3d / armorpaint",
+      "source": "github"
+    },
+    "10942d97d561cb4c": {
+      "date": "2026-09-11",
+      "title": "diegosouzapw / OmniRoute",
+      "source": "github"
+    },
+    "d8699931bd0d7791": {
+      "date": "2026-09-11",
+      "title": "JustVugg / colibri",
+      "source": "github"
+    },
+    "885b91dee30db7b9": {
+      "date": "2026-09-11",
+      "title": "nashsu / llm_wiki",
+      "source": "github"
+    },
+    "7634ab012b3dcc8f": {
+      "date": "2026-09-11",
+      "title": "vercel-labs / skills",
       "source": "github"
     }
   }
