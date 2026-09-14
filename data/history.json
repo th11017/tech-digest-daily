@@ -1,332 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-13T00:15:18.495958",
+  "last_updated": "2026-09-14T00:22:59.560924",
   "sent_items": {
-    "23bd25fa418a6f27": {
-      "date": "2026-08-14",
-      "title": "Human Behavior",
-      "source": "producthunt"
-    },
-    "5512cbf48feb7ab8": {
-      "date": "2026-08-14",
-      "title": "Insta360 X6",
-      "source": "producthunt"
-    },
-    "23bd81717ac3c0a1": {
-      "date": "2026-08-14",
-      "title": "Patience",
-      "source": "producthunt"
-    },
-    "06789f072804c43c": {
-      "date": "2026-08-14",
-      "title": "Kivicube",
-      "source": "producthunt"
-    },
-    "2a5c2f445201a4b0": {
-      "date": "2026-08-14",
-      "title": "Kin Health",
-      "source": "producthunt"
-    },
-    "cd4fc5b08016fd5b": {
-      "date": "2026-08-14",
-      "title": "Skilldocs",
-      "source": "producthunt"
-    },
-    "d796b0467de1c9ae": {
-      "date": "2026-08-14",
-      "title": "FluidDocs CLI",
-      "source": "producthunt"
-    },
-    "ef7901950af723c8": {
-      "date": "2026-08-14",
-      "title": "Mem Agent",
-      "source": "producthunt"
-    },
-    "c4b202ac50c2a47d": {
-      "date": "2026-08-14",
-      "title": "Gemini 3.7 Flash",
-      "source": "hackernews"
-    },
-    "9f127a2494c26598": {
-      "date": "2026-08-14",
-      "title": "DeepSeek Harness developer preview",
-      "source": "hackernews"
-    },
-    "12ac73783350158c": {
-      "date": "2026-08-14",
-      "title": "Spaghettifying DRAM",
-      "source": "hackernews"
-    },
-    "78707d245003fa2f": {
-      "date": "2026-08-14",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "source": "hackernews"
-    },
-    "6723325d9229f986": {
-      "date": "2026-08-14",
-      "title": "Choose Boring Technology (2015)",
-      "source": "hackernews"
-    },
-    "a864f7ed2ba92486": {
-      "date": "2026-08-14",
-      "title": "Mistral OCR 4.1",
-      "source": "hackernews"
-    },
-    "1b0a1ff759abe040": {
-      "date": "2026-08-14",
-      "title": "Understanding is the new bottleneck",
-      "source": "hackernews"
-    },
-    "bbd07f0f76eb4005": {
-      "date": "2026-08-14",
-      "title": "NP-overrated",
-      "source": "hackernews"
-    },
-    "527865400049ed90": {
-      "date": "2026-08-14",
-      "title": "Bluesky Protocol Services",
-      "source": "hackernews"
-    },
-    "7051bdc52b52f817": {
-      "date": "2026-08-14",
-      "title": "Hello, me. It's been a while",
-      "source": "hackernews"
-    },
-    "3ba8635887d9e5c5": {
-      "date": "2026-08-14",
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "source": "devto"
-    },
-    "7389d9bee0af517e": {
-      "date": "2026-08-14",
-      "title": "Not All AI Builders Are Doing the Same Work",
-      "source": "devto"
-    },
-    "97116a2700540157": {
-      "date": "2026-08-14",
-      "title": "My (not so pretty) journey in tech",
-      "source": "devto"
-    },
-    "82a1895ee28eecd2": {
-      "date": "2026-08-14",
-      "title": "24 Cups, 36 Seats — The Bartender's Ledger",
-      "source": "devto"
-    },
-    "19b6ffeccd773eca": {
-      "date": "2026-08-14",
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "source": "devto"
-    },
-    "2e028e0078766d01": {
-      "date": "2026-08-14",
-      "title": "Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engines & Hardware Acceleration",
-      "source": "devto"
-    },
-    "8cf4b6cb5b02274a": {
-      "date": "2026-08-14",
-      "title": "You Know What's Worse Than Not Being Able to Log In?",
-      "source": "devto"
-    },
-    "7fdfa657c0215934": {
-      "date": "2026-08-14",
-      "title": "The Most Dangerous AI-Generated Code Is the Code That Passes All Tests",
-      "source": "devto"
-    },
-    "ae73deec6bf30368": {
-      "date": "2026-08-14",
-      "title": "The Backup Awakens: A Star Wars Story",
-      "source": "devto"
-    },
-    "88adb36d994a0627": {
-      "date": "2026-08-14",
-      "title": "cactus-compute / needle",
-      "source": "github"
-    },
-    "cf22fb2fe760cb42": {
-      "date": "2026-08-14",
-      "title": "altic-dev / FluidVoice",
-      "source": "github"
-    },
-    "4242e51e337ac7d2": {
-      "date": "2026-08-14",
-      "title": "unslothai / unsloth",
-      "source": "github"
-    },
-    "30f62a06b3c4e9b3": {
-      "date": "2026-08-14",
-      "title": "megadose / holehe",
-      "source": "github"
-    },
-    "7cc067ca58c9acc9": {
-      "date": "2026-08-14",
-      "title": "holaboss-ai / holaOS",
-      "source": "github"
-    },
-    "333ac7fd8f02fc43": {
-      "date": "2026-08-14",
-      "title": "kepano / obsidian-skills",
-      "source": "github"
-    },
-    "3c6993de807d2048": {
-      "date": "2026-08-14",
-      "title": "Qwen 3.8 27B",
-      "source": "hackernews"
-    },
-    "6da520a93cb1d9e2": {
-      "date": "2026-08-14",
-      "title": "Why does Opus 5 feel worse to work with?",
-      "source": "hackernews"
-    },
-    "c179fbae026cf1f7": {
-      "date": "2026-08-14",
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "source": "hackernews"
-    },
-    "87274b2d7ed5d37a": {
-      "date": "2026-08-14",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "source": "hackernews"
-    },
-    "4bf31048ec1b3670": {
-      "date": "2026-08-14",
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "source": "hackernews"
-    },
-    "7e91629f659a11e4": {
-      "date": "2026-08-14",
-      "title": "AI by Hand",
-      "source": "hackernews"
-    },
-    "4cd81ebb7b04bc6e": {
-      "date": "2026-08-14",
-      "title": "Introducing Toast 1",
-      "source": "hackernews"
-    },
-    "b01a84e9c727d042": {
-      "date": "2026-08-14",
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "source": "hackernews"
-    },
-    "ae3c495b09171f57": {
-      "date": "2026-08-14",
-      "title": "RISC-V: They should have known better",
-      "source": "hackernews"
-    },
-    "8e29aa34ad6decdc": {
-      "date": "2026-08-14",
-      "title": "Super Mario Derivations",
-      "source": "hackernews"
-    },
-    "106dba3b07c10b21": {
-      "date": "2026-08-14",
-      "title": "ChordViz",
-      "source": "producthunt"
-    },
-    "7dbf327cbecfa79b": {
-      "date": "2026-08-14",
-      "title": "NS1",
-      "source": "producthunt"
-    },
-    "06b407e52492ae87": {
-      "date": "2026-08-14",
-      "title": "Freebuff",
-      "source": "producthunt"
-    },
-    "07477dacabfd50c4": {
-      "date": "2026-08-14",
-      "title": "Port22",
-      "source": "producthunt"
-    },
-    "570b1e6a13c7eeec": {
-      "date": "2026-08-14",
-      "title": "Occasio®",
-      "source": "producthunt"
-    },
-    "49cc78a3ba8afbb8": {
-      "date": "2026-08-14",
-      "title": "Suno Studio 2.0",
-      "source": "producthunt"
-    },
-    "7cb9e969b6dcf6b8": {
-      "date": "2026-08-14",
-      "title": "What was your win this week??",
-      "source": "devto"
-    },
-    "fd9a8a4b1607ccfb": {
-      "date": "2026-08-14",
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in On",
-      "source": "devto"
-    },
-    "5916170d9653ca89": {
-      "date": "2026-08-14",
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "source": "devto"
-    },
-    "ce1ef65822d73641": {
-      "date": "2026-08-14",
-      "title": "Dev Opportunity Radar #12: $10K+ Magnificent Grants, Free CodePath Courses, AI Societal Impact Lab F",
-      "source": "devto"
-    },
-    "7ea0a50ef57fd56f": {
-      "date": "2026-08-14",
-      "title": "I Built an AI Liar's Dice Opponent That Remembers How You Play",
-      "source": "devto"
-    },
-    "b44727c55c433cc4": {
-      "date": "2026-08-14",
-      "title": "Looker's Native MCP Server with Claude Code",
-      "source": "devto"
-    },
-    "49b78e298ac05381": {
-      "date": "2026-08-14",
-      "title": "Durable Memory: Why Vector Databases Aren't Enough",
-      "source": "devto"
-    },
-    "aafaebdbd4f4f435": {
-      "date": "2026-08-14",
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "source": "devto"
-    },
-    "76c62a9ac66a0ee9": {
-      "date": "2026-08-14",
-      "title": "59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.",
-      "source": "devto"
-    },
-    "c3fb8141b1cdb4c8": {
-      "date": "2026-08-14",
-      "title": "I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.",
-      "source": "devto"
-    },
-    "8a080a19e7684f78": {
-      "date": "2026-08-14",
-      "title": "github / spec-kit",
-      "source": "github"
-    },
-    "f252ba96214e1ce3": {
-      "date": "2026-08-14",
-      "title": "lightningpixel / modly",
-      "source": "github"
-    },
-    "21302fb12d0b2e2d": {
-      "date": "2026-08-14",
-      "title": "cursor / plugins",
-      "source": "github"
-    },
-    "365700f8954f2067": {
-      "date": "2026-08-14",
-      "title": "deepseek-ai / awesome-deepseek-agent",
-      "source": "github"
-    },
-    "8cb1f496a7fbc670": {
-      "date": "2026-08-14",
-      "title": "rustdesk / rustdesk",
-      "source": "github"
-    },
-    "d877e72a1b1804cb": {
-      "date": "2026-08-14",
-      "title": "OpenCut-app / OpenCut",
-      "source": "github"
-    },
     "e327db8ea71a8fbc": {
       "date": "2026-08-15",
       "title": "PawBot - An AI Desktop Puppy That Eats Your Files 🐾",
@@ -4901,6 +4576,171 @@
       "date": "2026-09-13",
       "title": "Our Recall Was 0.087 and the Model Was Innocent: How Domain-Scoped Replay Doubled It",
       "source": "devto"
+    },
+    "a4ef7ec8464f4da5": {
+      "date": "2026-09-14",
+      "title": "Why is Google still serving dodgy ads?",
+      "source": "hackernews"
+    },
+    "705d6f77916b19ca": {
+      "date": "2026-09-14",
+      "title": "JetKVM Mini",
+      "source": "hackernews"
+    },
+    "635a075958ac9432": {
+      "date": "2026-09-14",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "source": "hackernews"
+    },
+    "d58237dcc84da940": {
+      "date": "2026-09-14",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "source": "hackernews"
+    },
+    "c0584b3cc952f007": {
+      "date": "2026-09-14",
+      "title": "Data collected by cars and sold to third parties",
+      "source": "hackernews"
+    },
+    "3e3c18a42edb58e3": {
+      "date": "2026-09-14",
+      "title": "Julia 1.13 highlights",
+      "source": "hackernews"
+    },
+    "88ac969b3f68d329": {
+      "date": "2026-09-14",
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "source": "hackernews"
+    },
+    "a26ad33008a80fc0": {
+      "date": "2026-09-14",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "source": "hackernews"
+    },
+    "17e2f19c4b2fd4d1": {
+      "date": "2026-09-14",
+      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "source": "hackernews"
+    },
+    "1b16cf5aa2a7a6f4": {
+      "date": "2026-09-14",
+      "title": "The Coming War on General Computation (2011)",
+      "source": "hackernews"
+    },
+    "7726298677c816e6": {
+      "date": "2026-09-14",
+      "title": "Kirokune",
+      "source": "producthunt"
+    },
+    "cd3f90121be40bcf": {
+      "date": "2026-09-14",
+      "title": "Perplexity Hybrid Compute",
+      "source": "producthunt"
+    },
+    "9cf33750adbfe128": {
+      "date": "2026-09-14",
+      "title": "Resurf",
+      "source": "producthunt"
+    },
+    "ce35910ee3f0d032": {
+      "date": "2026-09-14",
+      "title": "Neopress",
+      "source": "producthunt"
+    },
+    "a74bd16a9c43c39d": {
+      "date": "2026-09-14",
+      "title": "Epilude Notetaker",
+      "source": "producthunt"
+    },
+    "17736a895a8f76b5": {
+      "date": "2026-09-14",
+      "title": "DemoTV",
+      "source": "producthunt"
+    },
+    "63c2321ff3132470": {
+      "date": "2026-09-14",
+      "title": "Visiby",
+      "source": "producthunt"
+    },
+    "cf142d07508213a1": {
+      "date": "2026-09-14",
+      "title": "Cognition's SWE-2",
+      "source": "producthunt"
+    },
+    "e218eb65403072e1": {
+      "date": "2026-09-14",
+      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
+      "source": "devto"
+    },
+    "7afa6740b57cecc5": {
+      "date": "2026-09-14",
+      "title": "I Built a Mac Menu Bar App Because I Kept Saying \"Wait, What?\" in Every Meeting (Live Demo 🚀)",
+      "source": "devto"
+    },
+    "b65658288ca8d793": {
+      "date": "2026-09-14",
+      "title": "I made two AIs review each other's code for 30 days. A human still caught the bug in 5 minutes.",
+      "source": "devto"
+    },
+    "3740fc3b9efcc3a9": {
+      "date": "2026-09-14",
+      "title": "The Search Highlight That Deletes Your Selection",
+      "source": "devto"
+    },
+    "4e7a9996ff0e1e64": {
+      "date": "2026-09-14",
+      "title": "The First Legend Has Entered the Arena: CrowdWide Just Submitted to the KODA Code Jam",
+      "source": "devto"
+    },
+    "2634a9ce7e61d725": {
+      "date": "2026-09-14",
+      "title": "I Sell Memory APIs. I'm Also Building the Benchmark. Here's How I'm Trying Not to Rig It.",
+      "source": "devto"
+    },
+    "1ea62f5af092483f": {
+      "date": "2026-09-14",
+      "title": "I ran $24,000 of Claude through my terminal in August. Here is what it built.",
+      "source": "devto"
+    },
+    "00d74d86625a3b23": {
+      "date": "2026-09-14",
+      "title": "🐛 The Bug That Only Happened on Fridays 📅😱",
+      "source": "devto"
+    },
+    "d835f4a6c2218305": {
+      "date": "2026-09-14",
+      "title": "My Comment Section Designed My Next Experiment. Then It Made Me Freeze My Predictions.",
+      "source": "devto"
+    },
+    "549afc93e63e387b": {
+      "date": "2026-09-14",
+      "title": "Add AI search to existing application",
+      "source": "devto"
+    },
+    "bba8c7297bb35116": {
+      "date": "2026-09-14",
+      "title": "ever-co / ever-gauzy",
+      "source": "github"
+    },
+    "96cb5d4c7f75eb9f": {
+      "date": "2026-09-14",
+      "title": "tech-leads-club / agent-skills",
+      "source": "github"
+    },
+    "20703a86e2b01e24": {
+      "date": "2026-09-14",
+      "title": "calesthio / OpenMontage",
+      "source": "github"
+    },
+    "85770197f1cb7d8d": {
+      "date": "2026-09-14",
+      "title": "vxcontrol / pentagi",
+      "source": "github"
+    },
+    "9cd514d03f14c102": {
+      "date": "2026-09-14",
+      "title": "alibaba / open-code-review",
+      "source": "github"
     }
   }
 }
