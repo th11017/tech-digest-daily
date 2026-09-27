@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-26T00:50:37.518352",
+  "last_updated": "2026-09-27T00:50:50.545377",
   "sent_items": {
     "58be3312c478c194": {
       "date": "2026-08-28",
@@ -4975,6 +4975,191 @@
     "4b8ed8eb20d0b92f": {
       "date": "2026-09-26",
       "title": "shy3130 / tick-stock-panel",
+      "source": "github"
+    },
+    "37e781f3ddfda52b": {
+      "date": "2026-09-27",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "source": "hackernews"
+    },
+    "55e3771ad7c8e981": {
+      "date": "2026-09-27",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "source": "hackernews"
+    },
+    "a78ef24ec75fefa5": {
+      "date": "2026-09-27",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "source": "hackernews"
+    },
+    "a56823c4d8c788bd": {
+      "date": "2026-09-27",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "source": "hackernews"
+    },
+    "9e3947aa23ba1fae": {
+      "date": "2026-09-27",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "source": "hackernews"
+    },
+    "121abfa849b0dcac": {
+      "date": "2026-09-27",
+      "title": "Does Georgism work? Five years later",
+      "source": "hackernews"
+    },
+    "6c3549bc7beb2b95": {
+      "date": "2026-09-27",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "source": "hackernews"
+    },
+    "d872c526653589d5": {
+      "date": "2026-09-27",
+      "title": "An agent used DNS to reach an external chatbot",
+      "source": "hackernews"
+    },
+    "2f687dceb7443b2d": {
+      "date": "2026-09-27",
+      "title": "Evolving programming languages in the AI era",
+      "source": "hackernews"
+    },
+    "e17d929d676131f5": {
+      "date": "2026-09-27",
+      "title": "Go Concurrency Distilled",
+      "source": "hackernews"
+    },
+    "4f97428eb2e156ac": {
+      "date": "2026-09-27",
+      "title": "Fewer",
+      "source": "producthunt"
+    },
+    "8886bd41888d44f9": {
+      "date": "2026-09-27",
+      "title": "Hemory",
+      "source": "producthunt"
+    },
+    "987bf4b1ba206d77": {
+      "date": "2026-09-27",
+      "title": "MakerMap",
+      "source": "producthunt"
+    },
+    "7884e26c3255285b": {
+      "date": "2026-09-27",
+      "title": "GoodSocials",
+      "source": "producthunt"
+    },
+    "e202403d914daef8": {
+      "date": "2026-09-27",
+      "title": "Lisen",
+      "source": "producthunt"
+    },
+    "f0187f15c93b5381": {
+      "date": "2026-09-27",
+      "title": "layernote",
+      "source": "producthunt"
+    },
+    "691987304abd3a95": {
+      "date": "2026-09-27",
+      "title": "PixVerse R2",
+      "source": "producthunt"
+    },
+    "187eda8bd501254e": {
+      "date": "2026-09-27",
+      "title": "10xJoy",
+      "source": "producthunt"
+    },
+    "89be0fa1a19f176c": {
+      "date": "2026-09-27",
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "source": "devto"
+    },
+    "54d5899f5b9259da": {
+      "date": "2026-09-27",
+      "title": "'Someone Already Built That' is the Favourite Excuse of Broke Developers",
+      "source": "devto"
+    },
+    "4dd102ea59258f26": {
+      "date": "2026-09-27",
+      "title": "If AI Writes the Code and AI Reviews the Code, What Exactly Is the Developer Verifying?",
+      "source": "devto"
+    },
+    "814355594bc0d84f": {
+      "date": "2026-09-27",
+      "title": "Everyone's learning to prompt better. That's the wrong skill.",
+      "source": "devto"
+    },
+    "1d77c90e5c646fc6": {
+      "date": "2026-09-27",
+      "title": "How I Actually Learn New Skills (No Tutorial Required)",
+      "source": "devto"
+    },
+    "36cf643e0ea6cfd2": {
+      "date": "2026-09-27",
+      "title": "AI Promoted Every Developer to Reviewer. Nobody Measured Whether We Got Worse.",
+      "source": "devto"
+    },
+    "4349e66a40e3f85e": {
+      "date": "2026-09-27",
+      "title": "How I built deferred tool discovery for my desktop AI assistant (no embeddings needed)",
+      "source": "devto"
+    },
+    "cbebfa35fdc3d31a": {
+      "date": "2026-09-27",
+      "title": "getCurrentPosition() Doesn't Just Check — It Prompts",
+      "source": "devto"
+    },
+    "c3a5c1bfd87e00f8": {
+      "date": "2026-09-27",
+      "title": "localStorage Isn't Free — It's Blocking Your Main Thread",
+      "source": "devto"
+    },
+    "60b98bbdc1995f5c": {
+      "date": "2026-09-27",
+      "title": "My Newsletter Server Is 1,258 Lines of node:sqlite",
+      "source": "devto"
+    },
+    "bcbc01455962f134": {
+      "date": "2026-09-27",
+      "title": "tensorflow / tensorflow",
+      "source": "github"
+    },
+    "254a7a84c61706cc": {
+      "date": "2026-09-27",
+      "title": "openbao / openbao",
+      "source": "github"
+    },
+    "f8fd1424e453d1b4": {
+      "date": "2026-09-27",
+      "title": "block / buzz",
+      "source": "github"
+    },
+    "429ceefb7bccd659": {
+      "date": "2026-09-27",
+      "title": "microsoft / vscode",
+      "source": "github"
+    },
+    "7445d3b513aec3d0": {
+      "date": "2026-09-27",
+      "title": "zhaoxuya520 / reverse-skill",
+      "source": "github"
+    },
+    "2fd47ee6db0cd559": {
+      "date": "2026-09-27",
+      "title": "anthropics / claude-code-action",
+      "source": "github"
+    },
+    "864e3a293301abe1": {
+      "date": "2026-09-27",
+      "title": "actions / runner-images",
+      "source": "github"
+    },
+    "7c87c96c74c1c3fd": {
+      "date": "2026-09-27",
+      "title": "mobile-next / mobile-mcp",
+      "source": "github"
+    },
+    "b58db5c0a7c76bd1": {
+      "date": "2026-09-27",
+      "title": "vercel / next.js",
       "source": "github"
     }
   }
