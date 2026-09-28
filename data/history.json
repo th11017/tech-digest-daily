@@ -1,347 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-27T00:50:50.545377",
+  "last_updated": "2026-09-28T01:09:03.432466",
   "sent_items": {
-    "58be3312c478c194": {
-      "date": "2026-08-28",
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "source": "hackernews"
-    },
-    "989750ed4a620318": {
-      "date": "2026-08-28",
-      "title": "Microduck",
-      "source": "hackernews"
-    },
-    "d61a57e1a09bd47a": {
-      "date": "2026-08-28",
-      "title": "Small Models Have Arrived",
-      "source": "hackernews"
-    },
-    "e49de4befaef3f4b": {
-      "date": "2026-08-28",
-      "title": "507 Mechanical Movements",
-      "source": "hackernews"
-    },
-    "23fd80ee52affeeb": {
-      "date": "2026-08-28",
-      "title": "Gemini-3.5-Transcribe",
-      "source": "hackernews"
-    },
-    "a6e6631dd6a622e0": {
-      "date": "2026-08-28",
-      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-      "source": "hackernews"
-    },
-    "0f84e108ec78ccf6": {
-      "date": "2026-08-28",
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "source": "hackernews"
-    },
-    "c39310a30b0203c9": {
-      "date": "2026-08-28",
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "source": "hackernews"
-    },
-    "0e9dfa1765d265b4": {
-      "date": "2026-08-28",
-      "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "source": "hackernews"
-    },
-    "306cce44250bb416": {
-      "date": "2026-08-28",
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "source": "hackernews"
-    },
-    "ea06c6ef84f59fe0": {
-      "date": "2026-08-28",
-      "title": "HFlow",
-      "source": "producthunt"
-    },
-    "eccc5ba0bca7e352": {
-      "date": "2026-08-28",
-      "title": "Gemini 3.5 Transcribe",
-      "source": "producthunt"
-    },
-    "711a57e7498b9be7": {
-      "date": "2026-08-28",
-      "title": "The Million Sad Ducks",
-      "source": "producthunt"
-    },
-    "eb27a781b5596eec": {
-      "date": "2026-08-28",
-      "title": "Kraa 2.0",
-      "source": "producthunt"
-    },
-    "3ef1be024386ea71": {
-      "date": "2026-08-28",
-      "title": "Qwen3.8-Flash-Next",
-      "source": "producthunt"
-    },
-    "d877cff050d8e365": {
-      "date": "2026-08-28",
-      "title": "Cobalt",
-      "source": "producthunt"
-    },
-    "2c6f4d1e64f70c1d": {
-      "date": "2026-08-28",
-      "title": "Eventually",
-      "source": "producthunt"
-    },
-    "8fc22d925dffcae7": {
-      "date": "2026-08-28",
-      "title": "Ticket Fairy CLI",
-      "source": "producthunt"
-    },
-    "8c7115131731ac36": {
-      "date": "2026-08-28",
-      "title": "I'm 12. A senior dev broke my app. Then he became User #001",
-      "source": "devto"
-    },
-    "e2a820c2a4b93845": {
-      "date": "2026-08-28",
-      "title": "Velocidade de entrega e custo de manutenção pós IA",
-      "source": "devto"
-    },
-    "31d6520118193580": {
-      "date": "2026-08-28",
-      "title": "The agent posted successfully. To the wrong account.",
-      "source": "devto"
-    },
-    "a9d4faf5da4111ae": {
-      "date": "2026-08-28",
-      "title": "NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code",
-      "source": "devto"
-    },
-    "45ff7b5db8d3c05c": {
-      "date": "2026-08-28",
-      "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.",
-      "source": "devto"
-    },
-    "1a912c9064452499": {
-      "date": "2026-08-28",
-      "title": "Nobody Argued For Your Stack",
-      "source": "devto"
-    },
-    "5b8704a681992d9a": {
-      "date": "2026-08-28",
-      "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind t",
-      "source": "devto"
-    },
-    "22610ede6a25926d": {
-      "date": "2026-08-28",
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "source": "devto"
-    },
-    "81bf57cfd3e563ad": {
-      "date": "2026-08-28",
-      "title": "Opus 5: How to Review Generated Code",
-      "source": "devto"
-    },
-    "9222dddf9e2c6347": {
-      "date": "2026-08-28",
-      "title": "Fast CLI static site generator I've been working on",
-      "source": "devto"
-    },
-    "c0fb14db86dd87eb": {
-      "date": "2026-08-28",
-      "title": "bilawalsidhu / gods-eye-view",
-      "source": "github"
-    },
-    "c6c92ccd349560e8": {
-      "date": "2026-08-28",
-      "title": "zedeus / nitter",
-      "source": "github"
-    },
-    "717af6605a957a5c": {
-      "date": "2026-08-28",
-      "title": "tt-a1i / archify",
-      "source": "github"
-    },
-    "7ee06cf44ceed965": {
-      "date": "2026-08-28",
-      "title": "JetBrains / go-modern-guidelines",
-      "source": "github"
-    },
-    "bf559441b24d3589": {
-      "date": "2026-08-28",
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "source": "github"
-    },
-    "30408734ead09cf2": {
-      "date": "2026-08-28",
-      "title": "ConardLi / garden-skills",
-      "source": "github"
-    },
-    "f08d8cf2c7baf95f": {
-      "date": "2026-08-28",
-      "title": "thedotmack / claude-mem",
-      "source": "github"
-    },
-    "7597a814a95abab6": {
-      "date": "2026-08-28",
-      "title": "google / googletest",
-      "source": "github"
-    },
-    "666e9301b7cc3022": {
-      "date": "2026-08-28",
-      "title": "GLM-5.3 is now open-weight",
-      "source": "hackernews"
-    },
-    "74ae9e994eb8ccf6": {
-      "date": "2026-08-28",
-      "title": "GUIs should be fully keyboard-driven",
-      "source": "hackernews"
-    },
-    "85d677ced8012c42": {
-      "date": "2026-08-28",
-      "title": "Htmx 4.0",
-      "source": "hackernews"
-    },
-    "09dbd2add18a3092": {
-      "date": "2026-08-28",
-      "title": "U.S. sanctions against the A/I Collective",
-      "source": "hackernews"
-    },
-    "2e582e567a5c0ee8": {
-      "date": "2026-08-28",
-      "title": "Inception-style curved map for turn-by-turn directions",
-      "source": "hackernews"
-    },
-    "83fef9f61eb8bc51": {
-      "date": "2026-08-28",
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "source": "hackernews"
-    },
-    "3c4ee2506a662fcc": {
-      "date": "2026-08-28",
-      "title": "The Twelve-Factor App (2025)",
-      "source": "hackernews"
-    },
-    "4b1ea1a01a2da929": {
-      "date": "2026-08-28",
-      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-      "source": "hackernews"
-    },
-    "2cfbe0c9c1268b78": {
-      "date": "2026-08-28",
-      "title": "Curvature Beziers: Improving on a timeless recipe",
-      "source": "hackernews"
-    },
-    "77fb5b3d56baf38b": {
-      "date": "2026-08-28",
-      "title": "CTRL Micro",
-      "source": "producthunt"
-    },
-    "92b8fa59a6843995": {
-      "date": "2026-08-28",
-      "title": "Microduck",
-      "source": "producthunt"
-    },
-    "b58ffa21d36583e5": {
-      "date": "2026-08-28",
-      "title": "Firecrawl Developer Index",
-      "source": "producthunt"
-    },
-    "43fcc0f0baf18fe4": {
-      "date": "2026-08-28",
-      "title": "screenpipe",
-      "source": "producthunt"
-    },
-    "721589268b22fc92": {
-      "date": "2026-08-28",
-      "title": "AureaCam",
-      "source": "producthunt"
-    },
-    "bbe79fdd67cb66bd": {
-      "date": "2026-08-28",
-      "title": "SnakeRank",
-      "source": "producthunt"
-    },
-    "5ae0dcc22d8bdc98": {
-      "date": "2026-08-28",
-      "title": "Revalvo",
-      "source": "producthunt"
-    },
-    "6052d4aa535f8193": {
-      "date": "2026-08-28",
-      "title": "NotchDrop",
-      "source": "producthunt"
-    },
-    "5c94f1adbb7b0042": {
-      "date": "2026-08-28",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "95325858f2d71aeb": {
-      "date": "2026-08-28",
-      "title": "Your AI Remembers Everything and Trusts All of It",
-      "source": "devto"
-    },
-    "ce9b9a16a3bf2ae5": {
-      "date": "2026-08-28",
-      "title": "🗓️ Monthly Dev Report: August 2026",
-      "source": "devto"
-    },
-    "4dc7031e5cc876bd": {
-      "date": "2026-08-28",
-      "title": "Go Doesn't Force Clean Architecture. That's Your Job.",
-      "source": "devto"
-    },
-    "99f7ac02538e47c2": {
-      "date": "2026-08-28",
-      "title": "16 Posts, Started Commenting, then got the Shield",
-      "source": "devto"
-    },
-    "35a76093d6e8da6a": {
-      "date": "2026-08-28",
-      "title": "How BitTorrent Turned Every Downloader Into a Server",
-      "source": "devto"
-    },
-    "1c656aca9417dc11": {
-      "date": "2026-08-28",
-      "title": "What two months of interviewing taught me about the 2026 tech job market",
-      "source": "devto"
-    },
-    "473f1abe5e0cb911": {
-      "date": "2026-08-28",
-      "title": "Developers that brand AI as slop will be left behind",
-      "source": "devto"
-    },
-    "02c22dc4eff5943f": {
-      "date": "2026-08-28",
-      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
-      "source": "devto"
-    },
-    "17d814b9a0e12727": {
-      "date": "2026-08-28",
-      "title": "636 Bytes: What Happens When You Stop Teaching RPA the Path",
-      "source": "devto"
-    },
-    "46e24096af5aa5e6": {
-      "date": "2026-08-28",
-      "title": "abhigyanpatwari / GitNexus",
-      "source": "github"
-    },
-    "0ba40d78bf1a7950": {
-      "date": "2026-08-28",
-      "title": "abi / screenshot-to-code",
-      "source": "github"
-    },
-    "2e99c10b71a947d8": {
-      "date": "2026-08-28",
-      "title": "tailscale / tailcat",
-      "source": "github"
-    },
-    "388733e392d2ca27": {
-      "date": "2026-08-28",
-      "title": "NationalSecurityAgency / ghidra",
-      "source": "github"
-    },
-    "a84d370951f30abb": {
-      "date": "2026-08-28",
-      "title": "swoole / typephp",
-      "source": "github"
-    },
     "58df2031e9a52aab": {
       "date": "2026-08-29",
       "title": "Tether: iMessage, SMS, etc. on Linux",
@@ -5160,6 +4820,136 @@
     "b58db5c0a7c76bd1": {
       "date": "2026-09-27",
       "title": "vercel / next.js",
+      "source": "github"
+    },
+    "824bf5f98ce4c60f": {
+      "date": "2026-09-28",
+      "title": "When did Google get so weird?",
+      "source": "hackernews"
+    },
+    "ded09f36b42fa21c": {
+      "date": "2026-09-28",
+      "title": "Ember-1",
+      "source": "hackernews"
+    },
+    "21e6554285ee3043": {
+      "date": "2026-09-28",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "source": "hackernews"
+    },
+    "8a1acc05ccf7e63a": {
+      "date": "2026-09-28",
+      "title": "Don't couple your Go code to GitHub",
+      "source": "hackernews"
+    },
+    "1b50e8506540ea59": {
+      "date": "2026-09-28",
+      "title": "The state of SIMD in Rust in 2026",
+      "source": "hackernews"
+    },
+    "ebbd17ee6a98351a": {
+      "date": "2026-09-28",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "source": "hackernews"
+    },
+    "4242580e733eb09b": {
+      "date": "2026-09-28",
+      "title": "What I did at Recurse Center",
+      "source": "hackernews"
+    },
+    "fd1a05ed4810e81c": {
+      "date": "2026-09-28",
+      "title": "There is more to code review than (automatable) detection",
+      "source": "hackernews"
+    },
+    "8a8c489bd6db70a2": {
+      "date": "2026-09-28",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "source": "hackernews"
+    },
+    "8711702d707b1b55": {
+      "date": "2026-09-28",
+      "title": "Lunar Terminator Paradox",
+      "source": "hackernews"
+    },
+    "4d013a4dadf9a51c": {
+      "date": "2026-09-28",
+      "title": "Superhuman Go",
+      "source": "producthunt"
+    },
+    "6ba7d52cd0044d40": {
+      "date": "2026-09-28",
+      "title": "GPT-6 Sol & Luna",
+      "source": "producthunt"
+    },
+    "a0037c0a494a930b": {
+      "date": "2026-09-28",
+      "title": "Donna",
+      "source": "producthunt"
+    },
+    "f81ad79b8245511a": {
+      "date": "2026-09-28",
+      "title": "Implementation is where judgements go to become invisible",
+      "source": "devto"
+    },
+    "024a4e8a66f32e49": {
+      "date": "2026-09-28",
+      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
+      "source": "devto"
+    },
+    "ccd1f18b84ebb031": {
+      "date": "2026-09-28",
+      "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its",
+      "source": "devto"
+    },
+    "d801996460d1588a": {
+      "date": "2026-09-28",
+      "title": "What an anthill can teach us about orchestrating agents.",
+      "source": "devto"
+    },
+    "1e49a66953390bbf": {
+      "date": "2026-09-28",
+      "title": "I burned out. Now I don't know how to start again.",
+      "source": "devto"
+    },
+    "fc0068a8f1a8b573": {
+      "date": "2026-09-28",
+      "title": "I Built Two Agent Systems. Each One Proved the Other One Wrong.",
+      "source": "devto"
+    },
+    "7a67afbbbceab266": {
+      "date": "2026-09-28",
+      "title": "Do We Still Need Code Reviews in the Age of Coding Agents?",
+      "source": "devto"
+    },
+    "4e0b627b730c44e8": {
+      "date": "2026-09-28",
+      "title": "They Invited Me to Apply. Two Days Later, They Rejected Me.",
+      "source": "devto"
+    },
+    "9905a6794743acda": {
+      "date": "2026-09-28",
+      "title": "containerd 2.2's mount manager panics on a one-mount mkfs chain",
+      "source": "devto"
+    },
+    "a463063bbd90a68a": {
+      "date": "2026-09-28",
+      "title": "Prompt Injection Is the New SQL Injection (and We're Not Ready)",
+      "source": "devto"
+    },
+    "062c9562666f71ed": {
+      "date": "2026-09-28",
+      "title": "vercel-labs / scriptc",
+      "source": "github"
+    },
+    "9e64e48f562436da": {
+      "date": "2026-09-28",
+      "title": "mvschwarz / openrig",
+      "source": "github"
+    },
+    "a6af4cf3b14be143": {
+      "date": "2026-09-28",
+      "title": "willfaust / Madeira",
       "source": "github"
     }
   }
