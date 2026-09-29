@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-28T01:09:03.432466",
+  "last_updated": "2026-09-29T02:16:15.982038",
   "sent_items": {
-    "58df2031e9a52aab": {
-      "date": "2026-08-29",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "source": "hackernews"
-    },
-    "84a622800e590e0f": {
-      "date": "2026-08-29",
-      "title": "SQLite as a Document Database (2020)",
-      "source": "hackernews"
-    },
-    "800ca0c473afb87a": {
-      "date": "2026-08-29",
-      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
-      "source": "hackernews"
-    },
-    "f5b51884348ebcd1": {
-      "date": "2026-08-29",
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "source": "hackernews"
-    },
-    "5dd681021d6ff3fb": {
-      "date": "2026-08-29",
-      "title": "vLLM v0.28.0",
-      "source": "hackernews"
-    },
-    "517085eb41b9476a": {
-      "date": "2026-08-29",
-      "title": "What we want is a hunter gatherer lifestyle with space age tools",
-      "source": "hackernews"
-    },
-    "75475445cf9f9b4b": {
-      "date": "2026-08-29",
-      "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
-      "source": "hackernews"
-    },
-    "8a90933f67664083": {
-      "date": "2026-08-29",
-      "title": "Domain-Driven Agents",
-      "source": "hackernews"
-    },
-    "31ee698076ee2c90": {
-      "date": "2026-08-29",
-      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-      "source": "hackernews"
-    },
-    "82b57c65e7662c19": {
-      "date": "2026-08-29",
-      "title": "$44M Solar-Powered EV Production Deal Struck",
-      "source": "hackernews"
-    },
-    "a69dcc73b04e9f86": {
-      "date": "2026-08-29",
-      "title": "Mossy",
-      "source": "producthunt"
-    },
-    "c769540fdaf49b92": {
-      "date": "2026-08-29",
-      "title": "Cohere Parse 5",
-      "source": "producthunt"
-    },
-    "0b963caf1fe497af": {
-      "date": "2026-08-29",
-      "title": "Lubb",
-      "source": "producthunt"
-    },
-    "2bf90e371c31ed1b": {
-      "date": "2026-08-29",
-      "title": "Staats",
-      "source": "producthunt"
-    },
-    "561884e074991822": {
-      "date": "2026-08-29",
-      "title": "Any Command",
-      "source": "producthunt"
-    },
-    "d67379909f2ed0d4": {
-      "date": "2026-08-29",
-      "title": "WIT",
-      "source": "producthunt"
-    },
-    "64b689bb61c185d4": {
-      "date": "2026-08-29",
-      "title": "publicdesktop.lol",
-      "source": "producthunt"
-    },
-    "6e4ba8fcaaaa9a4f": {
-      "date": "2026-08-29",
-      "title": "seendiff",
-      "source": "producthunt"
-    },
-    "699ed7a44bcd52de": {
-      "date": "2026-08-29",
-      "title": "What Happens After You Win a DEV Challenge? A Complete Guide to Getting Paid",
-      "source": "devto"
-    },
-    "2a7dfcae9c931a89": {
-      "date": "2026-08-29",
-      "title": "I Asked for a Portfolio but Got a Filing Cabinet",
-      "source": "devto"
-    },
-    "b79524d2e098c926": {
-      "date": "2026-08-29",
-      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
-      "source": "devto"
-    },
-    "1410ea24a18120d3": {
-      "date": "2026-08-29",
-      "title": "MCP C# Per-Request Client Capabilities: Read the Request, Not the Server",
-      "source": "devto"
-    },
-    "f04a4325f9c1882f": {
-      "date": "2026-08-29",
-      "title": "I Googled Myself for 20 Minutes and Found My Home Address, My Mom's Maiden Name, and My Dog",
-      "source": "devto"
-    },
-    "9bf4bdedc0a0735d": {
-      "date": "2026-08-29",
-      "title": "I failed a \"design a document editor\" interview, so I built one",
-      "source": "devto"
-    },
-    "724af00530a62c0d": {
-      "date": "2026-08-29",
-      "title": "From “Can I Do This?” to Becoming Part of the Team: Lessons From My Apprenticeship at ISRO",
-      "source": "devto"
-    },
-    "e9f4baea5c58a11f": {
-      "date": "2026-08-29",
-      "title": "Your agent didn't fail. You closed the lid",
-      "source": "devto"
-    },
-    "e08a5eca46fa8259": {
-      "date": "2026-08-29",
-      "title": "What does an AI agent do with no goal and no supervision? I ran it three times and logged everything",
-      "source": "devto"
-    },
-    "0da315692a3fa472": {
-      "date": "2026-08-29",
-      "title": "Your Tests Were Green Because the Gate Was Never Wired In",
-      "source": "devto"
-    },
-    "c2f4cce08f408ce8": {
-      "date": "2026-08-29",
-      "title": "THU-MAIC / OpenMAIC",
-      "source": "github"
-    },
-    "d2f39386e20eb773": {
-      "date": "2026-08-29",
-      "title": "p-e-w / heretic",
-      "source": "github"
-    },
-    "aca988ca8dd4e6fa": {
-      "date": "2026-08-29",
-      "title": "bigskysoftware / htmx",
-      "source": "github"
-    },
-    "7e39ec2390d0765a": {
-      "date": "2026-08-29",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "source": "github"
-    },
-    "a1c760c91a2498ee": {
-      "date": "2026-08-29",
-      "title": "every-app / open-seo",
-      "source": "github"
-    },
-    "85717f608dd95ad7": {
-      "date": "2026-08-29",
-      "title": "Osmantic / ODS",
-      "source": "github"
-    },
     "5f4bc58220d5cbd6": {
       "date": "2026-08-30",
       "title": "Creepy Crawlies",
@@ -4951,6 +4781,161 @@
       "date": "2026-09-28",
       "title": "willfaust / Madeira",
       "source": "github"
+    },
+    "18d398716f5aa44d": {
+      "date": "2026-09-29",
+      "title": "Sonnet 5.5",
+      "source": "hackernews"
+    },
+    "feab8152bb49bd3e": {
+      "date": "2026-09-29",
+      "title": "Pirating the Pirates",
+      "source": "hackernews"
+    },
+    "13f1b2f89f9d0154": {
+      "date": "2026-09-29",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "source": "hackernews"
+    },
+    "80accab252a21cb6": {
+      "date": "2026-09-29",
+      "title": "World Labs Is Joining AMD",
+      "source": "hackernews"
+    },
+    "6f482fa0cb255813": {
+      "date": "2026-09-29",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "source": "hackernews"
+    },
+    "ab3b9fd9e95a787d": {
+      "date": "2026-09-29",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "source": "hackernews"
+    },
+    "76f64e763d498529": {
+      "date": "2026-09-29",
+      "title": "Scientists solve 1840s space weather mystery",
+      "source": "hackernews"
+    },
+    "c4e8d32dd74e8d39": {
+      "date": "2026-09-29",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "source": "hackernews"
+    },
+    "b5610ce4274f3a4a": {
+      "date": "2026-09-29",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "source": "hackernews"
+    },
+    "322174cdd332e20f": {
+      "date": "2026-09-29",
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "source": "hackernews"
+    },
+    "a1f59bf5e7917332": {
+      "date": "2026-09-29",
+      "title": "Lattice",
+      "source": "producthunt"
+    },
+    "3e994524983269e7": {
+      "date": "2026-09-29",
+      "title": "vantage.ai",
+      "source": "producthunt"
+    },
+    "f9ac38714afb399d": {
+      "date": "2026-09-29",
+      "title": "Arc",
+      "source": "producthunt"
+    },
+    "124cd7ad28ad6136": {
+      "date": "2026-09-29",
+      "title": "Sayble",
+      "source": "producthunt"
+    },
+    "78f0bc1561e784fe": {
+      "date": "2026-09-29",
+      "title": "Zerg Router",
+      "source": "producthunt"
+    },
+    "974c656c99696eb8": {
+      "date": "2026-09-29",
+      "title": "Vitals ",
+      "source": "producthunt"
+    },
+    "5ad2d3d0d0a09cda": {
+      "date": "2026-09-29",
+      "title": "MuM",
+      "source": "producthunt"
+    },
+    "3f123f4798e6b444": {
+      "date": "2026-09-29",
+      "title": "Ryu Journal",
+      "source": "producthunt"
+    },
+    "9044a443cc06c171": {
+      "date": "2026-09-29",
+      "title": "NawfalMotii79 / PLFM_RADAR",
+      "source": "github"
+    },
+    "cb57e84ba2ef0af9": {
+      "date": "2026-09-29",
+      "title": "cs341-illinois / coursebook",
+      "source": "github"
+    },
+    "e2dc16e18a1e2d37": {
+      "date": "2026-09-29",
+      "title": "byoungd / up",
+      "source": "github"
+    },
+    "cbb983095c08ccc7": {
+      "date": "2026-09-29",
+      "title": "🗓️ Monthly Dev 💫SPECIAL💫 Report: September 2026",
+      "source": "devto"
+    },
+    "5699d6b5665f3498": {
+      "date": "2026-09-29",
+      "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
+      "source": "devto"
+    },
+    "01cddcd22daaa97d": {
+      "date": "2026-09-29",
+      "title": "Half the AI agents in production are if-statements with a GPU bill",
+      "source": "devto"
+    },
+    "65209129d40a953b": {
+      "date": "2026-09-29",
+      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
+      "source": "devto"
+    },
+    "04387d3ed5a164e9": {
+      "date": "2026-09-29",
+      "title": "I'm an ER doctor. After decades without touching code, I built 3 websites with AI in one month — on ",
+      "source": "devto"
+    },
+    "8daaaab01ed373f0": {
+      "date": "2026-09-29",
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "source": "devto"
+    },
+    "e0b00d94aa7d8970": {
+      "date": "2026-09-29",
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "source": "devto"
+    },
+    "47f6916705b2ab8e": {
+      "date": "2026-09-29",
+      "title": "My AI Development Prompts",
+      "source": "devto"
+    },
+    "7724f63d23995516": {
+      "date": "2026-09-29",
+      "title": "I Stopped Measuring My Programming Ability by How Much Code I Write.",
+      "source": "devto"
+    },
+    "a663d038d0309209": {
+      "date": "2026-09-29",
+      "title": "I Replaced a Gate That Accepted Everyone With a Gate That Accepted No One. My Tests Couldn't Tell th",
+      "source": "devto"
     }
   }
 }
