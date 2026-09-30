@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-29T02:16:15.982038",
+  "last_updated": "2026-09-30T01:30:23.002736",
   "sent_items": {
-    "5f4bc58220d5cbd6": {
-      "date": "2026-08-30",
-      "title": "Creepy Crawlies",
-      "source": "hackernews"
-    },
-    "0cd9beaaa19a0888": {
-      "date": "2026-08-30",
-      "title": "Hacking IKEA Furniture",
-      "source": "hackernews"
-    },
-    "e236fdb910aca5bd": {
-      "date": "2026-08-30",
-      "title": "Haiku R1/beta6 has been released",
-      "source": "hackernews"
-    },
-    "a5720b79eeeb0f39": {
-      "date": "2026-08-30",
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "source": "hackernews"
-    },
-    "769168c0d6099d7f": {
-      "date": "2026-08-30",
-      "title": "Zig: Pointer Stability for ArrayLists",
-      "source": "hackernews"
-    },
-    "7a007121b956cde7": {
-      "date": "2026-08-30",
-      "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
-      "source": "hackernews"
-    },
-    "ae7306b88dfa8664": {
-      "date": "2026-08-30",
-      "title": "Sort branches by last commit date",
-      "source": "hackernews"
-    },
-    "acca2521df606941": {
-      "date": "2026-08-30",
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "source": "hackernews"
-    },
-    "d4338b1abd099073": {
-      "date": "2026-08-30",
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "source": "hackernews"
-    },
-    "0634cfe723649249": {
-      "date": "2026-08-30",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "source": "hackernews"
-    },
-    "94d12dc43f38ac46": {
-      "date": "2026-08-30",
-      "title": "Maritime",
-      "source": "producthunt"
-    },
-    "9f4a334687f1a86b": {
-      "date": "2026-08-30",
-      "title": "Topview Motion Studio",
-      "source": "producthunt"
-    },
-    "7bd8181e8a257e9e": {
-      "date": "2026-08-30",
-      "title": "oMLX",
-      "source": "producthunt"
-    },
-    "ef9c563e106ba211": {
-      "date": "2026-08-30",
-      "title": "Retro Y2K Theme",
-      "source": "producthunt"
-    },
-    "065d817047ed3a3f": {
-      "date": "2026-08-30",
-      "title": "Superagent",
-      "source": "producthunt"
-    },
-    "c15b3e9bb9baca6e": {
-      "date": "2026-08-30",
-      "title": "RIP MY BUILD",
-      "source": "producthunt"
-    },
-    "8d35359e74392156": {
-      "date": "2026-08-30",
-      "title": "Referent",
-      "source": "producthunt"
-    },
-    "1118ddc381f0b1a5": {
-      "date": "2026-08-30",
-      "title": "Prequel",
-      "source": "producthunt"
-    },
-    "e1146483aea35c4b": {
-      "date": "2026-08-30",
-      "title": "Lakr233 / vphone-cli",
-      "source": "github"
-    },
-    "2db83a025fb2e599": {
-      "date": "2026-08-30",
-      "title": "unclecode / crawl4ai",
-      "source": "github"
-    },
-    "cb3eddfe11b539d1": {
-      "date": "2026-08-30",
-      "title": "mvanhorn / last30days-skill",
-      "source": "github"
-    },
-    "4fa3a55b3f08f940": {
-      "date": "2026-08-30",
-      "title": "majd / ipatool",
-      "source": "github"
-    },
-    "396cb5e37f289675": {
-      "date": "2026-08-30",
-      "title": "punkpeye / awesome-mcp-servers",
-      "source": "github"
-    },
-    "98f03e4745eeb751": {
-      "date": "2026-08-30",
-      "title": "checkstyle / checkstyle",
-      "source": "github"
-    },
-    "69d36549b62c1e34": {
-      "date": "2026-08-30",
-      "title": "pollen-robotics / microduck_rl",
-      "source": "github"
-    },
-    "32aa3c814e098f24": {
-      "date": "2026-08-30",
-      "title": "handsomestWei / patent-disclosure-skill",
-      "source": "github"
-    },
-    "f375b5f99caab788": {
-      "date": "2026-08-30",
-      "title": "corsairdev / corsair",
-      "source": "github"
-    },
-    "8f4f289e1042beae": {
-      "date": "2026-08-30",
-      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "source": "devto"
-    },
-    "a7fe4e624af78067": {
-      "date": "2026-08-30",
-      "title": "IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Kn",
-      "source": "devto"
-    },
-    "eef481cc38b762c6": {
-      "date": "2026-08-30",
-      "title": "Git Said It Succeeded. The State Said Otherwise.",
-      "source": "devto"
-    },
-    "5a2b15e3f6b8818d": {
-      "date": "2026-08-30",
-      "title": "Delta encoding multiplayer game state",
-      "source": "devto"
-    },
-    "b5b9d5cea6ebe593": {
-      "date": "2026-08-30",
-      "title": "I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?",
-      "source": "devto"
-    },
-    "981883f6f39c2e48": {
-      "date": "2026-08-30",
-      "title": "Bugs Are Innocent Until Reproduced: Building Verdict, an Evidence-First Agent Harness",
-      "source": "devto"
-    },
-    "098bb2822a4b152c": {
-      "date": "2026-08-30",
-      "title": "I Built an Agent That Marked Its Own Finding as Already Known",
-      "source": "devto"
-    },
-    "7526cfe86081d996": {
-      "date": "2026-08-30",
-      "title": "Tell Me About You",
-      "source": "devto"
-    },
-    "b37ffe57241dbf2f": {
-      "date": "2026-08-30",
-      "title": "My Commit Said \"Stop Trusting the Receipt.\" That Is the Commit Where the Trusting Started.",
-      "source": "devto"
-    },
-    "33e8b1adc416fe2a": {
-      "date": "2026-08-30",
-      "title": "The undo has to exist before the write does",
-      "source": "devto"
-    },
     "49e3387c38cb4332": {
       "date": "2026-08-31",
       "title": "Playa Phone",
@@ -4935,6 +4750,171 @@
     "a663d038d0309209": {
       "date": "2026-09-29",
       "title": "I Replaced a Gate That Accepted Everyone With a Gate That Accepted No One. My Tests Couldn't Tell th",
+      "source": "devto"
+    },
+    "3b1f5931d42712c9": {
+      "date": "2026-09-30",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "source": "hackernews"
+    },
+    "5b1c616dcaea9abb": {
+      "date": "2026-09-30",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "source": "hackernews"
+    },
+    "dd2a1c474bd26b86": {
+      "date": "2026-09-30",
+      "title": "America.gov",
+      "source": "hackernews"
+    },
+    "8ad931cc2079dd18": {
+      "date": "2026-09-30",
+      "title": "PS5 Relapse Exploit",
+      "source": "hackernews"
+    },
+    "a5c0ad1eacb77105": {
+      "date": "2026-09-30",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "source": "hackernews"
+    },
+    "295a238bc5244492": {
+      "date": "2026-09-30",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "source": "hackernews"
+    },
+    "e923ea199e3c97e5": {
+      "date": "2026-09-30",
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "source": "hackernews"
+    },
+    "bd36f003d4326665": {
+      "date": "2026-09-30",
+      "title": "Vermont replacing power plants with home batteries",
+      "source": "hackernews"
+    },
+    "6c5a9beb1683dc3f": {
+      "date": "2026-09-30",
+      "title": "We’re forgetting what darkness feels like",
+      "source": "hackernews"
+    },
+    "7b0973ea1468769d": {
+      "date": "2026-09-30",
+      "title": "Needed 1+1, built a functional programming language",
+      "source": "hackernews"
+    },
+    "2b3bcca44e12ae16": {
+      "date": "2026-09-30",
+      "title": "Supertake",
+      "source": "producthunt"
+    },
+    "4e91087564d438e5": {
+      "date": "2026-09-30",
+      "title": "Timeless Code",
+      "source": "producthunt"
+    },
+    "9d104d69eede776f": {
+      "date": "2026-09-30",
+      "title": "ShipHappens:",
+      "source": "producthunt"
+    },
+    "8e48f2039375f3a0": {
+      "date": "2026-09-30",
+      "title": "FFFFinder",
+      "source": "producthunt"
+    },
+    "42f8cd0891e411c8": {
+      "date": "2026-09-30",
+      "title": "Declutr",
+      "source": "producthunt"
+    },
+    "bf0b133c78ade031": {
+      "date": "2026-09-30",
+      "title": "Codex Remote",
+      "source": "producthunt"
+    },
+    "b3ff3c7fda484d10": {
+      "date": "2026-09-30",
+      "title": "Timeful",
+      "source": "producthunt"
+    },
+    "2486de2b94aa6ac4": {
+      "date": "2026-09-30",
+      "title": "GroupShelf",
+      "source": "producthunt"
+    },
+    "992c39912e4db5a2": {
+      "date": "2026-09-30",
+      "title": "NVIDIA / OpenShell",
+      "source": "github"
+    },
+    "4cb07dec940977f8": {
+      "date": "2026-09-30",
+      "title": "t8y2 / dbx",
+      "source": "github"
+    },
+    "ee1315903bd5e838": {
+      "date": "2026-09-30",
+      "title": "oblien / openship",
+      "source": "github"
+    },
+    "9fea7d3b8ac2c89f": {
+      "date": "2026-09-30",
+      "title": "VectifyAI / PageIndex",
+      "source": "github"
+    },
+    "8c104d62fe1bf984": {
+      "date": "2026-09-30",
+      "title": "rakyll / hey",
+      "source": "github"
+    },
+    "5bdccfa75679489b": {
+      "date": "2026-09-30",
+      "title": "The Accidental Blogger: How I Ended Up on DEV",
+      "source": "devto"
+    },
+    "24c24c1b39375182": {
+      "date": "2026-09-30",
+      "title": "I Built My First AI Agent With AWS AgentCore, and the Hardest Part Wasn't the AI",
+      "source": "devto"
+    },
+    "9e1ece61c48d1e67": {
+      "date": "2026-09-30",
+      "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance",
+      "source": "devto"
+    },
+    "6de0249dbb7e6f5c": {
+      "date": "2026-09-30",
+      "title": "Your GitHub profile shows your follower count. It also shows attackers your whole attack surface.",
+      "source": "devto"
+    },
+    "f2e613e7eff5cfc1": {
+      "date": "2026-09-30",
+      "title": "Say Please (if only as a reminder)",
+      "source": "devto"
+    },
+    "b8c3c67a3e37631a": {
+      "date": "2026-09-30",
+      "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
+      "source": "devto"
+    },
+    "544fcd9f1df2bdc7": {
+      "date": "2026-09-30",
+      "title": "Who's Accountable When the AI Was Just Following Instructions?",
+      "source": "devto"
+    },
+    "9bd51a53317092c5": {
+      "date": "2026-09-30",
+      "title": "Confident Isn't Accurate: How AI Hallucinations Actually Work",
+      "source": "devto"
+    },
+    "94f1b346510d6531": {
+      "date": "2026-09-30",
+      "title": "Code Review Is Not an Authority Boundary",
+      "source": "devto"
+    },
+    "eff28291e3b68e44": {
+      "date": "2026-09-30",
+      "title": "I Gave ChatGPT My Full Codebase. The Results Scared Me — But Not for the Reason You Think.",
       "source": "devto"
     }
   }
