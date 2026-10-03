@@ -1,197 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-02T01:48:17.676191",
+  "last_updated": "2026-10-03T01:23:58.073441",
   "sent_items": {
-    "8830159e65b07b53": {
-      "date": "2026-09-02",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "source": "hackernews"
-    },
-    "79d8e65f648fa293": {
-      "date": "2026-09-02",
-      "title": "Can I opt out of my input or output data being used for training?",
-      "source": "hackernews"
-    },
-    "9148fb3881814e2b": {
-      "date": "2026-09-02",
-      "title": "Muse Spark 1.3",
-      "source": "hackernews"
-    },
-    "ff151594d7a955d9": {
-      "date": "2026-09-02",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "source": "hackernews"
-    },
-    "eb6cf122182b8795": {
-      "date": "2026-09-02",
-      "title": "Google avoids a breakup of its ad tech business",
-      "source": "hackernews"
-    },
-    "0035155371e90a6c": {
-      "date": "2026-09-02",
-      "title": "Wendell Berry has died",
-      "source": "hackernews"
-    },
-    "788f87ef4fec80ec": {
-      "date": "2026-09-02",
-      "title": "Fable 5.1 World Modeling",
-      "source": "hackernews"
-    },
-    "ec5ea5eb3e4f0f20": {
-      "date": "2026-09-02",
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
-      "source": "hackernews"
-    },
-    "cfa62301efd8b314": {
-      "date": "2026-09-02",
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "source": "hackernews"
-    },
-    "0cd3d05ff8a1b39a": {
-      "date": "2026-09-02",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "source": "hackernews"
-    },
-    "5596825675aaf51b": {
-      "date": "2026-09-02",
-      "title": "CleanShot 5.0 with Studio Mode",
-      "source": "producthunt"
-    },
-    "e493d015dc842a7b": {
-      "date": "2026-09-02",
-      "title": "OpenClaw 2.0",
-      "source": "producthunt"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-09-02",
-      "title": "Basedash AI Sources",
-      "source": "producthunt"
-    },
-    "2595d48f632c625d": {
-      "date": "2026-09-02",
-      "title": "Doop",
-      "source": "producthunt"
-    },
-    "d81e0f60d79c77c5": {
-      "date": "2026-09-02",
-      "title": "RoundOS",
-      "source": "producthunt"
-    },
-    "342e749a5ac75f3e": {
-      "date": "2026-09-02",
-      "title": "Touchy",
-      "source": "producthunt"
-    },
-    "aae5275743b4b18f": {
-      "date": "2026-09-02",
-      "title": "Monid",
-      "source": "producthunt"
-    },
-    "41a3fe9d2c468511": {
-      "date": "2026-09-02",
-      "title": "Stitch AI by Dynamic Mockups",
-      "source": "producthunt"
-    },
-    "770c02f84a8378ea": {
-      "date": "2026-09-02",
-      "title": "What do you build when you can build anything?",
-      "source": "devto"
-    },
-    "9aa7c28807722a4a": {
-      "date": "2026-09-02",
-      "title": "Execution Trees, Not More Logs: A Better Debugging Model for AI Agents",
-      "source": "devto"
-    },
-    "f98fbd2f701a97de": {
-      "date": "2026-09-02",
-      "title": "Designing a Webhook Delivery System for 10 Million Events a Day",
-      "source": "devto"
-    },
-    "d300dd45aa46e6b0": {
-      "date": "2026-09-02",
-      "title": "I Tried Pair Programming With Three Different AI Tools For a Month",
-      "source": "devto"
-    },
-    "97579c1ddb115d80": {
-      "date": "2026-09-02",
-      "title": "My AI Gateway Added 400ms to Every Request. Here's Where It Went",
-      "source": "devto"
-    },
-    "81bbfcf2d535e168": {
-      "date": "2026-09-02",
-      "title": "Why I'm Building ShrekOS When Containers Already Exist",
-      "source": "devto"
-    },
-    "8094ee6d9cb794ae": {
-      "date": "2026-09-02",
-      "title": "Learn Number of Islands, Invert Binary Tree, and Course Schedule with Step-by-Step Visualization in ",
-      "source": "devto"
-    },
-    "62461da680625da6": {
-      "date": "2026-09-02",
-      "title": "I Found 3 Security Vulnerabilities in My Own AI Agent's Tool Access",
-      "source": "devto"
-    },
-    "2f169cf53fc325f3": {
-      "date": "2026-09-02",
-      "title": "Copy-Paste Fonts Are Not Fonts. Here Is What Broke My Code",
-      "source": "devto"
-    },
-    "e2ebe90245d4034f": {
-      "date": "2026-09-02",
-      "title": "Agents That Act Need Brakes, Not Just Brains",
-      "source": "devto"
-    },
-    "c7f5556eba608ddd": {
-      "date": "2026-09-02",
-      "title": "fmtlib / fmt",
-      "source": "github"
-    },
-    "17a133fee8f3ef38": {
-      "date": "2026-09-02",
-      "title": "google-research / timesfm",
-      "source": "github"
-    },
-    "9660013ea25c5cd2": {
-      "date": "2026-09-02",
-      "title": "debpalash / VoiceStudio",
-      "source": "github"
-    },
-    "e60d19bcbc87ff4d": {
-      "date": "2026-09-02",
-      "title": "sngyai / Sequoia-X",
-      "source": "github"
-    },
-    "b4212d4b4d442e7e": {
-      "date": "2026-09-02",
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "source": "github"
-    },
-    "9b3165d8618fc678": {
-      "date": "2026-09-02",
-      "title": "superlinked / sie",
-      "source": "github"
-    },
-    "f798f6349b394f49": {
-      "date": "2026-09-02",
-      "title": "pacifio / atlas",
-      "source": "github"
-    },
-    "5cd08d05ac6c4ae5": {
-      "date": "2026-09-02",
-      "title": "zyronon / TypeWords",
-      "source": "github"
-    },
-    "2412889dd3a83a7b": {
-      "date": "2026-09-02",
-      "title": "vercel-labs / portless",
-      "source": "github"
-    },
-    "786d914db71c331d": {
-      "date": "2026-09-02",
-      "title": "blader / humanizer",
-      "source": "github"
-    },
     "bd1b0b7f2fa5f635": {
       "date": "2026-09-03",
       "title": ".name Termination",
@@ -4935,6 +4745,161 @@
     "a0493a442bc16c39": {
       "date": "2026-10-02",
       "title": "Friedrich-M / UniMate",
+      "source": "github"
+    },
+    "159e8dd3874a8e8c": {
+      "date": "2026-10-03",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "source": "hackernews"
+    },
+    "35679dd830ae321e": {
+      "date": "2026-10-03",
+      "title": "Apple Pass Designer",
+      "source": "hackernews"
+    },
+    "ad3ef17dc4953876": {
+      "date": "2026-10-03",
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "source": "hackernews"
+    },
+    "fc9a8af9cf310c4a": {
+      "date": "2026-10-03",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "source": "hackernews"
+    },
+    "6c08f4cc37ece942": {
+      "date": "2026-10-03",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "source": "hackernews"
+    },
+    "9796e3908e7f5245": {
+      "date": "2026-10-03",
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "source": "hackernews"
+    },
+    "d5cb8735d1d50829": {
+      "date": "2026-10-03",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "source": "hackernews"
+    },
+    "25d7fadb2c58a4c1": {
+      "date": "2026-10-03",
+      "title": "Muse Gadgets",
+      "source": "hackernews"
+    },
+    "05f5ae43b77b3be6": {
+      "date": "2026-10-03",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "source": "hackernews"
+    },
+    "2317384b005ef1dd": {
+      "date": "2026-10-03",
+      "title": "Things That Apparently Cause Cancer",
+      "source": "hackernews"
+    },
+    "329835f7b87c3b02": {
+      "date": "2026-10-03",
+      "title": "Anthroposcaper",
+      "source": "producthunt"
+    },
+    "34c1af6cb241ee1d": {
+      "date": "2026-10-03",
+      "title": "JarvisCore",
+      "source": "producthunt"
+    },
+    "8d9aa2ed36567f8e": {
+      "date": "2026-10-03",
+      "title": "Open Inspector",
+      "source": "producthunt"
+    },
+    "65b54e5f767e2bcf": {
+      "date": "2026-10-03",
+      "title": "Communicate",
+      "source": "producthunt"
+    },
+    "c11f3abe1698bf4c": {
+      "date": "2026-10-03",
+      "title": "Codync",
+      "source": "producthunt"
+    },
+    "37984fc912975615": {
+      "date": "2026-10-03",
+      "title": "Clef",
+      "source": "producthunt"
+    },
+    "a0544c80335e006b": {
+      "date": "2026-10-03",
+      "title": "Mintlify Desktop",
+      "source": "producthunt"
+    },
+    "d04ad2782f184dcd": {
+      "date": "2026-10-03",
+      "title": "ShipHQ",
+      "source": "producthunt"
+    },
+    "9340175102de8285": {
+      "date": "2026-10-03",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "d68eca514e61db29": {
+      "date": "2026-10-03",
+      "title": "Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027",
+      "source": "devto"
+    },
+    "9cad877b89c7e7c8": {
+      "date": "2026-10-03",
+      "title": "Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meetup at DDU, 15 Oct",
+      "source": "devto"
+    },
+    "e2d27e8c3a9e1f09": {
+      "date": "2026-10-03",
+      "title": "Kharcha: a 4B model that reads Indian bank SMS so the money stays on your laptop",
+      "source": "devto"
+    },
+    "1a3bf5768e007d68": {
+      "date": "2026-10-03",
+      "title": "Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn",
+      "source": "devto"
+    },
+    "ba8a6225afbe8e5f": {
+      "date": "2026-10-03",
+      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
+      "source": "devto"
+    },
+    "9bbc4b0fe4f20235": {
+      "date": "2026-10-03",
+      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told",
+      "source": "devto"
+    },
+    "f690cffa412695fc": {
+      "date": "2026-10-03",
+      "title": "How One \"Generate Draft\" Button Changed the Design of My Writing Tool",
+      "source": "devto"
+    },
+    "c2ece9ed57f3d5ab": {
+      "date": "2026-10-03",
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "source": "devto"
+    },
+    "9962308b7c6bc089": {
+      "date": "2026-10-03",
+      "title": "The BMW manual was off-limits, so I built my friend something better",
+      "source": "devto"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-10-03",
+      "title": "JuliusBrussee / caveman",
+      "source": "github"
+    },
+    "69c7eb76fe0b1fcc": {
+      "date": "2026-10-03",
+      "title": "google / skills",
+      "source": "github"
+    },
+    "a5d3aa66ee820da7": {
+      "date": "2026-10-03",
+      "title": "getsentry / sentry",
       "source": "github"
     }
   }
