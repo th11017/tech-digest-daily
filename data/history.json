@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-03T01:23:58.073441",
+  "last_updated": "2026-10-04T01:57:57.630469",
   "sent_items": {
-    "bd1b0b7f2fa5f635": {
-      "date": "2026-09-03",
-      "title": ".name Termination",
-      "source": "hackernews"
-    },
-    "1b6b443c0aff36e8": {
-      "date": "2026-09-03",
-      "title": "GPT-6 Astra",
-      "source": "hackernews"
-    },
-    "3efa566bf05e6e8c": {
-      "date": "2026-09-03",
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "source": "hackernews"
-    },
-    "d055f5ec31ebc871": {
-      "date": "2026-09-03",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "source": "hackernews"
-    },
-    "166c7daaa257c653": {
-      "date": "2026-09-03",
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "source": "hackernews"
-    },
-    "497eb0b45fab2fc0": {
-      "date": "2026-09-03",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "source": "hackernews"
-    },
-    "3163a1d07f6cea04": {
-      "date": "2026-09-03",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "source": "hackernews"
-    },
-    "26242179ba903935": {
-      "date": "2026-09-03",
-      "title": "The largest electric aircraft just flew [video]",
-      "source": "hackernews"
-    },
-    "8a7d120c003047c9": {
-      "date": "2026-09-03",
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "source": "hackernews"
-    },
-    "d88bb5bab6e499ad": {
-      "date": "2026-09-03",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "source": "hackernews"
-    },
-    "198c91f5f5933a33": {
-      "date": "2026-09-03",
-      "title": "Causal",
-      "source": "producthunt"
-    },
-    "facc9d3c6697f76c": {
-      "date": "2026-09-03",
-      "title": "Higgsfield Genjutsu",
-      "source": "producthunt"
-    },
-    "21b1100704ed07a4": {
-      "date": "2026-09-03",
-      "title": "Atlas by World Labs",
-      "source": "producthunt"
-    },
-    "60daef4c6698af07": {
-      "date": "2026-09-03",
-      "title": "Readr",
-      "source": "producthunt"
-    },
-    "15e8007373b678d2": {
-      "date": "2026-09-03",
-      "title": "Blume.codes",
-      "source": "producthunt"
-    },
-    "8e1a6b35f6887771": {
-      "date": "2026-09-03",
-      "title": "Tidy",
-      "source": "producthunt"
-    },
-    "c418465f3c357eec": {
-      "date": "2026-09-03",
-      "title": "Omi",
-      "source": "producthunt"
-    },
-    "43d3a131380adbb5": {
-      "date": "2026-09-03",
-      "title": "Grove",
-      "source": "producthunt"
-    },
-    "62ef4cb92bb39622": {
-      "date": "2026-09-03",
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "source": "devto"
-    },
-    "8e567e01e0d9b054": {
-      "date": "2026-09-03",
-      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
-      "source": "devto"
-    },
-    "4ea9acd3fdf1f476": {
-      "date": "2026-09-03",
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "source": "devto"
-    },
-    "9da6d7d380de8203": {
-      "date": "2026-09-03",
-      "title": "AI-assisted genealogy",
-      "source": "devto"
-    },
-    "e79304a7cd184007": {
-      "date": "2026-09-03",
-      "title": "The extraction returned zero memories, and nothing screamed",
-      "source": "devto"
-    },
-    "368f0e3c213f120b": {
-      "date": "2026-09-03",
-      "title": "My Dev.to CLI Got Its First Community PR. Image Uploads From Terminal.",
-      "source": "devto"
-    },
-    "6cadbd90c037f45d": {
-      "date": "2026-09-03",
-      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
-      "source": "devto"
-    },
-    "96f05956dcbdb215": {
-      "date": "2026-09-03",
-      "title": "Four Ways Your Background Job Disappears (And How to Stop Each One)",
-      "source": "devto"
-    },
-    "cdf649762481c848": {
-      "date": "2026-09-03",
-      "title": "Forensic Receipts: From Trusted to Proven",
-      "source": "devto"
-    },
-    "34dcfb2916fdbcf5": {
-      "date": "2026-09-03",
-      "title": "What I learned building a native console for two competing coding agents",
-      "source": "devto"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-09-03",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "4ea29adcea71be3d": {
-      "date": "2026-09-03",
-      "title": "ByteByteGoHq / system-design-101",
-      "source": "github"
-    },
-    "2f51b72af43a25a9": {
-      "date": "2026-09-03",
-      "title": "magnitudedev / magnitude",
-      "source": "github"
-    },
     "c826810d06ef1884": {
       "date": "2026-09-04",
       "title": "Discovery of a new OpenAI agent message board",
@@ -4900,6 +4745,166 @@
     "a5d3aa66ee820da7": {
       "date": "2026-10-03",
       "title": "getsentry / sentry",
+      "source": "github"
+    },
+    "acd05619cf666288": {
+      "date": "2026-10-04",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "source": "hackernews"
+    },
+    "703c0c829a14fd92": {
+      "date": "2026-10-04",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "source": "hackernews"
+    },
+    "81b68c5ee25b3bb6": {
+      "date": "2026-10-04",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "source": "hackernews"
+    },
+    "eb8bbabe305cdeef": {
+      "date": "2026-10-04",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "source": "hackernews"
+    },
+    "c40b90c587ac7f7c": {
+      "date": "2026-10-04",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "source": "hackernews"
+    },
+    "c5e6afee1ce03466": {
+      "date": "2026-10-04",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "source": "hackernews"
+    },
+    "949e665fe56ae2f1": {
+      "date": "2026-10-04",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "source": "hackernews"
+    },
+    "8ec43cce63e7a249": {
+      "date": "2026-10-04",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "source": "hackernews"
+    },
+    "de59c72733214a2d": {
+      "date": "2026-10-04",
+      "title": "Your body of work thinks back at you",
+      "source": "hackernews"
+    },
+    "2f1589adfbab82ab": {
+      "date": "2026-10-04",
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "source": "hackernews"
+    },
+    "88864ba7d9a7a8b9": {
+      "date": "2026-10-04",
+      "title": "Cubicle",
+      "source": "producthunt"
+    },
+    "cb27044acdfee2d4": {
+      "date": "2026-10-04",
+      "title": "Thanor AI",
+      "source": "producthunt"
+    },
+    "a2eaf755c91e8467": {
+      "date": "2026-10-04",
+      "title": "Prefer",
+      "source": "producthunt"
+    },
+    "55aafc714bc4bdf1": {
+      "date": "2026-10-04",
+      "title": "eu/jev",
+      "source": "producthunt"
+    },
+    "2cdadd21d17dd2c2": {
+      "date": "2026-10-04",
+      "title": "FeelMyMac",
+      "source": "producthunt"
+    },
+    "0a4c810b756d4f02": {
+      "date": "2026-10-04",
+      "title": "Singularity",
+      "source": "producthunt"
+    },
+    "c664db173d2666bd": {
+      "date": "2026-10-04",
+      "title": "Reassign",
+      "source": "producthunt"
+    },
+    "d34c89742c5c6d00": {
+      "date": "2026-10-04",
+      "title": "I Was Overwhelmed, So I Turned My GitHub Profile Into a Roguelike Dungeon",
+      "source": "devto"
+    },
+    "958d2c3271bfecd6": {
+      "date": "2026-10-04",
+      "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
+      "source": "devto"
+    },
+    "0eae713481c23b3a": {
+      "date": "2026-10-04",
+      "title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
+      "source": "devto"
+    },
+    "529aa326c8391c42": {
+      "date": "2026-10-04",
+      "title": "I Made Spider-Man Swing Without Animating a Single Frame",
+      "source": "devto"
+    },
+    "81e1737aaa032638": {
+      "date": "2026-10-04",
+      "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to",
+      "source": "devto"
+    },
+    "c98d1095dab625be": {
+      "date": "2026-10-04",
+      "title": "Never Stranded Again: How I Built an Edge AI Bus Guardian for My Friend Tejas Using TabPFN & SerpApi",
+      "source": "devto"
+    },
+    "af0f0ee5f5068fbd": {
+      "date": "2026-10-04",
+      "title": "EmbedCatalog is participating in Hacktoberfest 2026",
+      "source": "devto"
+    },
+    "05052933c7cc94b0": {
+      "date": "2026-10-04",
+      "title": "The Developer Triangle: DSA, AI, and the Skill That Actually Gets You Hired (as a Beginner)",
+      "source": "devto"
+    },
+    "6452dd8eac0dc27b": {
+      "date": "2026-10-04",
+      "title": "Five Frameworks, One Page, Zero Runtime Tax — Micro-frontends in Web Workers",
+      "source": "devto"
+    },
+    "4d122a39891f9463": {
+      "date": "2026-10-04",
+      "title": "A service mesh costs 0.16ms at one connection and 86% of your throughput at 32",
+      "source": "devto"
+    },
+    "a90d342e2181a927": {
+      "date": "2026-10-04",
+      "title": "affaan-m / ECC",
+      "source": "github"
+    },
+    "400163d7e89d8aac": {
+      "date": "2026-10-04",
+      "title": "Effect-TS / effect",
+      "source": "github"
+    },
+    "d2e7f6acabc603da": {
+      "date": "2026-10-04",
+      "title": "pingdotgg / t3code",
+      "source": "github"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-10-04",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "657ca5d400cd8d91": {
+      "date": "2026-10-04",
+      "title": "cloudflare / cloudflare-os",
       "source": "github"
     }
   }
