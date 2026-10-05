@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-04T01:57:57.630469",
+  "last_updated": "2026-10-05T01:14:04.896078",
   "sent_items": {
-    "c826810d06ef1884": {
-      "date": "2026-09-04",
-      "title": "Discovery of a new OpenAI agent message board",
-      "source": "hackernews"
-    },
-    "7036feb3828d857d": {
-      "date": "2026-09-04",
-      "title": "Formalizing Fermat's Last Theorem",
-      "source": "hackernews"
-    },
-    "bdf7f8522fda8514": {
-      "date": "2026-09-04",
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "source": "hackernews"
-    },
-    "5552316f3c752146": {
-      "date": "2026-09-04",
-      "title": "Shutting down our public encrypted DNS",
-      "source": "hackernews"
-    },
-    "b3e2f2da19b1dcbe": {
-      "date": "2026-09-04",
-      "title": "Statichost.eu – European static site hosting",
-      "source": "hackernews"
-    },
-    "98f52d5492702a4c": {
-      "date": "2026-09-04",
-      "title": "Can AI design circuit boards yet?",
-      "source": "hackernews"
-    },
-    "9fe8632f21012ff7": {
-      "date": "2026-09-04",
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "source": "hackernews"
-    },
-    "fae0da9a07021afb": {
-      "date": "2026-09-04",
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "source": "hackernews"
-    },
-    "e244ea284f18450d": {
-      "date": "2026-09-04",
-      "title": "An open DNS recursive service for free security and high privacy",
-      "source": "hackernews"
-    },
-    "a4ca6138058c6698": {
-      "date": "2026-09-04",
-      "title": "GPT-6 Astra on OpenRouter",
-      "source": "hackernews"
-    },
-    "b0507fb3fbac119c": {
-      "date": "2026-09-04",
-      "title": "WeatherNext 3",
-      "source": "producthunt"
-    },
-    "7c0f222e18455218": {
-      "date": "2026-09-04",
-      "title": "Chalked for Mac",
-      "source": "producthunt"
-    },
-    "c9280a98e4216b28": {
-      "date": "2026-09-04",
-      "title": "Snitch",
-      "source": "producthunt"
-    },
-    "d7be2135f4f625e8": {
-      "date": "2026-09-04",
-      "title": "Clockwork",
-      "source": "producthunt"
-    },
-    "5a0bfeed84b997f3": {
-      "date": "2026-09-04",
-      "title": "TrackMCP",
-      "source": "producthunt"
-    },
-    "88a9807611b96223": {
-      "date": "2026-09-04",
-      "title": "Omarchy",
-      "source": "producthunt"
-    },
-    "f5d8618f26c71b5f": {
-      "date": "2026-09-04",
-      "title": "cmmnts",
-      "source": "producthunt"
-    },
-    "a8870f21655726ec": {
-      "date": "2026-09-04",
-      "title": "Hey Everyone! I’m Sanidhya from MLH",
-      "source": "devto"
-    },
-    "8040c2aff4769b5e": {
-      "date": "2026-09-04",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "d1e1c7345f6d0851": {
-      "date": "2026-09-04",
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "source": "devto"
-    },
-    "e4df8d6c9c6899f5": {
-      "date": "2026-09-04",
-      "title": "Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Campus Ambassadors & the Bharat Builds Tou",
-      "source": "devto"
-    },
-    "fecbddaffc39b963": {
-      "date": "2026-09-04",
-      "title": "The board came back. The highlights lied.",
-      "source": "devto"
-    },
-    "e904c5f6353cb16d": {
-      "date": "2026-09-04",
-      "title": "Gemini Agentic Video Isn't Always Cheaper: A 24-Run Benchmark",
-      "source": "devto"
-    },
-    "ad17cb2c92c001f9": {
-      "date": "2026-09-04",
-      "title": "[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner",
-      "source": "devto"
-    },
-    "821f7a55fdccf05d": {
-      "date": "2026-09-04",
-      "title": "Your AI-generated tests aren't testing your code. They're testing the AI's blind spots.",
-      "source": "devto"
-    },
-    "858f1873dea628f8": {
-      "date": "2026-09-04",
-      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
-      "source": "devto"
-    },
-    "dd841669b3deff1a": {
-      "date": "2026-09-04",
-      "title": "How ChatGPT agents with no internet access ended up in Hugging Face",
-      "source": "devto"
-    },
-    "da8fbc1a4b495fcf": {
-      "date": "2026-09-04",
-      "title": "bikini / exploitarium",
-      "source": "github"
-    },
-    "8f0bf963eb960c23": {
-      "date": "2026-09-04",
-      "title": "radixark / miles",
-      "source": "github"
-    },
-    "9bde5582e8ba9a19": {
-      "date": "2026-09-04",
-      "title": "anomalyco / opencode",
-      "source": "github"
-    },
     "8c128b002092d592": {
       "date": "2026-09-05",
       "title": "The Real Luxuries In Life",
@@ -4905,6 +4755,171 @@
     "657ca5d400cd8d91": {
       "date": "2026-10-04",
       "title": "cloudflare / cloudflare-os",
+      "source": "github"
+    },
+    "cbba30503920c619": {
+      "date": "2026-10-05",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "source": "hackernews"
+    },
+    "11e7fe621404c0b0": {
+      "date": "2026-10-05",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "source": "hackernews"
+    },
+    "f0d969783b3d28ce": {
+      "date": "2026-10-05",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "source": "hackernews"
+    },
+    "db02bd2053a0cc20": {
+      "date": "2026-10-05",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "source": "hackernews"
+    },
+    "558855dfb1899614": {
+      "date": "2026-10-05",
+      "title": "Infidel goes wild",
+      "source": "hackernews"
+    },
+    "643b1421e2252e2e": {
+      "date": "2026-10-05",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "source": "hackernews"
+    },
+    "31a87390e429a41a": {
+      "date": "2026-10-05",
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "source": "hackernews"
+    },
+    "a748284de909878b": {
+      "date": "2026-10-05",
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "source": "hackernews"
+    },
+    "5146d2c6095a2866": {
+      "date": "2026-10-05",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "source": "hackernews"
+    },
+    "af79189680a7c477": {
+      "date": "2026-10-05",
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "source": "hackernews"
+    },
+    "f60d62daf7f299e1": {
+      "date": "2026-10-05",
+      "title": "Thinking Orbs",
+      "source": "producthunt"
+    },
+    "23d0f56342c8833e": {
+      "date": "2026-10-05",
+      "title": "Pixel Soup",
+      "source": "producthunt"
+    },
+    "0fd95edc31fb2296": {
+      "date": "2026-10-05",
+      "title": "Quven",
+      "source": "producthunt"
+    },
+    "74cd4cdf131c7e54": {
+      "date": "2026-10-05",
+      "title": "FlexChords",
+      "source": "producthunt"
+    },
+    "5ecdcd69acbf0968": {
+      "date": "2026-10-05",
+      "title": "Aperture",
+      "source": "producthunt"
+    },
+    "ce6509c6d8cabc6f": {
+      "date": "2026-10-05",
+      "title": "Cursor Remote Lite",
+      "source": "producthunt"
+    },
+    "129c21d360a86c96": {
+      "date": "2026-10-05",
+      "title": "JOGAK",
+      "source": "producthunt"
+    },
+    "485e28874bb3c135": {
+      "date": "2026-10-05",
+      "title": "Calnio",
+      "source": "producthunt"
+    },
+    "4f93635b94da1c91": {
+      "date": "2026-10-05",
+      "title": "Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN",
+      "source": "devto"
+    },
+    "2f089f8dc3d40cff": {
+      "date": "2026-10-05",
+      "title": "I Played Out a Broke Student's Month 500 Times on a Budget i3 Laptop With the Wi-Fi Off. It Warned H",
+      "source": "devto"
+    },
+    "f0bfadfcec0ce66d": {
+      "date": "2026-10-05",
+      "title": "OriginTrace: Protecting the DEV Community from Content Theft using Sanity Context MCP",
+      "source": "devto"
+    },
+    "4f8292104b792363": {
+      "date": "2026-10-05",
+      "title": "The Goblin Warren: an AI Dungeon Master that never invents a rule",
+      "source": "devto"
+    },
+    "4720b967e616eaec": {
+      "date": "2026-10-05",
+      "title": "I built my husband a vim trainer with a Gemma coach that runs in the browser",
+      "source": "devto"
+    },
+    "fba7b1ead41be68d": {
+      "date": "2026-10-05",
+      "title": "20+ Years of Friendship. One Weekend to Build His Marketing Department.",
+      "source": "devto"
+    },
+    "e74c973c90d02243": {
+      "date": "2026-10-05",
+      "title": "Suniye: let my parents hear the message themselves",
+      "source": "devto"
+    },
+    "0aa6b84196ae0f4c": {
+      "date": "2026-10-05",
+      "title": "Valkey 9.2's forkless BGSAVE cuts my memory spike from 350MB to 10MB",
+      "source": "devto"
+    },
+    "a9f98ab99498632a": {
+      "date": "2026-10-05",
+      "title": "The groove is the 40 milliseconds a grid throws away, so we built a beat studio that gives them back",
+      "source": "devto"
+    },
+    "88ffa425c68ba833": {
+      "date": "2026-10-05",
+      "title": "My Son Loves Squishies, So I Built Him One for the Browser",
+      "source": "devto"
+    },
+    "98a3e22b8bffae75": {
+      "date": "2026-10-05",
+      "title": "tester-army / e2e",
+      "source": "github"
+    },
+    "a713a4df70f06b44": {
+      "date": "2026-10-05",
+      "title": "caddyserver / caddy",
+      "source": "github"
+    },
+    "5c67d4420464518d": {
+      "date": "2026-10-05",
+      "title": "michael-denyer / pstack-claude",
+      "source": "github"
+    },
+    "8ed11f9c07a08ee3": {
+      "date": "2026-10-05",
+      "title": "garrytan / gstack",
+      "source": "github"
+    },
+    "d877e72a1b1804cb": {
+      "date": "2026-10-05",
+      "title": "OpenCut-app / OpenCut",
       "source": "github"
     }
   }
