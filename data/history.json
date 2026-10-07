@@ -1,147 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-06T02:28:50.859011",
+  "last_updated": "2026-10-07T01:46:57.254531",
   "sent_items": {
-    "6964500c209d3566": {
-      "date": "2026-09-06",
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "source": "hackernews"
-    },
-    "1759500f645bb398": {
-      "date": "2026-09-06",
-      "title": "Your intellectual fly is open (2025)",
-      "source": "hackernews"
-    },
-    "02ac4380a1b38984": {
-      "date": "2026-09-06",
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "source": "hackernews"
-    },
-    "c049e4de41cb49ac": {
-      "date": "2026-09-06",
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "source": "hackernews"
-    },
-    "3e492c2d9ab96d25": {
-      "date": "2026-09-06",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "source": "hackernews"
-    },
-    "7ded3e91ccd1bd1e": {
-      "date": "2026-09-06",
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "source": "hackernews"
-    },
-    "1f917cf905d6c976": {
-      "date": "2026-09-06",
-      "title": "Research carried out using NetBSD",
-      "source": "hackernews"
-    },
-    "5f0d51b46dced628": {
-      "date": "2026-09-06",
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "source": "hackernews"
-    },
-    "1d71a5c8bb0ed2a0": {
-      "date": "2026-09-06",
-      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-      "source": "hackernews"
-    },
-    "72c0b914c5bb649f": {
-      "date": "2026-09-06",
-      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
-      "source": "hackernews"
-    },
-    "db0e76466dc21fce": {
-      "date": "2026-09-06",
-      "title": "Agentic Video Understanding in Gemini",
-      "source": "producthunt"
-    },
-    "858968678fe1ec6a": {
-      "date": "2026-09-06",
-      "title": "H3 Max by fal",
-      "source": "producthunt"
-    },
-    "58010b61f2b92f9e": {
-      "date": "2026-09-06",
-      "title": "Kit by Speakeasy",
-      "source": "producthunt"
-    },
-    "111542e20e62ae48": {
-      "date": "2026-09-06",
-      "title": "BrickForgerAI",
-      "source": "producthunt"
-    },
-    "16ecb6b6ed472cad": {
-      "date": "2026-09-06",
-      "title": "I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.",
-      "source": "devto"
-    },
-    "b073af9ad47cf0aa": {
-      "date": "2026-09-06",
-      "title": "Multiple Browser Agents Need More Than Separate Profiles",
-      "source": "devto"
-    },
-    "7e9938482e194986": {
-      "date": "2026-09-06",
-      "title": "Markov Chain Monte Carlo: the 1953 algorithm hiding under modern AI",
-      "source": "devto"
-    },
-    "25b59ea238d6d0ac": {
-      "date": "2026-09-06",
-      "title": "You write one kind sentence. I donate a dime. A blockchain makes sure I do.",
-      "source": "devto"
-    },
-    "1472c8817408672d": {
-      "date": "2026-09-06",
-      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
-      "source": "devto"
-    },
-    "f0a613d404e63932": {
-      "date": "2026-09-06",
-      "title": "Posting from a shed with one bar of signal: an offline write queue in plain JS",
-      "source": "devto"
-    },
-    "d4958e65cc59e8d4": {
-      "date": "2026-09-06",
-      "title": "Your audit log is probably lying to you. Postgres 18 fixes it in one statement.",
-      "source": "devto"
-    },
-    "41042573837af264": {
-      "date": "2026-09-06",
-      "title": "The impersonator's product is the gap between meaning and spelling, so we measured both in Snowflake",
-      "source": "devto"
-    },
-    "f7aedc17fc97817a": {
-      "date": "2026-09-06",
-      "title": "The charity had the proof. It just couldn't show anyone.",
-      "source": "devto"
-    },
-    "e60f6498c318c48b": {
-      "date": "2026-09-06",
-      "title": "openai / skills",
-      "source": "github"
-    },
-    "eeb7198dc2eb3375": {
-      "date": "2026-09-06",
-      "title": "llvm / llvm-project",
-      "source": "github"
-    },
-    "7344796a1c663646": {
-      "date": "2026-09-06",
-      "title": "coreyhaines31 / marketingskills",
-      "source": "github"
-    },
-    "322dcd7e9a66cb86": {
-      "date": "2026-09-06",
-      "title": "aipoch / open-science",
-      "source": "github"
-    },
-    "ccf10a9ea33b3491": {
-      "date": "2026-09-06",
-      "title": "OpenWhispr / openwhispr",
-      "source": "github"
-    },
     "47496228a4fc4e39": {
       "date": "2026-09-07",
       "title": "216M Spy TVs – The LG Smart TV Problem [video]",
@@ -4930,6 +4790,161 @@
     "937aa28f2aab79f5": {
       "date": "2026-10-06",
       "title": "M-Abozaid / esp32-c3-adblock",
+      "source": "github"
+    },
+    "28ee28cc295a9a74": {
+      "date": "2026-10-07",
+      "title": "Mistral Large 4",
+      "source": "hackernews"
+    },
+    "82daff4d034835dc": {
+      "date": "2026-10-07",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "source": "hackernews"
+    },
+    "97d1ddb511708196": {
+      "date": "2026-10-07",
+      "title": "Sharing AI progress in mathematics",
+      "source": "hackernews"
+    },
+    "ac70e0181fb601b8": {
+      "date": "2026-10-07",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "source": "hackernews"
+    },
+    "2b394de14f674391": {
+      "date": "2026-10-07",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "source": "hackernews"
+    },
+    "329dc33bb7e8d5ff": {
+      "date": "2026-10-07",
+      "title": "Decisions API is in public beta",
+      "source": "hackernews"
+    },
+    "b4ea01193c26016d": {
+      "date": "2026-10-07",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "source": "hackernews"
+    },
+    "466802ea2ebe0f96": {
+      "date": "2026-10-07",
+      "title": "State of Devs 2026 survey results: developers are exhausted",
+      "source": "hackernews"
+    },
+    "460e87c53d1406bd": {
+      "date": "2026-10-07",
+      "title": "Integer multiplication below n log n",
+      "source": "hackernews"
+    },
+    "2b200959c25eb87a": {
+      "date": "2026-10-07",
+      "title": "Fuse AI",
+      "source": "producthunt"
+    },
+    "539162db76de40ad": {
+      "date": "2026-10-07",
+      "title": "Customer Service AI for Etsy",
+      "source": "producthunt"
+    },
+    "96a82f0389ecd5e1": {
+      "date": "2026-10-07",
+      "title": "Chunk",
+      "source": "producthunt"
+    },
+    "21eda12b40489cc8": {
+      "date": "2026-10-07",
+      "title": "Rill Browser",
+      "source": "producthunt"
+    },
+    "b6083762a9364ab0": {
+      "date": "2026-10-07",
+      "title": "Brnch",
+      "source": "producthunt"
+    },
+    "29ba26e0adb53992": {
+      "date": "2026-10-07",
+      "title": "Cosmic AI Support Agent",
+      "source": "producthunt"
+    },
+    "6ab851d5d93f27fe": {
+      "date": "2026-10-07",
+      "title": "ruOS",
+      "source": "producthunt"
+    },
+    "8ed42408b18af15c": {
+      "date": "2026-10-07",
+      "title": "Scumble",
+      "source": "producthunt"
+    },
+    "4825aec882fff4b8": {
+      "date": "2026-10-07",
+      "title": "Your GitHub README Isn't a Profile. It's a Storefront. (Here Are the 5 Rules I Used",
+      "source": "devto"
+    },
+    "6cd7d52e161c8a76": {
+      "date": "2026-10-07",
+      "title": "Why Your TypeScript Code Still Crashes in Production",
+      "source": "devto"
+    },
+    "d1141fe291eba5f2": {
+      "date": "2026-10-07",
+      "title": "🌿 AI Nature Quest: I Built an AI That Wants You to Stop Using It",
+      "source": "devto"
+    },
+    "c66eff1dc2df4d21": {
+      "date": "2026-10-07",
+      "title": "Your AI Agent Will Do Something Terrible. Here's How to Survive It.",
+      "source": "devto"
+    },
+    "d1e94bc3618cd419": {
+      "date": "2026-10-07",
+      "title": "Redis vs Dragonfly: A Hands-On Comparison",
+      "source": "devto"
+    },
+    "b6e041909b29865a": {
+      "date": "2026-10-07",
+      "title": "Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second",
+      "source": "devto"
+    },
+    "eaaf1e3e94f3680d": {
+      "date": "2026-10-07",
+      "title": "Ontological Shock at Altitude",
+      "source": "devto"
+    },
+    "67b453024a33cdaf": {
+      "date": "2026-10-07",
+      "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
+      "source": "devto"
+    },
+    "9c3421f357861b3d": {
+      "date": "2026-10-07",
+      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
+      "source": "devto"
+    },
+    "f5df0f638ba19755": {
+      "date": "2026-10-07",
+      "title": "My OSS Projects: Netpack",
+      "source": "devto"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-10-07",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "0135e142dae80432": {
+      "date": "2026-10-07",
+      "title": "morluto / rea",
+      "source": "github"
+    },
+    "30d8214c97f5f5b2": {
+      "date": "2026-10-07",
+      "title": "deepseek-ai / DeepGEMM",
+      "source": "github"
+    },
+    "f0faec98f86e4fde": {
+      "date": "2026-10-07",
+      "title": "cathrynlavery / diagram-design",
       "source": "github"
     }
   }
