@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-07T01:46:57.254531",
+  "last_updated": "2026-10-08T02:14:45.644995",
   "sent_items": {
-    "47496228a4fc4e39": {
-      "date": "2026-09-07",
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "source": "hackernews"
-    },
-    "ca113981b2328a1b": {
-      "date": "2026-09-07",
-      "title": "WeatherNext 3",
-      "source": "hackernews"
-    },
-    "a7cdf5e2d7c4a03f": {
-      "date": "2026-09-07",
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "source": "hackernews"
-    },
-    "6b6cf87e682f5740": {
-      "date": "2026-09-07",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "source": "hackernews"
-    },
-    "9fa15a3694ebaeb8": {
-      "date": "2026-09-07",
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "source": "hackernews"
-    },
-    "fc549e1af5287cd1": {
-      "date": "2026-09-07",
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "source": "hackernews"
-    },
-    "bf58ee2be0000e36": {
-      "date": "2026-09-07",
-      "title": "Methods for Random Gradients (2024)",
-      "source": "hackernews"
-    },
-    "80496da130ba1e81": {
-      "date": "2026-09-07",
-      "title": "Show HN: Interactive Tree of Life",
-      "source": "hackernews"
-    },
-    "4b81d2c5643073a3": {
-      "date": "2026-09-07",
-      "title": "Macbeth and His Problems",
-      "source": "hackernews"
-    },
-    "952e2cc01bce5a9f": {
-      "date": "2026-09-07",
-      "title": "How to Scale an Engineering Team in 90 Days: A Practical Latam Playbook",
-      "source": "hackernews"
-    },
-    "17f71c7f049f1854": {
-      "date": "2026-09-07",
-      "title": "Assist",
-      "source": "producthunt"
-    },
-    "68d05165a213dce9": {
-      "date": "2026-09-07",
-      "title": "Airuncode",
-      "source": "producthunt"
-    },
-    "a36c40789e28544d": {
-      "date": "2026-09-07",
-      "title": "Clipnote",
-      "source": "producthunt"
-    },
-    "1c67076c2568fcb5": {
-      "date": "2026-09-07",
-      "title": "Scriptly",
-      "source": "producthunt"
-    },
-    "b9131afb81bf9b26": {
-      "date": "2026-09-07",
-      "title": "Remind",
-      "source": "producthunt"
-    },
-    "5d645167132c95a7": {
-      "date": "2026-09-07",
-      "title": "Tucky",
-      "source": "producthunt"
-    },
-    "6f26541ea061bb59": {
-      "date": "2026-09-07",
-      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
-      "source": "devto"
-    },
-    "f40e641f32567a41": {
-      "date": "2026-09-07",
-      "title": "Dozens of Resumes, One Call From an Old Colleague",
-      "source": "devto"
-    },
-    "4f88904a8c229a1d": {
-      "date": "2026-09-07",
-      "title": "Happen to Have? Answer One Before You Ask One",
-      "source": "devto"
-    },
-    "19fd19a3de671f14": {
-      "date": "2026-09-07",
-      "title": "ReachAloud: I built a multilingual voice tool that reads emergency alerts aloud for people who can't",
-      "source": "devto"
-    },
-    "e84251fd32e5552a": {
-      "date": "2026-09-07",
-      "title": "Charitas Clew: Bureaucracy is heavy. Let's build the counterweight.",
-      "source": "devto"
-    },
-    "326b93d002cedf14": {
-      "date": "2026-09-07",
-      "title": "Web Workers in JavaScript: The Complete Guide",
-      "source": "devto"
-    },
-    "dffaf0022f5557d3": {
-      "date": "2026-09-07",
-      "title": "The AI agent cost guides say $200 a month. Mine has cost $5.",
-      "source": "devto"
-    },
-    "191c0ff12599ef3b": {
-      "date": "2026-09-07",
-      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my",
-      "source": "devto"
-    },
-    "5d4cd5700dbbce65": {
-      "date": "2026-09-07",
-      "title": "Nobody Checks Whether the Guardrail Is Running",
-      "source": "devto"
-    },
-    "de147afc32b215ee": {
-      "date": "2026-09-07",
-      "title": "Mikono",
-      "source": "devto"
-    },
-    "1c708e2373cec766": {
-      "date": "2026-09-07",
-      "title": "heygen-com / hyperframes",
-      "source": "github"
-    },
-    "33054ecb8bf0f855": {
-      "date": "2026-09-07",
-      "title": "microsoft / markitdown",
-      "source": "github"
-    },
-    "1bcf0237559db521": {
-      "date": "2026-09-07",
-      "title": "mksglu / context-mode",
-      "source": "github"
-    },
-    "1fbaa3734f80967a": {
-      "date": "2026-09-07",
-      "title": "jo-inc / camofox-browser",
-      "source": "github"
-    },
-    "24c6bd1d49373135": {
-      "date": "2026-09-07",
-      "title": "MoonTechLab / LunaTV",
-      "source": "github"
-    },
-    "b78843cbbd770d80": {
-      "date": "2026-09-07",
-      "title": "The-Swarm-Corporation / AutoHedge",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-09-07",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
-    "3e5bc6114122e8e4": {
-      "date": "2026-09-07",
-      "title": "lightpanda-io / browser",
-      "source": "github"
-    },
-    "f3ea32c160be052c": {
-      "date": "2026-09-07",
-      "title": "pascalorg / editor",
-      "source": "github"
-    },
     "d9dc9aa87fd5c0c9": {
       "date": "2026-09-08",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
@@ -4945,6 +4770,156 @@
     "f0faec98f86e4fde": {
       "date": "2026-10-07",
       "title": "cathrynlavery / diagram-design",
+      "source": "github"
+    },
+    "4b5537308716f1d5": {
+      "date": "2026-10-08",
+      "title": "Margaret Hamilton has died",
+      "source": "hackernews"
+    },
+    "2cf28a1a9302bc8a": {
+      "date": "2026-10-08",
+      "title": "Claude Haiku 5.5",
+      "source": "hackernews"
+    },
+    "9a75e27349d9fab3": {
+      "date": "2026-10-08",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "source": "hackernews"
+    },
+    "fa10d31279182475": {
+      "date": "2026-10-08",
+      "title": "Shipping JPEG XL in Chrome",
+      "source": "hackernews"
+    },
+    "274e0b08f86022cb": {
+      "date": "2026-10-08",
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "source": "hackernews"
+    },
+    "9431d44978f11754": {
+      "date": "2026-10-08",
+      "title": "Docker Agent",
+      "source": "hackernews"
+    },
+    "89a3fcb5a4585702": {
+      "date": "2026-10-08",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "source": "hackernews"
+    },
+    "0f95f8e7b3fe02a2": {
+      "date": "2026-10-08",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "source": "hackernews"
+    },
+    "ecbe81e522692839": {
+      "date": "2026-10-08",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "source": "hackernews"
+    },
+    "9e7b27812fe1d2b7": {
+      "date": "2026-10-08",
+      "title": "Cleo (Mathematician)",
+      "source": "hackernews"
+    },
+    "37ab05dc840c66a5": {
+      "date": "2026-10-08",
+      "title": "IrisGo for Solopreneurs",
+      "source": "producthunt"
+    },
+    "ff6594c813123292": {
+      "date": "2026-10-08",
+      "title": "Figma Agent",
+      "source": "producthunt"
+    },
+    "6bd03d0b7e2c3d94": {
+      "date": "2026-10-08",
+      "title": "Reika",
+      "source": "producthunt"
+    },
+    "edc2c685c57a169d": {
+      "date": "2026-10-08",
+      "title": "Lofi Desk 2.0",
+      "source": "producthunt"
+    },
+    "be6ce62e6f3e7499": {
+      "date": "2026-10-08",
+      "title": "Proofsource",
+      "source": "producthunt"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-10-08",
+      "title": "Basedash Mobile",
+      "source": "producthunt"
+    },
+    "5375a50d2c47c7ea": {
+      "date": "2026-10-08",
+      "title": "Linda",
+      "source": "producthunt"
+    },
+    "3903ecbd93718f7d": {
+      "date": "2026-10-08",
+      "title": "Unprompt",
+      "source": "producthunt"
+    },
+    "8147512940a72563": {
+      "date": "2026-10-08",
+      "title": "I Think We're Forgetting How to Be Bored",
+      "source": "devto"
+    },
+    "3217347e41c4ce9e": {
+      "date": "2026-10-08",
+      "title": "Bash Isn't a Programming Language. It's a Text Substitution Engine.",
+      "source": "devto"
+    },
+    "d46ece4427cf332d": {
+      "date": "2026-10-08",
+      "title": "The job market is absolutely disgusting - I'm doing something about it!",
+      "source": "devto"
+    },
+    "685369b13ec2a69f": {
+      "date": "2026-10-08",
+      "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
+      "source": "devto"
+    },
+    "5febf32060d13f52": {
+      "date": "2026-10-08",
+      "title": "Single line CV",
+      "source": "devto"
+    },
+    "bbe3eab16db98f8e": {
+      "date": "2026-10-08",
+      "title": "I built an AI that only works when my phone is in my pocket",
+      "source": "devto"
+    },
+    "0dd8c656b44bcff1": {
+      "date": "2026-10-08",
+      "title": "Migrating a Real TypeScript OSS Library from tsup to tsdown",
+      "source": "devto"
+    },
+    "eb8e780b1f17a907": {
+      "date": "2026-10-08",
+      "title": "Touch Grass, Pack Your Docs: An Offline Coding Agent on a 4 GB Laptop GPU",
+      "source": "devto"
+    },
+    "13f63b300bb4e61a": {
+      "date": "2026-10-08",
+      "title": "What email APIs cost in 2026: 7 workloads priced on 6 providers",
+      "source": "devto"
+    },
+    "c9a39b9edf4714e0": {
+      "date": "2026-10-08",
+      "title": "Brunch Gem: Isolated Development Environments for Git Branches and Worktrees",
+      "source": "devto"
+    },
+    "c76be726818a083c": {
+      "date": "2026-10-08",
+      "title": "EpicGames / raddebugger",
+      "source": "github"
+    },
+    "0483299a7e22039b": {
+      "date": "2026-10-08",
+      "title": "manaflow-ai / cmux",
       "source": "github"
     }
   }
