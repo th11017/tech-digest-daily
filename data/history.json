@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-08T02:14:45.644995",
+  "last_updated": "2026-10-09T02:31:58.550808",
   "sent_items": {
-    "d9dc9aa87fd5c0c9": {
-      "date": "2026-09-08",
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "source": "hackernews"
-    },
-    "b4383194e44b1ecc": {
-      "date": "2026-09-08",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source": "hackernews"
-    },
-    "4208044b3e12d054": {
-      "date": "2026-09-08",
-      "title": "Google DeepMind Releases AlphaGenome Atlas",
-      "source": "hackernews"
-    },
-    "e031e020aa25c04c": {
-      "date": "2026-09-08",
-      "title": "DaVinci Resolve 21.1",
-      "source": "hackernews"
-    },
-    "4c568d6cded0f921": {
-      "date": "2026-09-08",
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "source": "hackernews"
-    },
-    "b09da4c7d840a8ae": {
-      "date": "2026-09-08",
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "source": "hackernews"
-    },
-    "851b4565b9f7f2eb": {
-      "date": "2026-09-08",
-      "title": "Mercury 2.5",
-      "source": "hackernews"
-    },
-    "8c42ca1f833d47f0": {
-      "date": "2026-09-08",
-      "title": "Animation in Bevy: The Big Picture",
-      "source": "hackernews"
-    },
-    "fd17cfecbc9665e6": {
-      "date": "2026-09-08",
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
-      "source": "hackernews"
-    },
-    "7107a2df334996e7": {
-      "date": "2026-09-08",
-      "title": "How to Build a Printer",
-      "source": "hackernews"
-    },
-    "44c4a60269678cc4": {
-      "date": "2026-09-08",
-      "title": "Jupitrr Cut",
-      "source": "producthunt"
-    },
-    "be9667dff98193fc": {
-      "date": "2026-09-08",
-      "title": "Knockin'",
-      "source": "producthunt"
-    },
-    "062ecbc56a3c5d87": {
-      "date": "2026-09-08",
-      "title": "Catenary",
-      "source": "producthunt"
-    },
-    "7086ecc66ffda31f": {
-      "date": "2026-09-08",
-      "title": "Kopai",
-      "source": "producthunt"
-    },
-    "266dec25f5d372f5": {
-      "date": "2026-09-08",
-      "title": "Tables.so",
-      "source": "producthunt"
-    },
-    "d5ca5f2e9379d6e0": {
-      "date": "2026-09-08",
-      "title": "Dictantor",
-      "source": "producthunt"
-    },
-    "d8d0a8b151b31dec": {
-      "date": "2026-09-08",
-      "title": "TapCraft",
-      "source": "producthunt"
-    },
-    "ddeb1a1100e1d55b": {
-      "date": "2026-09-08",
-      "title": "Most 'AI Agents' Are Just If-Statements in a Trench Coat",
-      "source": "devto"
-    },
-    "057629ebdce19831": {
-      "date": "2026-09-08",
-      "title": "Has AI Made You A Lazier Developer? Be Honest.",
-      "source": "devto"
-    },
-    "22ff900154751e60": {
-      "date": "2026-09-08",
-      "title": "🟣 Ever Fluorescent: Live Again!",
-      "source": "devto"
-    },
-    "3e722fae2c536191": {
-      "date": "2026-09-08",
-      "title": "Wiring a Reachy Mini into OpenClaw without trusting the robot",
-      "source": "devto"
-    },
-    "c45fcf782a35a5e2": {
-      "date": "2026-09-08",
-      "title": "Networking is Hard but easy to think about.",
-      "source": "devto"
-    },
-    "699d556c1da78dad": {
-      "date": "2026-09-08",
-      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
-      "source": "devto"
-    },
-    "8b43077627109789": {
-      "date": "2026-09-08",
-      "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternative Built for Scale",
-      "source": "devto"
-    },
-    "34debf9d32b3fcda": {
-      "date": "2026-09-08",
-      "title": "The Desktop Looked Right: 2,093 Parse Errors a Boot, and 10.9 Seconds That Weren't Doing Anything",
-      "source": "devto"
-    },
-    "67f830494c32bbc9": {
-      "date": "2026-09-08",
-      "title": "You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had",
-      "source": "devto"
-    },
-    "f8c2203e13187724": {
-      "date": "2026-09-08",
-      "title": "Future AWS Agent Engineer? I Didn't Write the Code. Does It Count?",
-      "source": "devto"
-    },
-    "ee7d6f2f5cec7fb9": {
-      "date": "2026-09-08",
-      "title": "ayghri / i-have-adhd",
-      "source": "github"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-09-08",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "2f48be63fe82be5d": {
-      "date": "2026-09-08",
-      "title": "browser-use / browser-use",
-      "source": "github"
-    },
-    "661963add6d5f89f": {
-      "date": "2026-09-08",
-      "title": "viarotel-org / escrcpy",
-      "source": "github"
-    },
     "9957c79ffef38007": {
       "date": "2026-09-09",
       "title": "Shopify acquires Tailwind",
@@ -4920,6 +4765,151 @@
     "0483299a7e22039b": {
       "date": "2026-10-08",
       "title": "manaflow-ai / cmux",
+      "source": "github"
+    },
+    "a1f51c8dbdf89fde": {
+      "date": "2026-10-09",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "source": "hackernews"
+    },
+    "3628e06215300f62": {
+      "date": "2026-10-09",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "source": "hackernews"
+    },
+    "4887d04a396239a0": {
+      "date": "2026-10-09",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "source": "hackernews"
+    },
+    "169a2bb9187f29ab": {
+      "date": "2026-10-09",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "source": "hackernews"
+    },
+    "efcafabf934524d1": {
+      "date": "2026-10-09",
+      "title": "Theranos.world",
+      "source": "hackernews"
+    },
+    "62967c66e8e87dfc": {
+      "date": "2026-10-09",
+      "title": "Yes, and",
+      "source": "hackernews"
+    },
+    "93af1446ea23bbfa": {
+      "date": "2026-10-09",
+      "title": "The value of not getting to the point (2015)",
+      "source": "hackernews"
+    },
+    "fa0444d05101d5b2": {
+      "date": "2026-10-09",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "source": "hackernews"
+    },
+    "3e9ddaecb35fdc23": {
+      "date": "2026-10-09",
+      "title": "Bevy 0.20",
+      "source": "hackernews"
+    },
+    "fd8c1faa9c6e825e": {
+      "date": "2026-10-09",
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "source": "hackernews"
+    },
+    "84fc43d27a65aab9": {
+      "date": "2026-10-09",
+      "title": "OpenSwarm",
+      "source": "producthunt"
+    },
+    "9fbdf4f6079626ab": {
+      "date": "2026-10-09",
+      "title": "OpenSEO",
+      "source": "producthunt"
+    },
+    "9b69b3f2a8144ee2": {
+      "date": "2026-10-09",
+      "title": "ClawCall",
+      "source": "producthunt"
+    },
+    "6e601b41c136dc27": {
+      "date": "2026-10-09",
+      "title": "pmtui",
+      "source": "producthunt"
+    },
+    "dbee14403e426cb1": {
+      "date": "2026-10-09",
+      "title": "SineFrame M3",
+      "source": "producthunt"
+    },
+    "76f39e2d5045e090": {
+      "date": "2026-10-09",
+      "title": "ProcBoss",
+      "source": "producthunt"
+    },
+    "7413299f0702932e": {
+      "date": "2026-10-09",
+      "title": "aegis",
+      "source": "producthunt"
+    },
+    "e19b7ca86d807c0c": {
+      "date": "2026-10-09",
+      "title": "Simple Workout Log",
+      "source": "producthunt"
+    },
+    "b686f62ff4dcc460": {
+      "date": "2026-10-09",
+      "title": "Every Software Developer Has Blamed…",
+      "source": "devto"
+    },
+    "0397ea6e7d17a318": {
+      "date": "2026-10-09",
+      "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
+      "source": "devto"
+    },
+    "51b253f690f4f8f3": {
+      "date": "2026-10-09",
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "source": "devto"
+    },
+    "307ee9eb88027674": {
+      "date": "2026-10-09",
+      "title": "To Retry or Not to Retry? That Is the Question.",
+      "source": "devto"
+    },
+    "72219e093582a69b": {
+      "date": "2026-10-09",
+      "title": "The September cut took 17% of my Claude Code week. Subagents were taking 48%.",
+      "source": "devto"
+    },
+    "c7a0a88ff14e7d32": {
+      "date": "2026-10-09",
+      "title": "My Problem With Omarchy Is What I Like About Arch",
+      "source": "devto"
+    },
+    "915bd8c576aa4bda": {
+      "date": "2026-10-09",
+      "title": "How to resolve merge conflicts in Git without guessing: markers, --ours/--theirs and the rebase flip",
+      "source": "devto"
+    },
+    "b1b37fd56989d77b": {
+      "date": "2026-10-09",
+      "title": "How Our Engineering Team Uses AI, Part II: Meat Proxies",
+      "source": "devto"
+    },
+    "6578beb168fad955": {
+      "date": "2026-10-09",
+      "title": "ParadeDB's pg_search 0.26 cuts a ten-term BM25 search from 129ms to 29ms",
+      "source": "devto"
+    },
+    "f98c4933584ae7a8": {
+      "date": "2026-10-09",
+      "title": "Polars 2.0: why joins no longer keep their row order",
+      "source": "devto"
+    },
+    "215181bb65bbddf0": {
+      "date": "2026-10-09",
+      "title": "storytold / artcraft",
       "source": "github"
     }
   }
