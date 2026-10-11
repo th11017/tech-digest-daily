@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-10T01:54:03.602423",
+  "last_updated": "2026-10-11T01:12:48.280757",
   "sent_items": {
     "1271c6f02490fc86": {
       "date": "2026-09-11",
@@ -4900,6 +4900,166 @@
     "9bd706031d13ed49": {
       "date": "2026-10-10",
       "title": "The Stack I'd Need for Claude to Direct a Whole YouTube Video in Blender",
+      "source": "devto"
+    },
+    "8234aa496dd9494a": {
+      "date": "2026-10-11",
+      "title": "Grieving the loss of details",
+      "source": "hackernews"
+    },
+    "73789dcd955d438a": {
+      "date": "2026-10-11",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "source": "hackernews"
+    },
+    "216c7fb388fd3f19": {
+      "date": "2026-10-11",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "source": "hackernews"
+    },
+    "3b26b6cce38601a9": {
+      "date": "2026-10-11",
+      "title": "Knuth reward check",
+      "source": "hackernews"
+    },
+    "b0895abf46a0ac8d": {
+      "date": "2026-10-11",
+      "title": "Nix wrote half of my debugger",
+      "source": "hackernews"
+    },
+    "c38dce413655d2c2": {
+      "date": "2026-10-11",
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "source": "hackernews"
+    },
+    "e0c967eeba62fb7c": {
+      "date": "2026-10-11",
+      "title": "Build your own decision model",
+      "source": "hackernews"
+    },
+    "023067b8df4da15d": {
+      "date": "2026-10-11",
+      "title": "Unikernels were hard. key word: were",
+      "source": "hackernews"
+    },
+    "4acb835ee9cc6b63": {
+      "date": "2026-10-11",
+      "title": "Getting old Macromedia Director Games to run on modern Hardware",
+      "source": "hackernews"
+    },
+    "e1e2a7a18b10f1e6": {
+      "date": "2026-10-11",
+      "title": "PixRater",
+      "source": "producthunt"
+    },
+    "fa9dbe49c645f2ca": {
+      "date": "2026-10-11",
+      "title": "Maildun for Mac",
+      "source": "producthunt"
+    },
+    "e650073096f63987": {
+      "date": "2026-10-11",
+      "title": "Cue",
+      "source": "producthunt"
+    },
+    "c082b788136b5674": {
+      "date": "2026-10-11",
+      "title": "Claude Dashboards & Motion",
+      "source": "producthunt"
+    },
+    "852cb5ee2fc68bbe": {
+      "date": "2026-10-11",
+      "title": "Notchzy",
+      "source": "producthunt"
+    },
+    "af3c4286502b5902": {
+      "date": "2026-10-11",
+      "title": "Isly",
+      "source": "producthunt"
+    },
+    "fdd4c5c5bd843fc2": {
+      "date": "2026-10-11",
+      "title": "Rank Kiwi",
+      "source": "producthunt"
+    },
+    "8534212efd30fdba": {
+      "date": "2026-10-11",
+      "title": "Underplane",
+      "source": "producthunt"
+    },
+    "1bcf0237559db521": {
+      "date": "2026-10-11",
+      "title": "mksglu / context-mode",
+      "source": "github"
+    },
+    "b68be267c74ad855": {
+      "date": "2026-10-11",
+      "title": "flutter / flutter",
+      "source": "github"
+    },
+    "26454b4b1f40da47": {
+      "date": "2026-10-11",
+      "title": "hugohe3 / ppt-master",
+      "source": "github"
+    },
+    "2d9028ec7d2d740c": {
+      "date": "2026-10-11",
+      "title": "pytorch / pytorch",
+      "source": "github"
+    },
+    "39ec5846ae4b9617": {
+      "date": "2026-10-11",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "source": "github"
+    },
+    "e391b09c49b414d9": {
+      "date": "2026-10-11",
+      "title": "What Do You Drink While You Work?",
+      "source": "devto"
+    },
+    "f495225317772d1a": {
+      "date": "2026-10-11",
+      "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
+      "source": "devto"
+    },
+    "94a01bfe792ef57c": {
+      "date": "2026-10-11",
+      "title": "Git Isn't a Diff Tracker: How Blobs, Trees, DAG Commits, and the Index Actually Work Under the Hood",
+      "source": "devto"
+    },
+    "fd9a621ecea23675": {
+      "date": "2026-10-11",
+      "title": "WildProof: Go Outside With a Question, Come Back With Evidence",
+      "source": "devto"
+    },
+    "0aca00bb404741c3": {
+      "date": "2026-10-11",
+      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
+      "source": "devto"
+    },
+    "2f7dba4e3d49e02b": {
+      "date": "2026-10-11",
+      "title": "Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has",
+      "source": "devto"
+    },
+    "343726c43d426d59": {
+      "date": "2026-10-11",
+      "title": "Surviving the 200k-Token Lobotomy: How Unix init.d and 'Memento' Made My AI Coding Agent Immune to C",
+      "source": "devto"
+    },
+    "5b0c1a1ee6c1d2e5": {
+      "date": "2026-10-11",
+      "title": "I Distilled a 397B Model Into a 4B One for $1.60. It Now Catches 28 of 33 Park Alerts That Should St",
+      "source": "devto"
+    },
+    "fd12fc5b5cc9b037": {
+      "date": "2026-10-11",
+      "title": "RevSofia, a Car Meetup app that people will love to use",
+      "source": "devto"
+    },
+    "314ae6c36380b2fa": {
+      "date": "2026-10-11",
+      "title": "I Built an AI Game That Wants You to Go Outside",
       "source": "devto"
     }
   }
